@@ -92,6 +92,26 @@ def child_text(el, *names):
     return ""
 
 
+def enclosure(el):
+    for c in el:
+        if local(c.tag) == "enclosure" and c.get("url"):
+            return c.get("url")
+    return ""
+
+
+def minutes(text):
+    """itunes:duration as whole minutes ('1:02:03', '25:10' or seconds)."""
+    t = (text or "").strip()
+    if not t:
+        return None
+    try:
+        parts = [int(float(p)) for p in t.split(":")]
+    except ValueError:
+        return None
+    secs = parts[0] if len(parts) == 1 else sum(p * 60 ** i for i, p in enumerate(reversed(parts)))
+    return max(1, round(secs / 60))
+
+
 def parse_feed(raw):
     root = ET.fromstring(raw)
     items = []
@@ -99,9 +119,10 @@ def parse_feed(raw):
         if local(el.tag) in ("item", "entry"):
             items.append({
                 "title": clean(child_text(el, "title")),
-                "link": (child_text(el, "link", "guid") or "").strip(),
+                "link": (child_text(el, "link") or enclosure(el) or child_text(el, "guid") or "").strip(),
                 "date": parse_date(child_text(el, "pubdate", "published", "updated", "date", "issued")),
                 "summary": clean(child_text(el, "description", "summary", "content", "encoded")),
+                "duration": minutes(child_text(el, "duration")),
             })
     return items
 
@@ -202,6 +223,7 @@ for f in feeds:
             store[key] = {
                 "title": it["title"], "link": it["link"], "date": d.isoformat(),
                 "summary": it["summary"][:SUMMARY_CHARS], "source": f["name"], "group": f["group"],
+                "duration": it.get("duration"),
                 "first_seen": NOW.isoformat(),
             }
             kept += 1
@@ -217,7 +239,7 @@ store_path.write_text(json.dumps(store, indent=1, ensure_ascii=False))
 # build digest
 GROUPS = [("toronto", "City of Toronto"), ("government", "Government"), ("news", "News"),
           ("fire_ems", "Fire service"), ("insurance", "Insurance and finance"),
-          ("policy_tech", "Policy, technology and communications"), ("agencies", "Agencies and research centres"), ("journals", "New journal articles")]
+          ("policy_tech", "Policy, technology and communications"), ("agencies", "Agencies and research centres"), ("journals", "New journal articles"), ("podcasts", "Podcasts")]
 known = {g for g, _ in GROUPS}
 for g in sorted({f["group"] for f in feeds} - known):   # any new group you invent gets its own section
     GROUPS.append((g, g.replace("_", " ").title()))
@@ -229,7 +251,7 @@ def write_digest(fname, days, per_source, summary_chars, title, note, per_group=
     recent.sort(key=lambda v: v["date"], reverse=True)
     lines = [f"# {title} · generated {NOW:%Y-%m-%d %H:%M} UTC", note, ""]
     for g, label in GROUPS:
-        if summary_chars is None and g == "journals":
+        if (summary_chars is None and g == "journals") or g == "podcasts":
             continue
         rows = [v for v in recent if v["group"] == g]
         if not rows:
@@ -257,6 +279,20 @@ write_digest("daily.md", 2, 3, None, "Daily feed digest",
 # weekly: last 8 days, short summaries, journals as titles only
 write_digest("weekly.md", 8, 5, 100, "Weekly feed digest",
              "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.", per_group=25)
+# podcasts: last 14 days of episodes from Aayush's subscriptions, with length
+pods = [v for v in store.values() if v["group"] == "podcasts" and parse_date(v["date"]) >= NOW - dt.timedelta(days=14)]
+pods.sort(key=lambda v: v["date"], reverse=True)
+pl = [f"# Podcast episodes · generated {NOW:%Y-%m-%d %H:%M} UTC",
+      "Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.", ""]
+seen = {}
+for v in pods:
+    seen[v["source"]] = seen.get(v["source"], 0) + 1
+    if seen[v["source"]] > 3:
+        continue
+    ln = f"{v['duration']} min" if v.get("duration") else "length ?"
+    pl.append(f"- {v['date'][:10]} · {v['source']} · {ln} · {v['title']} · {v['link']} — {v['summary'][:120]}")
+(DIGEST / "podcasts.md").write_text("\n".join(pl) + "\n")
+
 # keep latest.md as a copy of weekly for anything still pointing at it
 (DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())
 

@@ -71,3 +71,18 @@ Environmental Hazards,https://api.crossref.org/journals/1747-7891/works?sort=cre
 Disaster Medicine and Public Health Preparedness,https://api.crossref.org/journals/1935-7893/works?sort=created&order=desc&rows=25,journals,crossref-filter
 Journal of Risk Research,https://api.crossref.org/journals/1366-9877/works?sort=created&order=desc&rows=25,journals,crossref-filter
 Weather Climate and Society,https://api.crossref.org/journals/1948-8327/works?sort=created&order=desc&rows=25,journals,crossref-filter
+
+# --- podcasts: Aayush's Apple Podcasts subscriptions (added 2 Oct 2026) ---
+Better Every Shift (FireRescue1),https://feed.podbean.com/sidealpha/feed.xml,podcasts,no
+Disaster Zone,https://www.spreaker.com/show/6208902/episodes/feed,podcasts,no
+Disasters: Deconstructed,https://feed.podbean.com/disastersdecon/feed.xml,podcasts,no
+Electric Cities (ULI Toronto),https://feed.podbean.com/ulitoronto/feed.xml,podcasts,no
+Emergency Preparedness in Canada (EPIC),https://feeds.soundcloud.com/users/soundcloud:users:252268684/sounds.rss,podcasts,no
+Front Burner (CBC),https://www.cbc.ca/podcasting/includes/frontburner.xml,podcasts,no
+MW Shares (Municipal World),https://www.municipalworld.com/podcast-channels/mw-shares/feed/,podcasts,no
+Power & Politics (CBC),https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml,podcasts,no
+Risk REconsidered (Swiss Re),https://rss.libsyn.com/shows/540792/destinations/4660057.xml,podcasts,no
+Smart Firefighting,https://feed.podbean.com/SmartFirefighting/feed.xml,podcasts,no
+The Climate Question (BBC),https://podcasts.files.bbci.co.uk/w13xtvb6.rss,podcasts,no
+The Emergency Management Network Podcast,https://api.substack.com/feed/podcast/577776.rss,podcasts,no
+# CityScape: several shows share this name; add the right feed here

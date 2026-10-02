@@ -1,4 +1,4 @@
-# Daily feed digest · generated 2026-10-02 13:04 UTC
+# Daily feed digest · generated 2026-10-02 13:47 UTC
 Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -14,6 +14,7 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-09-30 · Public Safety Canada · Minister Anandasangaree highlights in Stoney Creek new Productivity Mega Deduction to help businesses invest, grow and create jobs in Canada · https://www.canada.ca/en/public-safety-canada/news/2026/09/minister-anandasangaree-highlights-in-stoney-creek-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html
 
 ## News
+- 2026-10-02 · Google News: urban search and rescue · From Highland Towers tragedy to global rescue benchmark: Inside Malaysia’s SMART team - Malay Mail · https://www.malaymail.com/news/life/2026/10/02/from-highland-towers-tragedy-to-global-rescue-benchmark-inside-malaysias-smart-team/237378
 - 2026-10-02 · Google News: emergency management Canada · Tenney, Eldridge honored at Ontario GOP dinner - Finger Lakes Times · https://www.fltimes.com/news/canandaigua/tenney-eldridge-honored-at-ontario-gop-dinner/article_10eb8da0-dc91-470c-99dc-af84e7297aed.html
 - 2026-10-02 · Google News: disaster insurance Canada · Hilary Duff steps into the world of Dr. Seuss on new song CATastrophe - Yahoo News UK · https://uk.news.yahoo.com/hilary-duff-steps-world-dr-103000868.html
 - 2026-10-02 · Google News: wildfire flood Canada · Upgraded alerts system launched for flood-threatened Borders - Yahoo News Canada · https://ca.news.yahoo.com/upgraded-alerts-system-launched-flood-083704054.html
@@ -23,7 +24,6 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-02 · Google News: lithium-ion fire Canada · 'Growing Risk: State Fire Marshal sounds alarm about lithium-ion batteries - polkio.com · https://www.polkio.com/news/growing-risk-state-fire-marshal-sounds-alarm-about-lithium-ion-batteries/article_ac48e336-5e56-5b0f-8814-585f4055c442.html
 - 2026-10-02 · Google News: lithium-ion fire Canada · 'Growing Risk: State Fire Marshal sounds alarm about lithium-ion batteries - Polk County Itemizer-Observer · https://www.polkio.com/news/growing-risk-state-fire-marshal-sounds-alarm-about-lithium-ion-batteries/article_ac48e336-5e56-5b0f-8814-585f4055c442.html
 - 2026-10-02 · Google News: disaster insurance Canada · BIBA and Mi Specialty flood scheme marks 10 years with £9m paid in claims - Insurance Business · https://www.insurancebusinessmag.com/uk/news/catastrophe/biba-and-mi-specialty-flood-scheme-marks-10-years-with-9m-paid-in-claims-592061.aspx
-- 2026-10-02 · Google News: emergency management Canada · Flooding across Kansas prompts emergency management crews to mitigate, prepare - yahoo.com · https://www.yahoo.com/news/weather-news/articles/flooding-across-kansas-prompts-emergency-041158313.html
 
 ## Fire service
 - 2026-10-02 · Firehouse · Man Charged with Stealing Brass Valves from 43 St. Louis Hydrants · https://www.firehouse.com/community-risk/investigation-equipment/video/55409237/man-charged-with-stealing-brass-valves-from-43-hydrants-in-st-louis
@@ -36,16 +36,16 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-02 · Artemis (cat bonds) · NA commercial property insurance rates fall the most in a decade, hard market reverses: Willis · https://www.artemis.bm/news/na-commercial-property-insurance-rates-fall-the-most-in-a-decade-hard-market-reverses-willis/?utm_source=rss&utm_medium=rss&utm_campaign=na-commercial-property-insurance-rates-fall-the-most-in-a-decade-hard-market-reverses-willis
 
 ## Policy, technology and communications
+- 2026-10-02 · Google News: public safety communications · Telecom operators win contract for new Swedish emergency communications network - marketscreener.com · https://www.marketscreener.com/news/telecom-operators-win-contract-for-new-swedish-emergency-communications-network-ce785ddad08bf325
 - 2026-10-02 · Google News: public alerting · Emanuel County officials launch new emergency alert system - WRDW · https://www.wrdw.com/2026/10/02/emanuel-county-officials-launch-new-emergency-alert-system/
 - 2026-10-02 · Google News: public alerting · "Breaching Until It Finds a Way"... Banks Go on Emergency Alert One After Another - news.sbs.co.kr · https://news.sbs.co.kr/english/article.do?news_id=N1008781358
 - 2026-10-02 · Google News: resilience policy Canada · Beyond inclusion: Indigenous knowledge, food and water security, and climate resilience - Open Access Government · https://www.openaccessgovernment.org/article/beyond-inclusion-indigenous-knowledge-food-and-water-security-and-climate-resilience/215001/
 - 2026-10-02 · Google News: resilience policy Canada · Beyond inclusion: Indigenous knowledge, food and water security, and climate resilience - openaccessgovernment.org · https://www.openaccessgovernment.org/article/beyond-inclusion-indigenous-knowledge-food-and-water-security-and-climate-resilience/215001/
 - 2026-10-02 · Google News: emergency tech and AI · National Assessment Finds Most Local Emergency Management Agencies Operate With One Staff Member or Less - Homeland Security Today · https://www.hstoday.us/subject-matter-areas/emergency-preparedness/national-assessment-finds-most-local-emergency-management-agencies-operate-with-one-staff-member-or-less/
 - 2026-10-02 · Google News: public safety communications · STV Completes Norcross Public Safety Building in Georgia - Construction Owners · https://www.constructionowners.com/news/stv-completes-norcross-public-safety-building-in-georgia
+- 2026-10-02 · Google News: public safety communications · STV Completes Norcross Public Safety Building in Georgia - constructionowners.com · https://www.constructionowners.com/news/stv-completes-norcross-public-safety-building-in-georgia
 - 2026-10-02 · Google News: emergency tech and AI · Two major Kyiv bridges shut after Russian drone strikes - The New Indian Express · https://www.newindianexpress.com/world/2026/Oct/02/two-major-kyiv-bridges-shut-after-russian-drone-strikes
 - 2026-10-02 · Google News: resilience policy Canada · Call for Proposals: Gender Responsive Disaster Risk Reduction in Bangladesh (GRDRRIB) - fundsforNGOs · https://www2.fundsforngos.org/civil-society-development/call-for-proposals-gender-responsive-disaster-risk-reduction-in-bangladesh-2/
-- 2026-10-02 · Google News: public alerting · Emirates flight EK31 Dubai-London diverts after 7700 emergency alert: What happened onboard - gulfnews.com · https://gulfnews.com/business/aviation/emirates-flight-ek31-dubai-london-diverts-after-7700-emergency-alert-details-inside-1.500695629
-- 2026-10-02 · Google News: emergency tech and AI · Ulsan Firefighters Track Dropped Call, Rescue Teen in Crisis - Seoul Economic Daily · https://en.sedaily.com/society/2026/10/02/ulsan-firefighters-track-dropped-call-rescue-teen-in-crisis
 
 ## Agencies and research centres
 - 2026-10-02 · GDACS orange and red alerts · Green earthquake (Magnitude 5M, Depth:38.25km) in Papua New Guinea 02/10/2026 11:14 UTC, 200 thousand in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569080

@@ -1,4 +1,4 @@
-# Feed status · 2026-10-02 13:04 UTC · 67/68 feeds working
+# Feed status · 2026-10-02 13:47 UTC · 79/80 feeds working
 
 | Feed | Status | Items in feed | New items kept |
 |---|---|---|---|
@@ -14,23 +14,23 @@
 | CBC Canada | ok | 20 | 0 |
 | Global News Toronto | ok | 10 | 0 |
 | Global News Canada | ok | 10 | 0 |
-| CTV News Toronto (via Google News) | ok | 10 | 1 |
+| CTV News Toronto (via Google News) | ok | 10 | 0 |
 | Toronto Star GTA | ok | 50 | 0 |
 | Canadian Press via Newswire (Canada) | ok | 20 | 0 |
-| Google News: Toronto fire | ok | 9 | 0 |
-| Google News: lithium-ion fire Canada | ok | 10 | 3 |
+| Google News: Toronto fire | ok | 8 | 0 |
+| Google News: lithium-ion fire Canada | ok | 10 | 0 |
 | Google News: 9-1-1 Canada | ok | 10 | 0 |
-| Google News: emergency management Canada | ok | 10 | 5 |
-| Google News: wildfire flood Canada | ok | 10 | 2 |
-| Google News: Ontario fire marshal | ok | 9 | 4 |
-| Google News: urban search and rescue | ok | 10 | 0 |
+| Google News: emergency management Canada | ok | 10 | 1 |
+| Google News: wildfire flood Canada | ok | 10 | 0 |
+| Google News: Ontario fire marshal | ok | 9 | 1 |
+| Google News: urban search and rescue | ok | 10 | 2 |
 | Google News: disaster insurance Canada | ok | 10 | 0 |
-| Firefighting in Canada | FAILED: HTTPError HTTP Error 429: Too Many Requests | 0 | 0 |
+| Firefighting in Canada | ok | 10 | 0 |
 | Canadian Underwriter (via Google News) | ok | 10 | 0 |
 | Artemis (cat bonds) | ok | 10 | 0 |
 | NIST news | ok | 40 | 0 |
 | UL FSRI (via Google News) | ok | 3 | 0 |
-| NFPA (via Google News) | ok | 10 | 1 |
+| NFPA (via Google News) | ok | 10 | 0 |
 | USFA (via Google News) | ok | 1 | 0 |
 | PreventionWeb | ok | 40 | 0 |
 | Urgent Communications (via Google News) | ok | 2 | 0 |
@@ -49,15 +49,15 @@
 | Natural Hazards Review | ok | 5 | 0 |
 | Emergency Management magazine (GovTech) | ok | 10 | 0 |
 | The Conversation Canada: natural disasters | ok | 25 | 0 |
-| Google News: community risk assessment | ok | 7 | 0 |
+| Google News: community risk assessment | ok | 7 | 1 |
 | Google News: public alerting | ok | 10 | 0 |
-| Google News: public safety communications | ok | 10 | 0 |
-| Google News: emergency tech and AI | ok | 10 | 0 |
-| Google News: resilience policy Canada | ok | 9 | 4 |
+| Google News: public safety communications | ok | 10 | 3 |
+| Google News: emergency tech and AI | ok | 10 | 1 |
+| Google News: resilience policy Canada | ok | 10 | 2 |
 | NENA (via Google News) | ok | 10 | 0 |
 | EENA (via Google News) | ok | 1 | 0 |
 | FEMA (via Google News) | ok | 10 | 0 |
-| Domestic Preparedness (via Google News) | ok | 2 | 0 |
+| Domestic Preparedness (via Google News) | ok | 3 | 0 |
 | ICLR (via Google News) | ok | 0 | 0 |
 | Canadian Red Cross (via Google News) | ok | 2 | 0 |
 | GDACS orange and red alerts | ok | 80 | 0 |
@@ -70,3 +70,15 @@
 | Disaster Medicine and Public Health Preparedness | ok | 25 | 0 |
 | Journal of Risk Research | ok | 25 | 0 |
 | Weather Climate and Society | ok | 25 | 1 |
+| Better Every Shift (FireRescue1) | ok | 323 | 3 |
+| Disaster Zone | ok | 253 | 1 |
+| Disasters: Deconstructed | ok | 100 | 0 |
+| Electric Cities (ULI Toronto) | ok | 47 | 0 |
+| Emergency Preparedness in Canada (EPIC) | ok | 89 | 0 |
+| Front Burner (CBC) | ok | 2158 | 16 |
+| MW Shares (Municipal World) | ok | 46 | 1 |
+| Power & Politics (CBC) | ok | 68 | 18 |
+| Risk REconsidered (Swiss Re) | ok | 7 | 0 |
+| Smart Firefighting | ok | 341 | 5 |
+| The Climate Question (BBC) | ok | 316 | 3 |
+| The Emergency Management Network Podcast | FAILED: HTTPError HTTP Error 403: Forbidden | 0 | 0 |

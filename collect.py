@@ -223,7 +223,7 @@ for g in sorted({f["group"] for f in feeds} - known):   # any new group you inve
     GROUPS.append((g, g.replace("_", " ").title()))
 
 
-def write_digest(fname, days, per_source, summary_chars, title, note):
+def write_digest(fname, days, per_source, summary_chars, title, note, per_group=999):
     window = NOW - dt.timedelta(days=days)
     recent = [v for v in store.values() if parse_date(v["date"]) >= window and parse_date(v["date"]) <= NOW + dt.timedelta(days=1)]
     recent.sort(key=lambda v: v["date"], reverse=True)
@@ -235,8 +235,10 @@ def write_digest(fname, days, per_source, summary_chars, title, note):
         if not rows:
             continue
         lines.append(f"## {label}")
-        count = {}
+        count, shown = {}, 0
         for v in rows:
+            if shown >= per_group:
+                break
             count[v["source"]] = count.get(v["source"], 0) + 1
             if count[v["source"]] > per_source:
                 continue
@@ -244,16 +246,17 @@ def write_digest(fname, days, per_source, summary_chars, title, note):
             if summary_chars and g != "journals" and v["summary"]:
                 s = " — " + v["summary"][:summary_chars]
             lines.append(f"- {v['date'][:10]} · {v['source']} · {v['title']} · {v['link']}{s}")
+            shown += 1
         lines.append("")
     (DIGEST / fname).write_text("\n".join(lines))
 
 
 # daily: last ~2 days, headlines only, no journals
 write_digest("daily.md", 2, 3, None, "Daily feed digest",
-             "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.")
+             "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.", per_group=10)
 # weekly: last 8 days, short summaries, journals as titles only
 write_digest("weekly.md", 8, 5, 100, "Weekly feed digest",
-             "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.")
+             "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.", per_group=25)
 # keep latest.md as a copy of weekly for anything still pointing at it
 (DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())
 

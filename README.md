@@ -1,2 +1,27 @@
-# sub-feeds
-Interesting feeds
+# Field feeds
+
+Collects the feeds behind Aayush's daily and weekly briefings into one short digest, every morning at about 6:15 Toronto time, on GitHub's servers.
+
+## Add, change or remove a feed
+1. Open **feeds.csv** in this repository and click the pencil icon (Edit). This works in the GitHub app too.
+2. Add one line per feed:
+   `Name,https://feed-url,group,filter`
+   - **group**: where it appears in the digest. Use `toronto`, `government`, `news`, `fire_ems`, `insurance`, `agencies` or `journals`, or invent a new one (e.g. `podcasts`) and it gets its own section.
+   - **filter**: `yes` keeps only items that match a keyword in keywords.txt (use for busy feeds like CBC); `no` keeps everything (use for focused feeds like a fire journal).
+   - If a name contains a comma, put it in "double quotes".
+3. Click **Commit changes**. The next morning's run picks it up.
+4. To pause a feed without deleting it, put `#` at the start of its line.
+
+Example:
+`Ontario Fire Marshal news,https://example.ca/ofm/feed,government,no`
+
+To test right away: **Actions → Collect feeds → Run workflow**, then open **digest/status.md** to check the new feed shows `ok`.
+
+## Keywords
+**keywords.txt** has one word or phrase per line. Keep it focused: broad words like "risk" or "data" pull in noise and make the briefings cost more to read.
+
+## Files
+- `collect.py`: the collector (standard-library Python).
+- `digest/latest.md`: the digest the briefings read.
+- `digest/status.md`: which feeds worked on the last run.
+- `digest/items.json`: rolling 21-day store used to avoid repeats.

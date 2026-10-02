@@ -1,0 +1,66 @@
+# One keyword or phrase per line (not case-sensitive). Used for feeds marked filter = yes.
+fire
+firefight
+fire marshal
+arson
+smoke alarm
+explosion
+lithium
+e-bike
+e-scooter
+battery storage
+energy storage
+thermal runaway
+emergency management
+state of emergency
+disaster
+evacuat
+hazard
+resilien
+preparedness
+mitigation
+flood
+wildfire
+forest fire
+tornado
+hurricane
+extreme heat
+heat warning
+drought
+earthquake
+landslide
+ice storm
+power outage
+blackout
+9-1-1
+911
+ng9-1-1
+ng911
+dispatch
+alert ready
+emergency alert
+crtc
+psap
+search and rescue
+husar
+insarag
+paramedic
+first responder
+mass casualty
+hazmat
+chemical spill
+derail
+insured loss
+catastrophe
+cat bond
+parametric
+flood insurance
+sendai
+undrr
+climate adaptation
+emergency data
+cyberattack
+ransomware
+community risk
+building code
+fire code

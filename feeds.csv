@@ -1,0 +1,50 @@
+name,url,group,filter
+City of Toronto news,https://www.toronto.ca/news/feed/,toronto,no
+Toronto Open Data (recently updated),https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_modified%20desc&rows=40,toronto,ckan
+Toronto Open Data (newest datasets),https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20,toronto,ckan
+Ontario Newsroom,https://news.ontario.ca/en/feed,government,yes
+Public Safety Canada,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&pick=30&format=atom,government,no
+Health Canada,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=healthcanada&sort=publishedDate&orderBy=desc&pick=30&format=atom,government,yes
+CRTC,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianradiotelevisionandtelecommunicationscommission&sort=publishedDate&orderBy=desc&pick=30&format=atom,government,no
+Environment and Climate Change Canada,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=environmentandclimatechangecanada&sort=publishedDate&orderBy=desc&pick=30&format=atom,government,yes
+Natural Resources Canada,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=naturalresourcescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom,government,yes
+Indigenous Services Canada,https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom,government,yes
+CBC Toronto,https://www.cbc.ca/webfeed/rss/rss-canada-toronto,news,yes
+CBC Canada,https://www.cbc.ca/webfeed/rss/rss-canada,news,yes
+Global News Toronto,https://globalnews.ca/toronto/feed/,news,yes
+Global News Canada,https://globalnews.ca/canada/feed/,news,yes
+CTV News Toronto,https://toronto.ctvnews.ca/rss/ctv-news-toronto-1.822319,news,yes
+Toronto Star GTA,https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc,news,yes
+Canadian Press via Newswire (Canada),https://www.newswire.ca/rss/news-releases-list.rss,news,yes
+Google News: Toronto fire,https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Google News: lithium-ion fire Canada,https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Google News: 9-1-1 Canada,https://news.google.com/rss/search?q=(%22NG9-1-1%22+OR+%229-1-1%22+OR+%22911+outage%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Google News: emergency management Canada,https://news.google.com/rss/search?q=%22emergency+management%22+(Ontario+OR+Canada)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Google News: wildfire flood Canada,https://news.google.com/rss/search?q=(wildfire+OR+flood+OR+evacuation)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,yes
+Google News: Ontario fire marshal,https://news.google.com/rss/search?q=%22fire+marshal%22+Ontario+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Google News: urban search and rescue,https://news.google.com/rss/search?q=(%22urban+search+and+rescue%22+OR+HUSAR+OR+INSARAG)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Google News: disaster insurance Canada,https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+catastrophe)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en,news,no
+Firefighting in Canada,https://www.firefightingincanada.com/feed/,fire_ems,no
+Canadian Underwriter,https://www.canadianunderwriter.ca/feed/,insurance,yes
+Artemis (cat bonds),https://www.artemis.bm/feed/,insurance,yes
+NIST news,https://www.nist.gov/news-events/news/rss.xml,agencies,yes
+UL FSRI,https://fsri.org/rss.xml,agencies,no
+NFPA news,https://www.nfpa.org/rss/news,agencies,no
+USFA news,https://www.usfa.fema.gov/rss/news.xml,agencies,no
+PreventionWeb news,https://www.preventionweb.net/rss/news.xml,agencies,no
+ReliefWeb disasters,https://reliefweb.int/disasters/rss.xml,agencies,no
+Urgent Communications (911),https://urgentcomm.com/feed/,agencies,yes
+Natural Hazards Center,https://hazards.colorado.edu/rss.xml,agencies,no
+IJDRR,https://rss.sciencedirect.com/publication/science/22124209,journals,no
+Fire Safety Journal,https://rss.sciencedirect.com/publication/science/03797112,journals,no
+Safety Science,https://rss.sciencedirect.com/publication/science/09257535,journals,yes
+Journal of Energy Storage,https://rss.sciencedirect.com/publication/science/2352152X,journals,yes
+Disasters,https://onlinelibrary.wiley.com/feed/14677717/most-recent,journals,no
+Risk Analysis,https://onlinelibrary.wiley.com/feed/15396924/most-recent,journals,no
+Journal of Contingencies and Crisis Management,https://onlinelibrary.wiley.com/feed/14685973/most-recent,journals,no
+Fire Technology,https://link.springer.com/search.rss?facet-journal-id=10694&facet-content-type=Article,journals,no
+Natural Hazards,https://link.springer.com/search.rss?facet-journal-id=11069&facet-content-type=Article,journals,yes
+International Journal of Disaster Risk Science,https://link.springer.com/search.rss?facet-journal-id=13753&facet-content-type=Article,journals,no
+MDPI Fire,https://www.mdpi.com/rss/journal/fire,journals,no
+Prehospital Emergency Care,https://www.tandfonline.com/feed/rss/ipec20,journals,yes
+Natural Hazards Review,https://ascelibrary.org/action/showFeed?type=etoc&feed=rss&jc=nhrefo,journals,no

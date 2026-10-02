@@ -1,0 +1,28 @@
+name: Collect feeds
+
+on:
+  schedule:
+    - cron: "15 10 * * *"   # 10:15 UTC = 6:15 am Toronto (EDT) / 5:15 am (EST)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect
+        run: python collect.py
+      - name: Commit digest
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add digest
+          git diff --cached --quiet || git commit -m "Update feed digest $(date -u +%Y-%m-%d)"
+          git push

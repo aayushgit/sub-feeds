@@ -1,4 +1,4 @@
-# Feed status · 2026-10-02 12:23 UTC · 45/45 feeds working
+# Feed status · 2026-10-02 12:26 UTC · 45/45 feeds working
 
 | Feed | Status | Items in feed | New items kept |
 |---|---|---|---|
@@ -14,23 +14,23 @@
 | CBC Canada | ok | 20 | 1 |
 | Global News Toronto | ok | 10 | 1 |
 | Global News Canada | ok | 10 | 1 |
-| CTV News Toronto (via Google News) | ok | 100 | 9 |
+| CTV News Toronto (via Google News) | ok | 10 | 1 |
 | Toronto Star GTA | ok | 50 | 2 |
-| Canadian Press via Newswire (Canada) | ok | 20 | 1 |
+| Canadian Press via Newswire (Canada) | ok | 20 | 0 |
 | Google News: Toronto fire | ok | 8 | 8 |
-| Google News: lithium-ion fire Canada | ok | 46 | 43 |
-| Google News: 9-1-1 Canada | ok | 14 | 14 |
-| Google News: emergency management Canada | ok | 42 | 42 |
-| Google News: wildfire flood Canada | ok | 50 | 46 |
+| Google News: lithium-ion fire Canada | ok | 10 | 10 |
+| Google News: 9-1-1 Canada | ok | 10 | 10 |
+| Google News: emergency management Canada | ok | 10 | 10 |
+| Google News: wildfire flood Canada | ok | 10 | 9 |
 | Google News: Ontario fire marshal | ok | 9 | 9 |
-| Google News: urban search and rescue | ok | 16 | 16 |
-| Google News: disaster insurance Canada | ok | 56 | 53 |
+| Google News: urban search and rescue | ok | 10 | 10 |
+| Google News: disaster insurance Canada | ok | 10 | 10 |
 | Firefighting in Canada | ok | 10 | 10 |
-| Canadian Underwriter (via Google News) | ok | 53 | 2 |
+| Canadian Underwriter (via Google News) | ok | 10 | 0 |
 | Artemis (cat bonds) | ok | 10 | 10 |
 | NIST news | ok | 40 | 0 |
 | UL FSRI (via Google News) | ok | 3 | 3 |
-| NFPA (via Google News) | ok | 29 | 20 |
+| NFPA (via Google News) | ok | 10 | 10 |
 | USFA (via Google News) | ok | 1 | 1 |
 | PreventionWeb | ok | 40 | 28 |
 | Urgent Communications (via Google News) | ok | 2 | 0 |

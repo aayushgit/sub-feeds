@@ -35,8 +35,9 @@ def load_feeds():
             continue
         flt = (r.get("filter") or "no").strip().lower()
         kind = "ckan" if flt == "ckan" else "crossref" if flt.startswith("crossref") else "feed"
+        terms = [t.strip() for t in flt[6:].split("|") if t.strip()] if flt.startswith("match:") else None
         out.append({"name": name, "url": url, "group": (r.get("group") or "other").strip().lower() or "other",
-                    "filter": flt in ("yes", "y", "true", "1", "crossref-filter"), "type": kind})
+                    "filter": flt in ("yes", "y", "true", "1", "crossref-filter"), "terms": terms, "type": kind})
     return out
 
 
@@ -188,6 +189,8 @@ for f in feeds:
                 continue
             if f.get("filter") and not matches(it):
                 continue
+            if f.get("terms") and not any(t in (it["title"] + " " + it["summary"]).lower() for t in f["terms"]):
+                continue
             d = it["date"] or NOW
             if (NOW - d).days > KEEP_DAYS:
                 continue
@@ -214,7 +217,7 @@ store_path.write_text(json.dumps(store, indent=1, ensure_ascii=False))
 # build digest
 GROUPS = [("toronto", "City of Toronto"), ("government", "Government"), ("news", "News"),
           ("fire_ems", "Fire service"), ("insurance", "Insurance and finance"),
-          ("agencies", "Agencies and research centres"), ("journals", "New journal articles")]
+          ("policy_tech", "Policy, technology and communications"), ("agencies", "Agencies and research centres"), ("journals", "New journal articles")]
 known = {g for g, _ in GROUPS}
 for g in sorted({f["group"] for f in feeds} - known):   # any new group you invent gets its own section
     GROUPS.append((g, g.replace("_", " ").title()))
@@ -249,7 +252,7 @@ def write_digest(fname, days, per_source, summary_chars, title, note):
 write_digest("daily.md", 2, 3, None, "Daily feed digest",
              "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.")
 # weekly: last 8 days, short summaries, journals as titles only
-write_digest("weekly.md", 8, 6, 120, "Weekly feed digest",
+write_digest("weekly.md", 8, 5, 100, "Weekly feed digest",
              "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.")
 # keep latest.md as a copy of weekly for anything still pointing at it
 (DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())

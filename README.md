@@ -6,9 +6,9 @@ Collects the feeds behind Aayush's daily and weekly briefings into one short dig
 1. Open **feeds.csv** in this repository and click the pencil icon (Edit). This works in the GitHub app too.
 2. Add one line per feed:
    `Name,https://feed-url,group,filter`
-   - **group**: where it appears in the digest. Use `toronto`, `government`, `news`, `fire_ems`, `insurance`, `agencies` or `journals`, or invent a new one (e.g. `podcasts`) and it gets its own section.
+   - **group**: where it appears in the digest. Use `toronto`, `government`, `news`, `fire_ems`, `insurance`, `policy_tech`, `agencies` or `journals`, or invent a new one (e.g. `podcasts`) and it gets its own section.
    - **filter**: `yes` keeps only items that match a keyword in keywords.txt (use for busy feeds like CBC); `no` keeps everything (use for focused feeds like a fire journal).
-   - Special types: `ckan` for a City of Toronto Open Data search URL; `crossref` for a journal's Crossref address (`https://api.crossref.org/journals/ISSN/works?sort=created&order=desc&rows=25`), useful when a publisher blocks its RSS; `crossref-filter` does the same but keeps only keyword matches.
+   - Special types: `ckan` for a City of Toronto Open Data search URL; `crossref` for a journal's Crossref address (`https://api.crossref.org/journals/ISSN/works?sort=created&order=desc&rows=25`), useful when a publisher blocks its RSS; `crossref-filter` does the same but keeps only keyword matches; `match:word1|word2` keeps only items containing one of those words (used for GDACS orange/red alerts).
    - If a site blocks its feed, a Google News search often works: `https://news.google.com/rss/search?q=site:example.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en`
    - If a name contains a comma, put it in "double quotes".
 3. Click **Commit changes**. The next morning's run picks it up.

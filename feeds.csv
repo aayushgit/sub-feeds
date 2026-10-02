@@ -46,3 +46,28 @@ International Journal of Disaster Risk Science,https://api.crossref.org/journals
 MDPI Fire,https://www.mdpi.com/rss/journal/fire,journals,no
 Prehospital Emergency Care,https://api.crossref.org/journals/1090-3127/works?sort=created&order=desc&rows=25,journals,crossref
 Natural Hazards Review,https://ascelibrary.org/action/showFeed?type=etoc&feed=rss&jc=nhrefo,journals,no
+
+# --- added 2 Oct 2026: policy, technology, community risk, communications ---
+Emergency Management magazine (GovTech),https://www.govtech.com/em.rss,policy_tech,yes
+The Conversation Canada: natural disasters,https://theconversation.com/ca/topics/natural-disasters-1172/articles.atom,policy_tech,no
+Google News: community risk assessment,https://news.google.com/rss/search?q=(%22community+risk+assessment%22+OR+%22community+risk+reduction%22+OR+%22hazard+identification+and+risk+assessment%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+Google News: public alerting,https://news.google.com/rss/search?q=(%22Alert+Ready%22+OR+%22emergency+alert%22+OR+%22public+alerting%22+OR+%22wireless+emergency+alert%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+Google News: public safety communications,https://news.google.com/rss/search?q=(%22public+safety+broadband%22+OR+FirstNet+OR+%22public+safety+communications%22+OR+%22emergency+communications%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+Google News: emergency tech and AI,https://news.google.com/rss/search?q=(%22emergency+management%22+OR+%22disaster+response%22+OR+firefighters)+(AI+OR+drones+OR+%22artificial+intelligence%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+Google News: resilience policy Canada,https://news.google.com/rss/search?q=(%22disaster+resilience%22+OR+%22climate+adaptation%22+OR+%22disaster+risk+reduction%22)+(policy+OR+strategy+OR+funding)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+NENA (via Google News),https://news.google.com/rss/search?q=site:nena.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+EENA (via Google News),https://news.google.com/rss/search?q=site:eena.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+FEMA (via Google News),https://news.google.com/rss/search?q=site:fema.gov+when:7d&hl=en-CA&gl=CA&ceid=CA:en,agencies,yes
+Domestic Preparedness (via Google News),https://news.google.com/rss/search?q=site:domesticpreparedness.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no
+ICLR (via Google News),https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en,insurance,no
+Canadian Red Cross (via Google News),https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en,agencies,no
+GDACS orange and red alerts,https://www.gdacs.org/xml/rss_24h.xml,agencies,match:orange|red
+Firehouse,https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D,fire_ems,yes
+Natural Hazards and Earth System Sciences,https://nhess.copernicus.org/xml/rss2_0.xml,journals,no
+Risk Hazards and Crisis in Public Policy,https://onlinelibrary.wiley.com/feed/19444079/most-recent,journals,no
+Journal of Homeland Security and Emergency Management,https://api.crossref.org/journals/1547-7355/works?sort=created&order=desc&rows=25,journals,crossref
+International Journal of Mass Emergencies and Disasters,https://api.crossref.org/journals/0280-7270/works?sort=created&order=desc&rows=25,journals,crossref
+Environmental Hazards,https://api.crossref.org/journals/1747-7891/works?sort=created&order=desc&rows=25,journals,crossref
+Disaster Medicine and Public Health Preparedness,https://api.crossref.org/journals/1935-7893/works?sort=created&order=desc&rows=25,journals,crossref-filter
+Journal of Risk Research,https://api.crossref.org/journals/1366-9877/works?sort=created&order=desc&rows=25,journals,crossref-filter
+Weather Climate and Society,https://api.crossref.org/journals/1948-8327/works?sort=created&order=desc&rows=25,journals,crossref-filter

@@ -8,7 +8,7 @@ Writes:
 
 Standard library only, so it runs on GitHub Actions with no installs.
 """
-import json, re, html, datetime as dt, urllib.request, urllib.error
+import json, re, html, time, datetime as dt, urllib.request, urllib.error, urllib.parse
 from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -135,6 +135,31 @@ def parse_crossref(raw):
     return out
 
 
+def decode_gnews(url):
+    """Turn a news.google.com redirect into the publisher's own link (falls back to the original)."""
+    m = re.search(r"/articles/([^?/]+)", url)
+    if not m:
+        return url
+    gid = m.group(1)
+    try:
+        page = fetch("https://news.google.com/rss/articles/" + gid).decode("utf-8", "ignore")
+        sg = re.search(r'data-n-a-sg="([^"]+)"', page).group(1)
+        ts = re.search(r'data-n-a-ts="([^"]+)"', page).group(1)
+        inner = ('["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],'
+                 '"X","X",1,[1,1,1],1,1,null,0,0,null,0],"%s",%s,"%s"]' % (gid, ts, sg))
+        body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner]]]))
+        req = urllib.request.Request("https://news.google.com/_/DotsSplashUi/data/batchexecute",
+                                     data=body.encode(), headers={"User-Agent": UA,
+                                     "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            text = r.read().decode("utf-8", "ignore")
+        real = json.loads(json.loads(text.split("\n\n")[1])[:-2][0][2])[1]
+        time.sleep(0.4)
+        return real if real.startswith("http") else url
+    except Exception:
+        return url
+
+
 def matches(item):
     blob = (" " + item["title"] + " " + item["summary"] + " ").lower()
     return any(k in blob for k in keywords)
@@ -153,6 +178,11 @@ for f in feeds:
         raw = fetch(f["url"])
         items = {"ckan": parse_ckan, "crossref": parse_crossref}.get(f["type"], parse_feed)(raw)
         kept = 0
+        is_gnews = "news.google.com" in f["url"]
+        if is_gnews:   # newest 10 only; their summaries just repeat the title
+            items = sorted(items, key=lambda i: i["date"] or NOW, reverse=True)[:10]
+            for i in items:
+                i["summary"] = ""
         for it in items:
             if not it["title"] or not it["link"]:
                 continue
@@ -164,6 +194,8 @@ for f in feeds:
             key = norm(it["title"])
             if key in store:
                 continue
+            if is_gnews:
+                it["link"] = decode_gnews(it["link"])
             store[key] = {
                 "title": it["title"], "link": it["link"], "date": d.isoformat(),
                 "summary": it["summary"][:SUMMARY_CHARS], "source": f["name"], "group": f["group"],
@@ -214,10 +246,10 @@ def write_digest(fname, days, per_source, summary_chars, title, note):
 
 
 # daily: last ~2 days, headlines only, no journals
-write_digest("daily.md", 2, 4, None, "Daily feed digest",
+write_digest("daily.md", 2, 3, None, "Daily feed digest",
              "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.")
 # weekly: last 8 days, short summaries, journals as titles only
-write_digest("weekly.md", 8, 8, 120, "Weekly feed digest",
+write_digest("weekly.md", 8, 6, 120, "Weekly feed digest",
              "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.")
 # keep latest.md as a copy of weekly for anything still pointing at it
 (DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())

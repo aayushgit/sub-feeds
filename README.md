@@ -8,6 +8,8 @@ Collects the feeds behind Aayush's daily and weekly briefings into one short dig
    `Name,https://feed-url,group,filter`
    - **group**: where it appears in the digest. Use `toronto`, `government`, `news`, `fire_ems`, `insurance`, `agencies` or `journals`, or invent a new one (e.g. `podcasts`) and it gets its own section.
    - **filter**: `yes` keeps only items that match a keyword in keywords.txt (use for busy feeds like CBC); `no` keeps everything (use for focused feeds like a fire journal).
+   - Special types: `ckan` for a City of Toronto Open Data search URL; `crossref` for a journal's Crossref address (`https://api.crossref.org/journals/ISSN/works?sort=created&order=desc&rows=25`), useful when a publisher blocks its RSS; `crossref-filter` does the same but keeps only keyword matches.
+   - If a site blocks its feed, a Google News search often works: `https://news.google.com/rss/search?q=site:example.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en`
    - If a name contains a comma, put it in "double quotes".
 3. Click **Commit changes**. The next morning's run picks it up.
 4. To pause a feed without deleting it, put `#` at the start of its line.
@@ -22,6 +24,7 @@ To test right away: **Actions → Collect feeds → Run workflow**, then open **
 
 ## Files
 - `collect.py`: the collector (standard-library Python).
-- `digest/latest.md`: the digest the briefings read.
+- `digest/daily.md`: last 48 hours, headlines only; read by the daily briefing.
+- `digest/weekly.md`: last 8 days with short summaries; read by the weekly briefing (`latest.md` is a copy).
 - `digest/status.md`: which feeds worked on the last run.
 - `digest/items.json`: rolling 21-day store used to avoid repeats.

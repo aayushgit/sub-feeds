@@ -19,8 +19,6 @@ DIGEST.mkdir(exist_ok=True)
 NOW = dt.datetime.now(dt.timezone.utc)
 UA = "Mozilla/5.0 (compatible; FieldNotesFeedCollector/1.0; personal research digest)"
 KEEP_DAYS = 21          # rolling store
-DIGEST_DAYS = 8         # window shown in latest.md
-MAX_PER_FEED = 15       # cap per feed in the digest
 SUMMARY_CHARS = 160
 
 import csv
@@ -36,8 +34,9 @@ def load_feeds():
         if not name or not url:
             continue
         flt = (r.get("filter") or "no").strip().lower()
+        kind = "ckan" if flt == "ckan" else "crossref" if flt.startswith("crossref") else "feed"
         out.append({"name": name, "url": url, "group": (r.get("group") or "other").strip().lower() or "other",
-                    "filter": flt in ("yes", "y", "true", "1"), "type": "ckan" if flt == "ckan" else "feed"})
+                    "filter": flt in ("yes", "y", "true", "1", "crossref-filter"), "type": kind})
     return out
 
 
@@ -119,6 +118,23 @@ def parse_ckan(raw):
     return out
 
 
+def parse_crossref(raw):
+    out = []
+    for w in json.loads(raw).get("message", {}).get("items", []):
+        parts = (w.get("published-online") or w.get("published") or w.get("created") or {}).get("date-parts", [[None]])[0]
+        d = None
+        if parts and parts[0]:
+            parts = (parts + [1, 1])[:3]
+            d = dt.datetime(parts[0], parts[1] or 1, parts[2] or 1, tzinfo=dt.timezone.utc)
+        out.append({
+            "title": clean(" ".join(w.get("title") or [])),
+            "link": w.get("URL") or ("https://doi.org/" + w.get("DOI", "")),
+            "date": d,
+            "summary": clean(w.get("abstract", "")),
+        })
+    return out
+
+
 def matches(item):
     blob = (" " + item["title"] + " " + item["summary"] + " ").lower()
     return any(k in blob for k in keywords)
@@ -135,7 +151,7 @@ status = []
 for f in feeds:
     try:
         raw = fetch(f["url"])
-        items = parse_ckan(raw) if f.get("type") == "ckan" else parse_feed(raw)
+        items = {"ckan": parse_ckan, "crossref": parse_crossref}.get(f["type"], parse_feed)(raw)
         kept = 0
         for it in items:
             if not it["title"] or not it["link"]:
@@ -170,28 +186,41 @@ GROUPS = [("toronto", "City of Toronto"), ("government", "Government"), ("news",
 known = {g for g, _ in GROUPS}
 for g in sorted({f["group"] for f in feeds} - known):   # any new group you invent gets its own section
     GROUPS.append((g, g.replace("_", " ").title()))
-window = NOW - dt.timedelta(days=DIGEST_DAYS)
-recent = [v for v in store.values() if parse_date(v["date"]) >= window]
-recent.sort(key=lambda v: v["date"], reverse=True)
 
-lines = [f"# Feed digest · generated {NOW:%Y-%m-%d %H:%M} UTC",
-         f"Items published in the last {DIGEST_DAYS} days from the feed library, keyword-filtered and de-duplicated. "
-         "Each line: date · source · title · link · short summary. Open the link before relying on any detail.", ""]
-for g, label in GROUPS:
-    rows = [v for v in recent if v["group"] == g]
-    if not rows:
-        continue
-    lines.append(f"## {label}")
-    per_source = {}
-    for v in rows:
-        per_source.setdefault(v["source"], 0)
-        if per_source[v["source"]] >= MAX_PER_FEED:
+
+def write_digest(fname, days, per_source, summary_chars, title, note):
+    window = NOW - dt.timedelta(days=days)
+    recent = [v for v in store.values() if parse_date(v["date"]) >= window and parse_date(v["date"]) <= NOW + dt.timedelta(days=1)]
+    recent.sort(key=lambda v: v["date"], reverse=True)
+    lines = [f"# {title} · generated {NOW:%Y-%m-%d %H:%M} UTC", note, ""]
+    for g, label in GROUPS:
+        if summary_chars is None and g == "journals":
             continue
-        per_source[v["source"]] += 1
-        s = (" — " + v["summary"]) if v["summary"] else ""
-        lines.append(f"- {v['date'][:10]} · {v['source']} · {v['title']} · {v['link']}{s}")
-    lines.append("")
-(DIGEST / "latest.md").write_text("\n".join(lines))
+        rows = [v for v in recent if v["group"] == g]
+        if not rows:
+            continue
+        lines.append(f"## {label}")
+        count = {}
+        for v in rows:
+            count[v["source"]] = count.get(v["source"], 0) + 1
+            if count[v["source"]] > per_source:
+                continue
+            s = ""
+            if summary_chars and g != "journals" and v["summary"]:
+                s = " — " + v["summary"][:summary_chars]
+            lines.append(f"- {v['date'][:10]} · {v['source']} · {v['title']} · {v['link']}{s}")
+        lines.append("")
+    (DIGEST / fname).write_text("\n".join(lines))
+
+
+# daily: last ~2 days, headlines only, no journals
+write_digest("daily.md", 2, 4, None, "Daily feed digest",
+             "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.")
+# weekly: last 8 days, short summaries, journals as titles only
+write_digest("weekly.md", 8, 8, 120, "Weekly feed digest",
+             "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.")
+# keep latest.md as a copy of weekly for anything still pointing at it
+(DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())
 
 ok = sum(1 for s in status if s[1] == "ok")
 st = [f"# Feed status · {NOW:%Y-%m-%d %H:%M} UTC · {ok}/{len(status)} feeds working", "",

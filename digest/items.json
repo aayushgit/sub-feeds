@@ -1142,15 +1142,6 @@
   "group": "fire_ems",
   "first_seen": "2026-10-02T12:26:07.521412+00:00"
  },
- "leadership forum read the room": {
-  "title": "Leadership Forum: Read the room",
-  "link": "https://www.firefightingincanada.com/leadership-forum-read-the-room/",
-  "date": "2026-09-12T17:11:33+00:00",
-  "summary": "How many times have you found yourself in a …",
-  "source": "Firefighting in Canada",
-  "group": "fire_ems",
-  "first_seen": "2026-10-02T12:26:07.521412+00:00"
- },
  "hannover re capital partners establishes new bermuda fund structure and spi": {
   "title": "Hannover Re Capital Partners establishes new Bermuda fund structure and SPI",
   "link": "https://www.artemis.bm/news/hannover-re-capital-partners-establishes-new-bermuda-fund-structure-and-spi/?utm_source=rss&utm_medium=rss&utm_campaign=hannover-re-capital-partners-establishes-new-bermuda-fund-structure-and-spi",
@@ -4058,15 +4049,6 @@
   "group": "journals",
   "first_seen": "2026-10-02T12:26:07.521412+00:00"
  },
- "fire vol 9 pages 396 yolo fsd a deployment validation oriented lightweight fire smoke dete": {
-  "title": "Fire, Vol. 9, Pages 396: YOLO-FSD: A Deployment-Validation-Oriented Lightweight Fire Smoke Detection Network for Resource-Constrained ZYNQ7020 FPGA Edge Platforms",
-  "link": "https://www.mdpi.com/2571-6255/9/9/396",
-  "date": "2026-09-13T00:00:00+00:00",
-  "summary": "Early-stage flame and smoke in forest fire scenes are often small, weakly textured, and easily confused with complex backgrounds, while many accurate YOLO-based",
-  "source": "MDPI Fire",
-  "group": "journals",
-  "first_seen": "2026-10-02T12:26:07.521412+00:00"
- },
  "supporting mental health in ems clinicians a naemsp position statement and resource docume": {
   "title": "Supporting Mental Health in EMS Clinicians: A NAEMSP Position Statement and Resource Document",
   "link": "https://doi.org/10.1080/10903127.2026.2740139",
@@ -6550,16 +6532,6 @@
   "duration": 23,
   "first_seen": "2026-10-02T13:47:53.916996+00:00"
  },
- "can china build its way out of climate change": {
-  "title": "Can China build its way out of climate change?",
-  "link": "http://www.bbc.co.uk/programmes/w3ct99j0",
-  "date": "2026-09-13T13:34:00+00:00",
-  "summary": "Huge construction projects are transforming China - think enormous dams, giant solar power farms and a vast high-speed rail network. Will Beijing's \"engineering",
-  "source": "The Climate Question (BBC)",
-  "group": "podcasts",
-  "duration": 28,
-  "first_seen": "2026-10-02T13:47:53.916996+00:00"
- },
  "city of toronto introduces pre approved multiplex designs making it easier to build more h": {
   "title": "City of Toronto introduces pre-approved multiplex designs, making it easier to build more homes faster",
   "link": "https://www.toronto.ca/news/city-of-toronto-introduces-pre-approved-multiplex-designs-making-it-easier-to-build-more-homes-faster/",
@@ -7769,5 +7741,675 @@
   "group": "podcasts",
   "duration": 23,
   "first_seen": "2026-10-03T14:43:37.357982+00:00"
+ },
+ "toronto fire services launches fire prevention week 2026 safe charging is a superpower": {
+  "title": "Toronto Fire Services launches Fire Prevention Week 2026: Safe Charging is a Superpower",
+  "link": "https://www.toronto.ca/news/toronto-fire-services-launches-fire-prevention-week-2026-safe-charging-is-a-superpower/",
+  "date": "2026-10-04T14:00:38+00:00",
+  "summary": "News Release October 4, 2026 Toronto Fire Services is encouraging residents to make fire safety a priority during Fire Prevention Week 2026, taking place from S",
+  "source": "City of Toronto news",
+  "group": "toronto",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "humber polytechnic students take part in mass casualty response simulation": {
+  "title": "Humber Polytechnic students take part in mass casualty response simulation",
+  "link": "https://www.cbc.ca/player/play/9.7368415?cmp=rss",
+  "date": "2026-10-03T18:13:42-04:00",
+  "summary": "It looks like a major emergency, but it’s all part of a training exercise held at Humber Polytechnic on Saturday. The exercise included a mock vehicle crash, wi",
+  "source": "CBC Toronto",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "ontario based air ambulance carrying 6 missing off u s coast": {
+  "title": "Ontario-based air ambulance carrying 6 missing off U.S. coast",
+  "link": "https://globalnews.ca/news/12086557/ontario-air-ambulance-missing-us/",
+  "date": "2026-10-03T14:59:06+00:00",
+  "summary": "The Federal Aviation Administration told Global News in a statement it issued a Search and Rescue Alert for a Gulfstream G-100 around 1:20 a.m. Saturday.",
+  "source": "Global News Toronto",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "software problem caused widespread 911 outage last month bell says": {
+  "title": "Software problem caused widespread 911 outage last month, Bell says",
+  "link": "https://www.thestar.com/news/gta/software-problem-caused-widespread-911-outage-last-month-bell-says/article_6c5936bd-02d5-48ed-a6db-6d71e7e0c825.html",
+  "date": "2026-10-03T07:00:00-04:00",
+  "summary": "The outage in the early hours of Sept. 17 lasted for 87 minutes, according to the telecom giant's report.",
+  "source": "Toronto Star GTA",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "14 fallen toronto firefighters honoured at memorial service yahoo news canada": {
+  "title": "14 fallen Toronto firefighters honoured at memorial service - Yahoo News Canada",
+  "link": "https://ca.news.yahoo.com/14-fallen-toronto-firefighters-honoured-202459499.html",
+  "date": "2026-09-27T20:24:59+00:00",
+  "summary": "",
+  "source": "Google News: Toronto fire",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "lethbridge joins life chain across north america to stand for life bridge city news octobe": {
+  "title": "Lethbridge Joins Life Chain Across North America To Stand For Life - Bridge City News - October 2, 2026 - Bridge City News",
+  "link": "https://bridgecitynews.ca/lethbridge-joins-life-chain-across-north-america-to-stand-for-life/",
+  "date": "2026-10-02T22:50:54+00:00",
+  "summary": "",
+  "source": "Google News: lithium-ion fire Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "software problem caused widespread 911 outage last month bell says toronto star": {
+  "title": "Software problem caused widespread 911 outage last month, Bell says - Toronto Star",
+  "link": "https://www.thestar.com/news/gta/software-problem-caused-widespread-911-outage-last-month-bell-says/article_6c5936bd-02d5-48ed-a6db-6d71e7e0c825.html",
+  "date": "2026-10-03T11:00:00+00:00",
+  "summary": "",
+  "source": "Google News: 9-1-1 Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "us supreme court opens new term with high stakes big oil bid to toss climate suits the new": {
+  "title": "US Supreme Court opens new term with high-stakes big oil bid to toss climate suits - The News International",
+  "link": "https://www.thenews.com.pk/latest/1418700-us-supreme-court-opens-new-term-with-high-stakes-big-oil-bid-to-toss-climate-suits",
+  "date": "2026-10-04T12:08:00+00:00",
+  "summary": "",
+  "source": "Google News: emergency management Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "brit born rock singer canadian idol star sass jordan dies aged 63 as heartbreaking tribute": {
+  "title": "Brit-born rock singer & Canadian Idol star Sass Jordan dies aged 63 as heartbreaking tributes flood in - The Sun",
+  "link": "https://www.thesun.co.uk/tvandshowbiz/40576928/rock-singer-sass-jordan-dies/",
+  "date": "2026-10-04T12:59:00+00:00",
+  "summary": "",
+  "source": "Google News: wildfire flood Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "jane doe solidarity posts flood social media after cornell rape lawsuit yahoo news canada": {
+  "title": "'Jane Doe' solidarity posts flood social media after Cornell rape lawsuit - Yahoo News Canada",
+  "link": "https://ca.news.yahoo.com/jane-doe-solidarity-posts-flood-102008970.html",
+  "date": "2026-10-04T10:20:08+00:00",
+  "summary": "",
+  "source": "Google News: wildfire flood Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "wildfire map spotlight sand creek and bobcat lakes fires montana iqair": {
+  "title": "Wildfire Map Spotlight: Sand Creek and Bobcat Lakes Fires, Montana - IQAir",
+  "link": "https://www.iqair.com/ca/newsroom/wildfire-map-spotlight-sand-creek-and-bobcat-lakes-fires-montana",
+  "date": "2026-10-03T15:29:43+00:00",
+  "summary": "",
+  "source": "Google News: wildfire flood Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "demand action on wildfire response and help protect first nations communities amnesty ca": {
+  "title": "Demand Action on Wildfire Response and Help Protect First Nations Communities - amnesty.ca",
+  "link": "https://amnesty.ca/urgent-actions/demand-action-on-wildfire-response/",
+  "date": "2026-10-03T04:00:51+00:00",
+  "summary": "",
+  "source": "Google News: wildfire flood Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "this fort simpson org wants wildfire relief program for dehcho businesses yahoo news canad": {
+  "title": "This Fort Simpson org wants wildfire relief program for Dehcho businesses - Yahoo News Canada",
+  "link": "https://ca.news.yahoo.com/fort-simpson-org-wants-wildfire-003607666.html",
+  "date": "2026-10-03T00:36:00+00:00",
+  "summary": "",
+  "source": "Google News: wildfire flood Canada",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "update vehicle ablaze at queensway drive prompts suspicious fire investigation burlingtont": {
+  "title": "UPDATE: Vehicle ablaze at Queensway Drive prompts suspicious fire investigation - BurlingtonToday.com",
+  "link": "https://www.burlingtontoday.com/police-beat/vehicle-fire-at-queensway-drive-prompts-suspicious-fire-investigation-12854827",
+  "date": "2026-10-04T13:40:43+00:00",
+  "summary": "",
+  "source": "Google News: Ontario fire marshal",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "real shocker neighbours grieve loss of men killed in barrie fire orilliamatters com": {
+  "title": "'Real shocker': Neighbours grieve loss of men killed in Barrie fire - OrilliaMatters.com",
+  "link": "https://www.orilliamatters.com/local-news/real-shocker-neighbours-grieve-loss-of-men-killed-in-barrie-fire-12853922",
+  "date": "2026-10-04T13:36:09+00:00",
+  "summary": "",
+  "source": "Google News: Ontario fire marshal",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "mike s place fire caused by electrical issue police say chathamdailynews ca": {
+  "title": "Mike’s Place fire caused by electrical issue, police say - chathamdailynews.ca",
+  "link": "https://www.chathamdailynews.ca/news/mikes-place-fire-caused-by-electrical-issue-police-say/",
+  "date": "2026-10-02T15:14:30+00:00",
+  "summary": "",
+  "source": "Google News: Ontario fire marshal",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "fire causes 1m damage to mike s place restaurant in chatham no injuries chathamdailynews c": {
+  "title": "Fire causes $1M damage to Mike’s Place restaurant in Chatham; no injuries - chathamdailynews.ca",
+  "link": "https://www.chathamdailynews.ca/news/fire-causes-1m-damage-to-mikes-place-restaurant-in-chatham-no-injuries/",
+  "date": "2026-09-30T13:23:01+00:00",
+  "summary": "",
+  "source": "Google News: Ontario fire marshal",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "one person sent to hospital after suspicious early morning shed fire in stratford stratfor": {
+  "title": "One person sent to hospital after \"suspicious\" early morning shed fire in Stratford - Stratford Beacon Herald",
+  "link": "https://www.stratfordbeaconherald.com/news/one-person-sent-to-hospital-after-suspicious-early-morning-shed-fire-in-stratford/",
+  "date": "2026-09-30T07:00:00+00:00",
+  "summary": "",
+  "source": "Google News: Ontario fire marshal",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "nadma s preparedness key to supporting people when disaster strikes ahmad zahid bernama": {
+  "title": "NADMA’s Preparedness Key To Supporting People When Disaster Strikes - Ahmad Zahid - Bernama",
+  "link": "https://www.bernama.com/en/general/news.php?id=2614075",
+  "date": "2026-10-01T07:00:00+00:00",
+  "summary": "",
+  "source": "Google News: urban search and rescue",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "nevada task force 1 deploys to new mexico ahead of hurricane polo flash flooding news3lv c": {
+  "title": "Nevada Task Force 1 deploys to New Mexico ahead of Hurricane Polo flash flooding - news3lv.com",
+  "link": "https://news3lv.com/news/local/nevada-task-force-1-deploys-to-new-mexico-ahead-of-hurricane-polo-flash-flooding",
+  "date": "2026-09-28T23:24:09+00:00",
+  "summary": "",
+  "source": "Google News: urban search and rescue",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "nevada task force 1 deploys to new mexico in anticipation of hurricane polo floods ktnv co": {
+  "title": "Nevada Task Force 1 deploys to New Mexico in anticipation of Hurricane Polo floods - ktnv.com",
+  "link": "https://www.ktnv.com/news/nevada-task-force-1-deploys-to-new-mexico-in-anticipation-of-hurricane-polo-floods",
+  "date": "2026-09-28T18:23:25+00:00",
+  "summary": "",
+  "source": "Google News: urban search and rescue",
+  "group": "news",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "iclr unveils wildfire resilient home in alberta canadian underwriter": {
+  "title": "ICLR unveils wildfire resilient home in Alberta - Canadian Underwriter",
+  "link": "https://canadianunderwriter.ca/news/claims/iclr-unveils-wildfire-resilient-home-in-alberta/",
+  "date": "2026-10-02T07:00:00+00:00",
+  "summary": "",
+  "source": "Canadian Underwriter (via Google News)",
+  "group": "insurance",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "williamsburg county fire department neris": {
+  "title": "Williamsburg County Fire Department - NERIS",
+  "link": "https://neris.fsri.org/departments/FD45089045/stations",
+  "date": "2026-10-04T02:03:48+00:00",
+  "summary": "",
+  "source": "UL FSRI (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "matawan volunteer fire department neris": {
+  "title": "Matawan Volunteer Fire Department - NERIS",
+  "link": "https://neris.fsri.org/departments/FD34025691/stations",
+  "date": "2026-10-03T20:56:20+00:00",
+  "summary": "",
+  "source": "UL FSRI (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "toms river fire department neris": {
+  "title": "Toms River Fire Department - NERIS",
+  "link": "https://neris.fsri.org/departments/FD34029264/stations",
+  "date": "2026-10-03T18:46:42+00:00",
+  "summary": "",
+  "source": "UL FSRI (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "saint paul volunteer fire department neris": {
+  "title": "Saint Paul Volunteer Fire Department - NERIS",
+  "link": "https://neris.fsri.org/departments/FD05087281/stations",
+  "date": "2026-10-03T18:15:05+00:00",
+  "summary": "",
+  "source": "UL FSRI (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "course successful bidders fema gov": {
+  "title": "Course Successful Bidders - FEMA.gov",
+  "link": "https://apps.usfa.fema.gov/nfacourses/main/success?page=295&course.id=null&sort=courseCode&order=asc&instructor.id=null&state.id=12&btnFilter=Filter+Results+%C2%BB&deliveryType.id=null&curriculum.id=null",
+  "date": "2026-09-30T12:49:36+00:00",
+  "summary": "",
+  "source": "USFA (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "prevent kitchen fires poster u s fire administration gov": {
+  "title": "Prevent Kitchen Fires poster - U.S. Fire Administration (.gov)",
+  "link": "https://www.usfa.fema.gov/downloads/pdf/publications/prevent-kitchen-fires-poster.pdf",
+  "date": "2026-09-28T22:38:39+00:00",
+  "summary": "",
+  "source": "USFA (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "detection and measurement framework for surface cracks on charred layer of wood based on d": {
+  "title": "Detection and Measurement Framework for Surface Cracks on Charred Layer of Wood Based on Deep Learning and Image Processing Techniques",
+  "link": "https://www.sciencedirect.com/science/article/pii/S0379711226003462?dgcid=rss_sd_all",
+  "date": "2026-10-04T15:22:55.753634+00:00",
+  "summary": "Publication date: Available online 3 October 2026 Source: Fire Safety Journal Author(s): Anyang SUN, Kazunori HARADA, Daisaku NII, Shoma MAKINO",
+  "source": "Fire Safety Journal",
+  "group": "journals",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "fire vol 9 pages 435 fire dynamics and evacuation simulation of a lithium battery powered ": {
+  "title": "Fire, Vol. 9, Pages 435: Fire Dynamics and Evacuation Simulation of a Lithium Battery-Powered New Energy Sightseeing Vessel",
+  "link": "https://www.mdpi.com/2571-6255/9/10/435",
+  "date": "2026-10-04T00:00:00+00:00",
+  "summary": "This study investigates fire dynamics and passenger evacuation for a lithium-battery-powered sightseeing vessel using Pyrosim 2024 and Pathfinder 2019. Fire sce",
+  "source": "MDPI Fire",
+  "group": "journals",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "rockford fire station six hosts open house to promote fire and weather safety mystateline ": {
+  "title": "Rockford Fire Station Six hosts open house to promote fire and weather safety - mystateline.com",
+  "link": "https://www.mystateline.com/news/rockford/rockford-fire-station-six-open-house/amp/",
+  "date": "2026-10-03T18:44:43+00:00",
+  "summary": "",
+  "source": "Google News: community risk assessment",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "lt cory hurley appointed as new fire marshal mountainhomenews com": {
+  "title": "Lt. Cory Hurley appointed as new Fire Marshal - mountainhomenews.com",
+  "link": "https://www.mountainhomenews.com/announcements/lt-cory-hurley-appointed-as-new-fire-marshal-0f6b373d",
+  "date": "2026-09-30T17:23:05+00:00",
+  "summary": "",
+  "source": "Google News: community risk assessment",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "u s proposes ai emergency alert system with china what to know the news international": {
+  "title": "U.S. proposes AI emergency alert system with China: What to know - The News International",
+  "link": "https://www.thenews.com.pk/latest/1418622-us-proposes-ai-emergency-alert-system-with-china-what-to-know",
+  "date": "2026-10-03T15:44:00+00:00",
+  "summary": "",
+  "source": "Google News: public alerting",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "the diplomat within the embassy of the uae to romania delivered a speech on cop 28": {
+  "title": "The diplomat within the Embassy of the UAE to Romania delivered a speech on COP 28 - وزارة الخارجية الإماراتية",
+  "link": "https://www.mofa.gov.ae/en/Missions/Bucharest/Media-hub/News/delivered-a-speech",
+  "date": "2026-10-03T22:06:47+00:00",
+  "summary": "",
+  "source": "Google News: public safety communications",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "uae embassy in budapest national day of kuwait": {
+  "title": "UAE Embassy in Budapest-National Day of Kuwait - وزارة الخارجية الإماراتية",
+  "link": "https://www.mofa.gov.ae/en/Missions/Budapest/Media-hub/News/National-Day-of-Kuwait",
+  "date": "2026-10-03T12:22:35+00:00",
+  "summary": "",
+  "source": "Google News: public safety communications",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "the uae embassy in romania organized a reception on the occasion of the celebration of the": {
+  "title": "The UAE Embassy in Romania organized a reception on the occasion of the celebration of the 52nd anniversary of the state - وزارة الخارجية الإماراتية",
+  "link": "https://www.mofa.gov.ae/en/Missions/Bucharest/Media-hub/News/52nd-anniversary-of-the-state",
+  "date": "2026-10-03T12:22:32+00:00",
+  "summary": "",
+  "source": "Google News: public safety communications",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "srec warns of added costs staffing as spokane moves non emergency calls to 311 the center ": {
+  "title": "SREC warns of added costs, staffing as Spokane moves non-emergency calls to 311 - The Center Square",
+  "link": "https://www.thecentersquare.com/washington/article_f02360b4-c761-4df3-adf5-590d90cc3f60.amp.html",
+  "date": "2026-10-02T22:00:00+00:00",
+  "summary": "",
+  "source": "Google News: public safety communications",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "fire breaks out at semi detached house in hougang singapore news asiaone": {
+  "title": "Fire breaks out at semi-detached house in Hougang, Singapore News - AsiaOne",
+  "link": "https://www.asiaone.com/singapore/hougang-park-villas-green-house-fire",
+  "date": "2026-10-04T04:10:00+00:00",
+  "summary": "",
+  "source": "Google News: emergency tech and AI",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "from federal emergency response to local capability gtsc hosts em2026 homeland security to": {
+  "title": "From Federal Emergency Response to Local Capability: GTSC Hosts EM2026 - Homeland Security Today",
+  "link": "https://www.hstoday.us/featured/from-federal-emergency-response-to-local-capability-gtsc-hosts-em2026/",
+  "date": "2026-10-02T16:21:06+00:00",
+  "summary": "",
+  "source": "Google News: emergency tech and AI",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "russian forces launch 100 drones in overnight attack against ukraine english nv ua": {
+  "title": "Russian forces launch 100+ drones in overnight attack against Ukraine - english.nv.ua",
+  "link": "https://english.nv.ua/nation/october-2-overnight-raid-russian-forces-launch-drone-attack-against-ukraine-50646452.html",
+  "date": "2026-10-02T07:00:00+00:00",
+  "summary": "",
+  "source": "Google News: emergency tech and AI",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "denton police fire departments launch drone as first responder trial program community imp": {
+  "title": "Denton police, fire departments launch Drone as First Responder trial program - Community Impact Newspaper",
+  "link": "https://communityimpact.com/denton/government/denton-police-fire-departments-launch-drone-as-first-responder-trial-program/",
+  "date": "2026-10-02T01:37:00+00:00",
+  "summary": "",
+  "source": "Google News: emergency tech and AI",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "boat catches fire in oc harbor firefighters respond patch": {
+  "title": "Boat Catches Fire In OC Harbor; Firefighters Respond - Patch",
+  "link": "https://patch.com/california/orange-county/amp/34941056/boat-catches-fire-in-oc-harbor-firefighters-respond",
+  "date": "2026-10-01T16:24:55+00:00",
+  "summary": "",
+  "source": "Google News: emergency tech and AI",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "registration now open for nena s standards best practices conference national emergency nu": {
+  "title": "Registration Now Open for NENA's Standards & Best Practices Conference - National Emergency Number Association",
+  "link": "https://www.nena.org/news/736147/Registration-Now-Open-for-NENAs-Standards--Best-Practices-Conference.htm",
+  "date": "2026-10-01T18:01:03+00:00",
+  "summary": "",
+  "source": "NENA (via Google News)",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "national emergency number association national emergency number association": {
+  "title": "National Emergency Number Association - National Emergency Number Association",
+  "link": "https://www.nena.org/events/eventdetails.aspx?id=2089442",
+  "date": "2026-09-30T07:00:00+00:00",
+  "summary": "",
+  "source": "NENA (via Google News)",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "fema delivers additional 3 million to help fire departments in connecticut fema gov": {
+  "title": "FEMA Delivers Additional $3 Million to Help Fire Departments in Connecticut - FEMA.gov",
+  "link": "https://www.fema.gov/press-release/20261002/fema-delivers-additional-3-million-help-fire-departments-connecticut",
+  "date": "2026-10-02T15:11:57+00:00",
+  "summary": "",
+  "source": "FEMA (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "hurricane readiness for inland communities fema gov": {
+  "title": "Hurricane Readiness for Inland Communities - FEMA.gov",
+  "link": "https://www.fema.gov/emergency-managers/national-preparedness/training/course/lk-310",
+  "date": "2026-10-02T05:02:48+00:00",
+  "summary": "",
+  "source": "FEMA (via Google News)",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "disaster preparedness archives domestic preparedness": {
+  "title": "disaster preparedness Archives - Domestic Preparedness",
+  "link": "https://domesticpreparedness.com/wp_log_type/disaster-preparedness/",
+  "date": "2026-09-30T07:00:00+00:00",
+  "summary": "",
+  "source": "Domestic Preparedness (via Google News)",
+  "group": "policy_tech",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5m depth 10km in south of panama 04 10 2026 14 06 utc no people": {
+  "title": "Green earthquake (Magnitude 5M, Depth:10km) in South Of Panama 04/10/2026 14:06 UTC, No people affected in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569463",
+  "date": "2026-10-04T14:31:24+00:00",
+  "summary": "On 10/4/2026 2:06:10 PM, an earthquake occurred in South Of Panama potentially affecting No people affected in 100km. The earthquake had Magnitude 5M, Depth:10k",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 6m depth 52 773km in indonesia 04 10 2026 12 36 utc 100 thous": {
+  "title": "Green earthquake (Magnitude 4.6M, Depth:52.773km) in Indonesia 04/10/2026 12:36 UTC, 100 thousand in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569445",
+  "date": "2026-10-04T13:06:17+00:00",
+  "summary": "On 10/4/2026 12:36:47 PM, an earthquake occurred in Indonesia potentially affecting 100 thousand in 100km. The earthquake had Magnitude 4.6M, Depth:52.773km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5m depth 10km in t rkiye 04 10 2026 11 43 utc 2 3 million in 10": {
+  "title": "Green earthquake (Magnitude 5M, Depth:10km) in Türkiye 04/10/2026 11:43 UTC, 2.3 million in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569435",
+  "date": "2026-10-04T12:01:04+00:00",
+  "summary": "On 10/4/2026 11:43:23 AM, an earthquake occurred in Türkiye potentially affecting 2.3 million in 100km. The earthquake had Magnitude 5M, Depth:10km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 7m depth 10km in t rkiye 04 10 2026 11 36 utc 2 3 million in ": {
+  "title": "Green earthquake (Magnitude 4.7M, Depth:10km) in Türkiye 04/10/2026 11:36 UTC, 2.3 million in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569433",
+  "date": "2026-10-04T12:08:17+00:00",
+  "summary": "On 10/4/2026 11:36:26 AM, an earthquake occurred in Türkiye potentially affecting 2.3 million in 100km. The earthquake had Magnitude 4.7M, Depth:10km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 7m depth 10km in t rkiye 04 10 2026 11 19 utc 2 3 million in ": {
+  "title": "Green earthquake (Magnitude 4.7M, Depth:10km) in Türkiye 04/10/2026 11:19 UTC, 2.3 million in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569427",
+  "date": "2026-10-04T11:47:51+00:00",
+  "summary": "On 10/4/2026 11:19:26 AM, an earthquake occurred in Türkiye potentially affecting 2.3 million in 100km. The earthquake had Magnitude 4.7M, Depth:10km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5 5m depth 10km in volcano islands japan region 04 10 2026 11 1": {
+  "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Volcano Islands, Japan Region 04/10/2026 11:12 UTC, [unknown].",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569426",
+  "date": "2026-10-04T11:33:38+00:00",
+  "summary": "On 10/4/2026 11:12:48 AM, an earthquake occurred in Volcano Islands, Japan Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 6m depth 162 143km in papua new guinea 04 10 2026 11 09 utc 1": {
+  "title": "Green earthquake (Magnitude 4.6M, Depth:162.143km) in Papua New Guinea 04/10/2026 11:09 UTC, 140 thousand in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569432",
+  "date": "2026-10-04T12:21:02+00:00",
+  "summary": "On 10/4/2026 11:09:47 AM, an earthquake occurred in Papua New Guinea potentially affecting 140 thousand in 100km. The earthquake had Magnitude 4.6M, Depth:162.1",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 8m depth 10km in indonesia 04 10 2026 10 52 utc 1 2 million i": {
+  "title": "Green earthquake (Magnitude 4.8M, Depth:10km) in Indonesia 04/10/2026 10:52 UTC, 1.2 million in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569423",
+  "date": "2026-10-04T11:15:19+00:00",
+  "summary": "On 10/4/2026 10:52:27 AM, an earthquake occurred in Indonesia potentially affecting 1.2 million in 100km. The earthquake had Magnitude 4.8M, Depth:10km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5m depth 10km in indonesia 04 10 2026 10 13 utc 1 2 million in ": {
+  "title": "Green earthquake (Magnitude 5M, Depth:10km) in Indonesia 04/10/2026 10:13 UTC, 1.2 million in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569420",
+  "date": "2026-10-04T10:32:39+00:00",
+  "summary": "On 10/4/2026 10:13:07 AM, an earthquake occurred in Indonesia potentially affecting 1.2 million in 100km. The earthquake had Magnitude 5M, Depth:10km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 6m depth 58 258km in myanmar 04 10 2026 05 55 utc 770 thousan": {
+  "title": "Green earthquake (Magnitude 4.6M, Depth:58.258km) in Myanmar 04/10/2026 05:55 UTC, 770 thousand in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569392",
+  "date": "2026-10-04T06:24:32+00:00",
+  "summary": "On 10/4/2026 5:55:06 AM, an earthquake occurred in Myanmar potentially affecting 770 thousand in 100km. The earthquake had Magnitude 4.6M, Depth:58.258km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 9m depth 10km in south sandwich islands region 04 10 2026 01 ": {
+  "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 04/10/2026 01:47 UTC, No people affected in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569381",
+  "date": "2026-10-04T03:15:05+00:00",
+  "summary": "On 10/4/2026 1:47:52 AM, an earthquake occurred in South Sandwich Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 9m depth 94 221km in papua new guinea 04 10 2026 01 38 utc 60": {
+  "title": "Green earthquake (Magnitude 4.9M, Depth:94.221km) in Papua New Guinea 04/10/2026 01:38 UTC, 600 thousand in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569369",
+  "date": "2026-10-04T01:59:32+00:00",
+  "summary": "On 10/4/2026 1:38:46 AM, an earthquake occurred in Papua New Guinea potentially affecting 600 thousand in 100km. The earthquake had Magnitude 4.9M, Depth:94.221",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5 3m depth 56 274km in indonesia 03 10 2026 23 37 utc 830 thous": {
+  "title": "Green earthquake (Magnitude 5.3M, Depth:56.274km) in Indonesia 03/10/2026 23:37 UTC, 830 thousand in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569335",
+  "date": "2026-10-03T23:55:14+00:00",
+  "summary": "On 10/3/2026 11:37:35 PM, an earthquake occurred in Indonesia potentially affecting 830 thousand in 100km. The earthquake had Magnitude 5.3M, Depth:56.274km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 5m depth 575 042km in celebes sea 03 10 2026 23 14 utc no peo": {
+  "title": "Green earthquake (Magnitude 4.5M, Depth:575.042km) in Celebes Sea 03/10/2026 23:14 UTC, No people affected in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569331",
+  "date": "2026-10-03T23:42:24+00:00",
+  "summary": "On 10/3/2026 11:14:35 PM, an earthquake occurred in Celebes Sea potentially affecting No people affected in 100km. The earthquake had Magnitude 4.5M, Depth:575.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5 9m depth 45 951km in indonesia 03 10 2026 22 55 utc 130 thous": {
+  "title": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569326",
+  "date": "2026-10-03T23:14:32+00:00",
+  "summary": "On 10/3/2026 10:55:55 PM, an earthquake occurred in Indonesia potentially affecting 130 thousand in MMI V. The earthquake had Magnitude 5.9M, Depth:45.951km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 5m depth 10km in mexico 03 10 2026 20 33 utc no people affect": {
+  "title": "Green earthquake (Magnitude 4.5M, Depth:10km) in Mexico 03/10/2026 20:33 UTC, No people affected in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569312",
+  "date": "2026-10-03T20:50:43+00:00",
+  "summary": "On 10/3/2026 8:33:45 PM, an earthquake occurred in Mexico potentially affecting No people affected in 100km. The earthquake had Magnitude 4.5M, Depth:10km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 5 1m depth 10km in off east coast of kamchatka 03 10 2026 20 00": {
+  "title": "Green earthquake (Magnitude 5.1M, Depth:10km) in Off East Coast Of Kamchatka 03/10/2026 20:00 UTC, No people affected in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569310",
+  "date": "2026-10-03T20:24:24+00:00",
+  "summary": "On 10/3/2026 8:00:44 PM, an earthquake occurred in Off East Coast Of Kamchatka potentially affecting No people affected in 100km. The earthquake had Magnitude 5",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 9m depth 35km in myanmar 03 10 2026 18 12 utc 1 2 million in ": {
+  "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Myanmar 03/10/2026 18:12 UTC, 1.2 million in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569302",
+  "date": "2026-10-03T18:35:59+00:00",
+  "summary": "On 10/3/2026 6:12:46 PM, an earthquake occurred in Myanmar potentially affecting 1.2 million in 100km. The earthquake had Magnitude 4.9M, Depth:35km.",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "green earthquake magnitude 4 6m depth 81 86km in papua new guinea 03 10 2026 17 24 utc 510": {
+  "title": "Green earthquake (Magnitude 4.6M, Depth:81.86km) in Papua New Guinea 03/10/2026 17:24 UTC, 510 thousand in 100km.",
+  "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569300",
+  "date": "2026-10-03T17:54:16+00:00",
+  "summary": "On 10/3/2026 5:24:12 PM, an earthquake occurred in Papua New Guinea potentially affecting 510 thousand in 100km. The earthquake had Magnitude 4.6M, Depth:81.86k",
+  "source": "GDACS orange and red alerts",
+  "group": "agencies",
+  "duration": null,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
+ },
+ "the battery revolution": {
+  "title": "The Battery Revolution",
+  "link": "http://www.bbc.co.uk/programmes/w3ct99j3",
+  "date": "2026-10-04T13:00:00+00:00",
+  "summary": "From Mongolia to Texas, record numbers of lithium-ion batteries are being added to the world's electricity grids - helping to provide more reliable power and sp",
+  "source": "The Climate Question (BBC)",
+  "group": "podcasts",
+  "duration": 26,
+  "first_seen": "2026-10-04T15:22:55.753634+00:00"
  }
 }

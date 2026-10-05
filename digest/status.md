@@ -1,4 +1,4 @@
-# Feed status · 2026-10-05 13:46 UTC · 90/92 feeds working
+# Feed status · 2026-10-05 13:48 UTC · 91/92 feeds working
 
 | Feed | Status | Items in feed | New items kept |
 |---|---|---|---|
@@ -15,12 +15,12 @@
 | Global News Toronto | ok | 10 | 0 |
 | Global News Canada | ok | 10 | 0 |
 | CTV News Toronto (via Google News) | ok | 10 | 0 |
-| Toronto Star GTA | FAILED: HTTPError HTTP Error 429: Too Many Requests | 0 | 0 |
+| Toronto Star GTA | ok | 50 | 0 |
 | Canadian Press via Newswire (Canada) | ok | 20 | 0 |
 | Google News: Toronto fire | ok | 5 | 0 |
-| Google News: lithium-ion fire Canada | ok | 10 | 0 |
+| Google News: lithium-ion fire Canada | ok | 10 | 1 |
 | Google News: 9-1-1 Canada | ok | 10 | 0 |
-| Google News: emergency management Canada | ok | 10 | 1 |
+| Google News: emergency management Canada | ok | 10 | 0 |
 | Google News: wildfire flood Canada | ok | 10 | 0 |
 | Google News: Ontario fire marshal | ok | 10 | 0 |
 | Google News: urban search and rescue | ok | 10 | 0 |
@@ -30,7 +30,7 @@
 | Artemis (cat bonds) | ok | 10 | 0 |
 | NIST news | ok | 40 | 0 |
 | UL FSRI (via Google News) | ok | 9 | 0 |
-| NFPA (via Google News) | ok | 10 | 8 |
+| NFPA (via Google News) | ok | 10 | 0 |
 | USFA (via Google News) | ok | 2 | 0 |
 | PreventionWeb | ok | 40 | 0 |
 | Urgent Communications (via Google News) | ok | 2 | 0 |
@@ -49,10 +49,10 @@
 | Natural Hazards Review | ok | 10 | 0 |
 | Emergency Management magazine (GovTech) | ok | 10 | 0 |
 | The Conversation Canada: natural disasters | ok | 25 | 0 |
-| Google News: community risk assessment | ok | 9 | 1 |
-| Google News: public alerting | ok | 10 | 1 |
+| Google News: community risk assessment | ok | 9 | 0 |
+| Google News: public alerting | ok | 10 | 0 |
 | Google News: public safety communications | ok | 10 | 0 |
-| Google News: emergency tech and AI | ok | 10 | 2 |
+| Google News: emergency tech and AI | ok | 10 | 0 |
 | Google News: resilience policy Canada | ok | 7 | 0 |
 | NENA (via Google News) | ok | 7 | 0 |
 | EENA (via Google News) | ok | 1 | 0 |
@@ -75,22 +75,22 @@
 | Disasters: Deconstructed | ok | 100 | 0 |
 | Electric Cities (ULI Toronto) | ok | 47 | 0 |
 | Emergency Preparedness in Canada (EPIC) | ok | 89 | 0 |
-| Front Burner (CBC) | ok | 2159 | 1 |
+| Front Burner (CBC) | ok | 2150 | 1 |
 | MW Shares (Municipal World) | ok | 46 | 0 |
 | Power & Politics (CBC) | ok | 69 | 0 |
 | Risk REconsidered (Swiss Re) | ok | 7 | 0 |
 | Smart Firefighting | ok | 341 | 0 |
 | The Climate Question (BBC) | ok | 317 | 0 |
 | The Emergency Management Network Podcast | FAILED: HTTPError HTTP Error 403: Forbidden | 0 | 0 |
-| OpenAlex: emergency and disaster management | ok | 25 | 3 |
-| OpenAlex: fire service | ok | 25 | 3 |
-| OpenAlex: wildfire and evacuation | ok | 25 | 3 |
-| OpenAlex: battery fires | ok | 25 | 2 |
-| OpenAlex: emergency communications | ok | 25 | 8 |
-| OpenAlex: search and rescue | ok | 25 | 1 |
-| OpenAlex: disaster finance and insurance | ok | 23 | 0 |
-| OpenAlex: community resilience and vulnerability | ok | 25 | 7 |
-| OpenAlex: warning and risk communication | ok | 25 | 15 |
-| OpenAlex: risk and public governance | ok | 25 | 1 |
+| OpenAlex: emergency and disaster management | ok | 25 | 25 |
+| OpenAlex: fire service | ok | 25 | 22 |
+| OpenAlex: wildfire and evacuation | ok | 25 | 18 |
+| OpenAlex: battery fires | ok | 25 | 25 |
+| OpenAlex: emergency communications | ok | 25 | 23 |
+| OpenAlex: search and rescue | ok | 25 | 22 |
+| OpenAlex: disaster finance and insurance | ok | 23 | 21 |
+| OpenAlex: community resilience and vulnerability | ok | 25 | 23 |
+| OpenAlex: warning and risk communication | ok | 25 | 20 |
+| OpenAlex: risk and public governance | ok | 25 | 21 |
 | arXiv: emergency and disaster research | ok | 40 | 1 |
 | Semantic Scholar: emergency and disaster research | ok | 159 | 0 |

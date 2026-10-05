@@ -1,4 +1,4 @@
-# Weekly feed digest · generated 2026-10-05 13:46 UTC
+# Weekly feed digest · generated 2026-10-05 13:48 UTC
 Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -22,6 +22,7 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-09-29 · Ontario Newsroom · Ottawa Construction Company Fined $75,000 Following Workplace Explosion · https://news.ontario.ca/en/court/1008069/ottawa_construction_company_fined_75000_following_workplace_explosion
 
 ## News
+- 2026-10-05 · Google News: lithium-ion fire Canada · Ontario Tribunal Upholds Condo E-Bike Ban, Even Inside Units (2026) - UL Lawyers · https://www.ullaw.ca/news/ontario-condo-e-bike-ban
 - 2026-10-05 · Google News: Ontario fire marshal · Barrie house fire on Friday afternoon leaves pair of men dead, say police - Simcoe.com · https://www.simcoe.com/news/barrie-house-fire-leaves-pair-of-men-dead-say-police/article_f13ab321-0c71-5f67-8c22-d6f258c9001b.html
 - 2026-10-05 · Google News: 9-1-1 Canada · TELUS and AST SpaceMobile successfully complete first satellite-to-smartphone integration test on the TELUS network - newswire.ca · https://www.newswire.ca/news-releases/telus-and-ast-spacemobile-successfully-complete-first-satellite-to-smartphone-integration-test-on-the-telus-network-819217221.html
 - 2026-10-05 · Global News Toronto · Trial set to begin for man accused in massive gold heist at Toronto’s Pearson airport · https://globalnews.ca/news/12087718/parmpal-sidhu-pearson-gold-heist-trial/ — A trial is set to begin Monday in Brampton, Ont., for a man accused in what investigators have calle
@@ -39,7 +40,6 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-05 · Google News: Toronto fire · Fire Prevention Week, make sure you’re plugged in properly - TorontoToday.ca · https://www.torontotoday.ca/local/crime-emergency-services/fire-prevention-week-make-sure-youre-plugged-in-properly-12855041
 - 2026-10-05 · CBC Canada · Canadians born abroad caught up in yearslong citizenship certificate processing delays · https://www.cbc.ca/news/politics/canadian-citizenship-lost-canadians-c3-backlog-9.7366981?cmp=rss — Immigration, Refugees and Citizenship Canada is struggling to handle a flood of citizenship applicat
 - 2026-10-05 · Google News: Ontario fire marshal · Mississippi Mills firefighter among 83 honoured at Ontario Fallen Firefighters Memorial - The Lanarkist · https://lanarkist.com/2026/10/04/mississippi-mills-firefighter-among-83-honoured-at-ontario-fallen-firefighters-memorial/
-- 2026-10-04 · Google News: lithium-ion fire Canada · Safe charging of Lithium-Ion devices highlighted during Fire Prevention Week - - The Laker · https://thelaker.ca/safe-charging-of-lithium-ion-devices-highlighted-during-fire-prevention-week/
 - 2026-10-04 · Google News: disaster insurance Canada · A Modest Proposal for a New Project of National Interest - The Energy Mix Weekender · https://energymixweekender.substack.com/p/a-modest-proposal-for-a-new-project
 - 2026-10-04 · Google News: wildfire flood Canada · Sass Jordan dead: Canadian Idol judge and rock legend dies as emotional tributes flood in - Daily Express · https://www.express.co.uk/celebrity-news/2254380/sass-jordan-dead-canadian-idol-judge
 - 2026-10-04 · Google News: wildfire flood Canada · Wildfire at campsite in northern Italy - Yahoo News Canada · https://ca.news.yahoo.com/wildfire-campsite-northern-italy-155200821.html

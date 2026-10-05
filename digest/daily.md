@@ -1,10 +1,11 @@
-# Daily feed digest · generated 2026-10-05 13:46 UTC
+# Daily feed digest · generated 2026-10-05 13:48 UTC
 Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.
 
 ## City of Toronto
 - 2026-10-04 · City of Toronto news · Toronto Fire Services launches Fire Prevention Week 2026: Safe Charging is a Superpower · https://www.toronto.ca/news/toronto-fire-services-launches-fire-prevention-week-2026-safe-charging-is-a-superpower/
 
 ## News
+- 2026-10-05 · Google News: lithium-ion fire Canada · Ontario Tribunal Upholds Condo E-Bike Ban, Even Inside Units (2026) - UL Lawyers · https://www.ullaw.ca/news/ontario-condo-e-bike-ban
 - 2026-10-05 · Google News: Ontario fire marshal · Barrie house fire on Friday afternoon leaves pair of men dead, say police - Simcoe.com · https://www.simcoe.com/news/barrie-house-fire-leaves-pair-of-men-dead-say-police/article_f13ab321-0c71-5f67-8c22-d6f258c9001b.html
 - 2026-10-05 · Google News: 9-1-1 Canada · TELUS and AST SpaceMobile successfully complete first satellite-to-smartphone integration test on the TELUS network - newswire.ca · https://www.newswire.ca/news-releases/telus-and-ast-spacemobile-successfully-complete-first-satellite-to-smartphone-integration-test-on-the-telus-network-819217221.html
 - 2026-10-05 · Global News Toronto · Trial set to begin for man accused in massive gold heist at Toronto’s Pearson airport · https://globalnews.ca/news/12087718/parmpal-sidhu-pearson-gold-heist-trial/
@@ -14,7 +15,6 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-05 · Google News: Toronto fire · Crews respond to sinkhole in Scarborough - CTV News · https://www.ctvnews.ca/toronto/article/crews-respond-to-sinkhole-in-scarborough/
 - 2026-10-05 · Google News: Toronto fire · Watermain break blocks Midland Avenue in Scarborough - CityNews Toronto · https://toronto.citynews.ca/2026/10/05/watermain-break-blocks-midland-avenue-in-scarborough/
 - 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week shines a spotlight on lithium-ion battery fire risks - Brockville Daily · https://www.brockvilledaily.ca/news/top-3-stories-in-brockville/fire-prevention-week-shines-a-spotlight-on-lithium-ion-battery-fire-risks/
-- 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week focuses on safe lithium-ion battery charging - SwiftCurrentOnline · https://www.swiftcurrentonline.com/articles/fire-prevention-week-focuses-on-safe-lithium-ion-battery-charging
 
 ## Fire service
 - 2026-10-05 · Firehouse · Eagle Rock, VA, Assistant Fire Chief Dies of Injuries Suffered a Decade Ago · https://www.firehouse.com/lodds/video/55409491/eagle-rock-va-assistant-fire-chief-dies-of-injuries-suffered-a-decade-ago

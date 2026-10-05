@@ -1,0 +1,187 @@
+{
+ "https://www.toronto.ca/news/feed/": {
+  "etag": "\"9a49e77b6503a8fd80541493cfb93eca\"",
+  "modified": "Mon, 05 Oct 2026 19:45:45 GMT"
+ },
+ "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20": {},
+ "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
+  "etag": "\"abafaf0dbce16834bbc654c7bce6dcbc\"",
+  "modified": "Mon, 05 Oct 2026 19:01:00 GMT"
+ },
+ "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
+  "etag": "W/\"6dba-6Z+RJKX9kxlaciK2P24qcQLHwv8\""
+ },
+ "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofhealth&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
+  "etag": "W/\"6238-gffR43M0xc2uNTB84yXEi56uOQo\""
+ },
+ "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianradiotelevisionandtelecommunicationscommission&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
+  "etag": "W/\"5b88-CyHbbGknzGEsaMoXV28LvNz8830\""
+ },
+ "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=naturalresourcescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
+  "etag": "W/\"7055-BIR1oo8BPfS/VA8aznhwtrf0f1U\""
+ },
+ "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
+  "etag": "W/\"6fc3-r2Llit4YcsZUnycpZfPRGjFW/hc\""
+ },
+ "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
+ "https://www.cbc.ca/webfeed/rss/rss-canada": {},
+ "https://globalnews.ca/toronto/feed/": {
+  "etag": "W/\"1239acfd56d0ffd68e3825a4e8c1aacb\"",
+  "modified": "Mon, 05 Oct 2026 19:56:19 GMT"
+ },
+ "https://globalnews.ca/canada/feed/": {
+  "etag": "W/\"899b79472d22c13b85554ec8f218ea7f\"",
+  "modified": "Mon, 05 Oct 2026 19:55:15 GMT"
+ },
+ "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
+  "etag": "W/a95290a7d14d05ed5aa0570ab9895e91",
+  "modified": "Mon, 05 Oct 2026 19:58:26 GMT"
+ },
+ "https://www.newswire.ca/rss/news-releases-list.rss": {
+  "etag": "W/\"a462-65cc31c3cceb9\"",
+  "modified": "Thu, 01 Oct 2026 08:22:02 GMT"
+ },
+ "https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22NG9-1-1%22+OR+%229-1-1%22+OR+%22911+outage%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22emergency+management%22+OR+%22Emergency+Management+Ontario%22)+(Canada+OR+Toronto+OR+%22Ontario+government%22)+-%22New+York%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(wildfire+OR+flood+OR+evacuation)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=%22fire+marshal%22+Ontario+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22urban+search+and+rescue%22+OR+HUSAR+OR+INSARAG)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+%22catastrophe+losses%22+OR+%22Insurance+Bureau+of+Canada%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://www.firefightingincanada.com/feed/": {
+  "etag": "\"513f8c3190176c033cbe59e04ff3acde\"",
+  "modified": "Mon, 05 Oct 2026 19:25:06 GMT"
+ },
+ "https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://www.artemis.bm/feed/": {
+  "etag": "W/\"5cecdd87b76bef950904fd29000c747c\"",
+  "modified": "Mon, 05 Oct 2026 14:20:03 GMT"
+ },
+ "https://www.nist.gov/news-events/news/rss.xml": {
+  "etag": "\"1791230403-gzip\"",
+  "modified": "Mon, 05 Oct 2026 20:00:03 GMT"
+ },
+ "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:usfa.fema.gov+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://www.preventionweb.net/rss.xml": {
+  "etag": "\"1791214954-gzip\"",
+  "modified": "Mon, 05 Oct 2026 15:42:34 GMT"
+ },
+ "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://hazards.colorado.edu/feed": {
+  "etag": "\"2af9046c5d88623992e1bfaae4afc259\"",
+  "modified": "Mon, 05 Oct 2026 19:47:14 GMT"
+ },
+ "https://rss.sciencedirect.com/publication/science/22124209": {
+  "etag": "\"8daf571b9120df14d50ce2b61754f866\"",
+  "modified": "Mon, 05 Oct 2026 09:09:10 GMT"
+ },
+ "https://rss.sciencedirect.com/publication/science/03797112": {
+  "etag": "\"d440a59d9da3ffae177c2388c5c45b83\"",
+  "modified": "Mon, 05 Oct 2026 09:03:37 GMT"
+ },
+ "https://rss.sciencedirect.com/publication/science/09257535": {
+  "etag": "W/\"74c61f680e95181dd862acc34b35604d\"",
+  "modified": "Mon, 05 Oct 2026 09:10:47 GMT"
+ },
+ "https://onlinelibrary.wiley.com/feed/14677717/most-recent": {
+  "modified": "Mon, 05 Oct 2026 07:46:38 GMT"
+ },
+ "https://onlinelibrary.wiley.com/feed/15396924/most-recent": {
+  "modified": "Mon, 05 Oct 2026 08:19:38 GMT"
+ },
+ "https://onlinelibrary.wiley.com/feed/14685973/most-recent": {
+  "modified": "Mon, 05 Oct 2026 07:56:05 GMT"
+ },
+ "https://api.crossref.org/journals/0015-2684/works?sort=created&order=desc&rows=25": {},
+ "https://api.crossref.org/journals/0921-030X/works?sort=created&order=desc&rows=40": {},
+ "https://api.crossref.org/journals/2192-6395/works?sort=created&order=desc&rows=25": {},
+ "https://www.mdpi.com/rss/journal/fire": {},
+ "https://api.crossref.org/journals/1090-3127/works?sort=created&order=desc&rows=25": {},
+ "https://ascelibrary.org/action/showFeed?type=etoc&feed=rss&jc=nhrefo": {
+  "modified": "Sat, 03 Oct 2026 14:11:30 GMT"
+ },
+ "https://www.govtech.com/em.rss": {},
+ "https://theconversation.com/ca/topics/natural-disasters-1172/articles.atom": {},
+ "https://news.google.com/rss/search?q=(%22community+risk+assessment%22+OR+%22community+risk+reduction%22+OR+%22hazard+identification+and+risk+assessment%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22Alert+Ready%22+OR+%22emergency+alert%22+OR+%22public+alerting%22+OR+%22wireless+emergency+alert%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22public+safety+broadband%22+OR+FirstNet+OR+%22public+safety+communications%22+OR+%22emergency+communications%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22emergency+management%22+OR+%22disaster+response%22+OR+firefighters)+(AI+OR+drones+OR+%22artificial+intelligence%22)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=(%22disaster+resilience%22+OR+%22climate+adaptation%22+OR+%22disaster+risk+reduction%22)+(policy+OR+strategy+OR+funding)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:nena.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:eena.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:fema.gov+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:domesticpreparedness.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://www.gdacs.org/xml/rss_24h.xml": {
+  "etag": "W/\"883bf3bb355dd1:0\"",
+  "modified": "Mon, 05 Oct 2026 19:57:21 GMT"
+ },
+ "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
+  "modified": "Mon, 05 Oct 2026 19:21:23 GMT"
+ },
+ "https://nhess.copernicus.org/xml/rss2_0.xml": {
+  "etag": "\"6e10-65d1ca84af619-gzip\"",
+  "modified": "Mon, 05 Oct 2026 19:12:04 GMT"
+ },
+ "https://onlinelibrary.wiley.com/feed/19444079/most-recent": {
+  "modified": "Mon, 05 Oct 2026 08:51:54 GMT"
+ },
+ "https://api.crossref.org/journals/1547-7355/works?sort=created&order=desc&rows=25": {},
+ "https://api.crossref.org/journals/0280-7270/works?sort=created&order=desc&rows=25": {},
+ "https://api.crossref.org/journals/1747-7891/works?sort=created&order=desc&rows=25": {},
+ "https://api.crossref.org/journals/1935-7893/works?sort=created&order=desc&rows=25": {},
+ "https://api.crossref.org/journals/1366-9877/works?sort=created&order=desc&rows=25": {},
+ "https://api.crossref.org/journals/1948-8327/works?sort=created&order=desc&rows=25": {},
+ "https://feed.podbean.com/sidealpha/feed.xml": {
+  "etag": "W/\"b6dae7f6a9e830a99001600bb9b3abe5\""
+ },
+ "https://www.spreaker.com/show/6208902/episodes/feed": {
+  "etag": "W/\"017d3173bfe7ba5881b0820b44fc46d6\"",
+  "modified": "Wed, 16 Sep 2026 10:02:43 GMT"
+ },
+ "https://feed.podbean.com/disastersdecon/feed.xml": {
+  "etag": "W/\"4e9a2433468b10f9d46c5c724c1c6551\""
+ },
+ "https://feed.podbean.com/ulitoronto/feed.xml": {
+  "etag": "W/\"31b5d43da01a9e16bb22b9366b23b327\""
+ },
+ "https://feeds.soundcloud.com/users/soundcloud:users:252268684/sounds.rss": {},
+ "https://www.cbc.ca/podcasting/includes/frontburner.xml": {
+  "modified": "Mon, 05 Oct 2026 15:53:46 GMT"
+ },
+ "https://www.municipalworld.com/podcast-channels/mw-shares/feed/": {
+  "etag": "W/\"4d7ff3d13651cb47fd0f95d55e1bea41-br\"",
+  "modified": "Mon, 05 Oct 2026 15:42:20 GMT"
+ },
+ "https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml": {
+  "modified": "Mon, 05 Oct 2026 06:00:24 GMT"
+ },
+ "https://rss.libsyn.com/shows/540792/destinations/4660057.xml": {
+  "etag": "W/\"927048863fbaa5c7a746b430b2034517\"",
+  "modified": "Thu, 10 Sep 2026 16:02:08 GMT"
+ },
+ "https://feed.podbean.com/SmartFirefighting/feed.xml": {
+  "etag": "W/\"2ee8dddd3cd21151d908166f2838207c\""
+ },
+ "https://podcasts.files.bbci.co.uk/w13xtvb6.rss": {
+  "etag": "\"0c3b08bc9962347e65e02e5ecf8dc840\"",
+  "modified": "Sun, 04 Oct 2026 13:25:29 GMT"
+ },
+ "https://api.openalex.org/works?search=%22emergency%20management%22%20OR%20%22disaster%20management%22%20OR%20%22disaster%20response%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22fire%20service%22%20OR%20firefighter%20OR%20firefighters%20OR%20%22fire%20department%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22wildfire%20evacuation%22%20OR%20%22wildland-urban%20interface%22%20OR%20%22evacuation%20planning%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22lithium-ion%22%20AND%20%28%22thermal%20runaway%22%20OR%20fire%29&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22emergency%20call%22%20OR%20%22public%20safety%20answering%20point%22%20OR%20%22emergency%20communication%22%20OR%20%22next%20generation%20911%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22urban%20search%20and%20rescue%22%20OR%20%22collapsed%20building%22%20OR%20%22search%20and%20rescue%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22flood%20insurance%22%20OR%20%22catastrophe%20bond%22%20OR%20%22disaster%20finance%22%20OR%20%22insured%20losses%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22community%20resilience%22%20OR%20%22social%20vulnerability%22%20OR%20%22disaster%20recovery%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22early%20warning%22%20OR%20%22public%20alerting%22%20OR%20%22risk%20communication%22%20OR%20%22emergency%20alert%22&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22disaster%20risk%20governance%22%20OR%20%22emergency%20management%20policy%22%20OR%20%22public%20safety%22%20AND%20governance&filter=from_publication_date:2026-09-25,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://export.arxiv.org/api/query?search_query=abs:%22emergency%20management%22%20OR%20abs:%22disaster%20response%22%20OR%20abs:%22disaster%20management%22%20OR%20abs:%22evacuation%22%20OR%20abs:%22emergency%20call%22%20OR%20abs:%22firefighting%22%20OR%20abs:%22search%20and%20rescue%22&sortBy=submittedDate&sortOrder=descending&max_results=40": {},
+ "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=%22emergency%20management%22%20%7C%20%22disaster%20response%22%20%7C%20%22fire%20service%22%20%7C%20%22disaster%20risk%22&fields=title,url,externalIds,publicationDate,venue,abstract,openAccessPdf&publicationDateOrYear=2026-09-25:&sort=publicationDate:desc": {}
+}

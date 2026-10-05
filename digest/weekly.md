@@ -1,4 +1,4 @@
-# Weekly feed digest · generated 2026-10-05 13:37 UTC
+# Weekly feed digest · generated 2026-10-05 13:46 UTC
 Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -27,6 +27,7 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-05 · Global News Toronto · Trial set to begin for man accused in massive gold heist at Toronto’s Pearson airport · https://globalnews.ca/news/12087718/parmpal-sidhu-pearson-gold-heist-trial/ — A trial is set to begin Monday in Brampton, Ont., for a man accused in what investigators have calle
 - 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week focusing on lithium-ion battery safety - CTV News · https://www.ctvnews.ca/atlantic/video/2026/10/05/fire-prevention-week-focusing-on-lithium-ion-battery-safety/
 - 2026-10-05 · Google News: emergency management Canada · US Supreme Court weighs bid by oil companies to avoid climate lawsuit - KELO-AM · https://kelo.com/2026/10/05/us-supreme-court-weighs-bid-by-oil-companies-to-avoid-climate-lawsuit/
+- 2026-10-05 · Google News: emergency management Canada · US Supreme Court weighs bid by oil companies to avoid climate lawsuit - kelo.com · https://kelo.com/2026/10/05/us-supreme-court-weighs-bid-by-oil-companies-to-avoid-climate-lawsuit/
 - 2026-10-05 · Google News: Toronto fire · Crews respond to sinkhole in Scarborough - CTV News · https://www.ctvnews.ca/toronto/article/crews-respond-to-sinkhole-in-scarborough/
 - 2026-10-05 · Google News: Toronto fire · Watermain break blocks Midland Avenue in Scarborough - CityNews Toronto · https://toronto.citynews.ca/2026/10/05/watermain-break-blocks-midland-avenue-in-scarborough/
 - 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week shines a spotlight on lithium-ion battery fire risks - Brockville Daily · https://www.brockvilledaily.ca/news/top-3-stories-in-brockville/fire-prevention-week-shines-a-spotlight-on-lithium-ion-battery-fire-risks/
@@ -46,7 +47,6 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-04 · Google News: Ontario fire marshal · 'Real shocker': Neighbours grieve loss of men killed in Barrie fire - OrilliaMatters.com · https://www.orilliamatters.com/local-news/real-shocker-neighbours-grieve-loss-of-men-killed-in-barrie-fire-12853922
 - 2026-10-04 · Google News: wildfire flood Canada · Brit-born rock singer & Canadian Idol star Sass Jordan dies aged 63 as heartbreaking tributes flood in - The Sun · https://www.thesun.co.uk/tvandshowbiz/40576928/rock-singer-sass-jordan-dies/
 - 2026-10-04 · Google News: emergency management Canada · US Supreme Court opens new term with high-stakes big oil bid to toss climate suits - The News International · https://www.thenews.com.pk/latest/1418700-us-supreme-court-opens-new-term-with-high-stakes-big-oil-bid-to-toss-climate-suits
-- 2026-10-04 · Google News: emergency management Canada · US Supreme Court opens new term with high-stakes big oil bid to toss climate suits - thenews.com.pk · https://www.thenews.com.pk/latest/1418700-us-supreme-court-opens-new-term-with-high-stakes-big-oil-bid-to-toss-climate-suits
 
 ## Fire service
 - 2026-10-05 · Firehouse · Eagle Rock, VA, Assistant Fire Chief Dies of Injuries Suffered a Decade Ago · https://www.firehouse.com/lodds/video/55409491/eagle-rock-va-assistant-fire-chief-dies-of-injuries-suffered-a-decade-ago — Assistant Chief Alan 'Bubba' Wright was involved in a water rescue near Eagle Rock in 2016 when he w
@@ -118,5 +118,5 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-02 · FEMA (via Google News) · FEMA Delivers Additional $3 Million to Help Fire Departments in Connecticut - FEMA.gov · https://www.fema.gov/press-release/20261002/fema-delivers-additional-3-million-help-fire-departments-connecticut
 - 2026-10-02 · FEMA (via Google News) · FEMA Delivers Additional $4 Million to Help Fire Departments and Other First Responder Organizations in Massachusetts - FEMA.gov · https://www.fema.gov/press-release/20261002/fema-delivers-additional-4-million-help-fire-departments-and-other-first
 - 2026-10-02 · NFPA (via Google News) · NFPA 75 Standard Development - National Fire Protection Association (NFPA) · https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/75
+- 2026-10-02 · NFPA (via Google News) · NFPA 75 Standard Development - nfpa.org · https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/75
 - 2026-10-02 · FEMA (via Google News) · Local Mitigation Planning Training - FEMA.gov · https://www.fema.gov/emergency-managers/national-preparedness/training/course/318b
-- 2026-10-01 · NFPA (via Google News) · NFPA 855 Standard Development - National Fire Protection Association (NFPA) · https://www.nfpa.org/codes-and-standards/nfpa-standard-development-process/855

@@ -1,4 +1,4 @@
-# Daily feed digest · generated 2026-10-05 13:37 UTC
+# Daily feed digest · generated 2026-10-05 13:46 UTC
 Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -10,11 +10,11 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-05 · Global News Toronto · Trial set to begin for man accused in massive gold heist at Toronto’s Pearson airport · https://globalnews.ca/news/12087718/parmpal-sidhu-pearson-gold-heist-trial/
 - 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week focusing on lithium-ion battery safety - CTV News · https://www.ctvnews.ca/atlantic/video/2026/10/05/fire-prevention-week-focusing-on-lithium-ion-battery-safety/
 - 2026-10-05 · Google News: emergency management Canada · US Supreme Court weighs bid by oil companies to avoid climate lawsuit - KELO-AM · https://kelo.com/2026/10/05/us-supreme-court-weighs-bid-by-oil-companies-to-avoid-climate-lawsuit/
+- 2026-10-05 · Google News: emergency management Canada · US Supreme Court weighs bid by oil companies to avoid climate lawsuit - kelo.com · https://kelo.com/2026/10/05/us-supreme-court-weighs-bid-by-oil-companies-to-avoid-climate-lawsuit/
 - 2026-10-05 · Google News: Toronto fire · Crews respond to sinkhole in Scarborough - CTV News · https://www.ctvnews.ca/toronto/article/crews-respond-to-sinkhole-in-scarborough/
 - 2026-10-05 · Google News: Toronto fire · Watermain break blocks Midland Avenue in Scarborough - CityNews Toronto · https://toronto.citynews.ca/2026/10/05/watermain-break-blocks-midland-avenue-in-scarborough/
 - 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week shines a spotlight on lithium-ion battery fire risks - Brockville Daily · https://www.brockvilledaily.ca/news/top-3-stories-in-brockville/fire-prevention-week-shines-a-spotlight-on-lithium-ion-battery-fire-risks/
 - 2026-10-05 · Google News: lithium-ion fire Canada · Fire Prevention Week focuses on safe lithium-ion battery charging - SwiftCurrentOnline · https://www.swiftcurrentonline.com/articles/fire-prevention-week-focuses-on-safe-lithium-ion-battery-charging
-- 2026-10-05 · Google News: disaster insurance Canada · Care-First pricing hits Alberta renewal notices from November 1 - Insurance Business · https://www.insurancebusinessmag.com/ca/news/auto-motor/carefirst-pricing-hits-alberta-renewal-notices-from-november-1-592230.aspx
 
 ## Fire service
 - 2026-10-05 · Firehouse · Eagle Rock, VA, Assistant Fire Chief Dies of Injuries Suffered a Decade Ago · https://www.firehouse.com/lodds/video/55409491/eagle-rock-va-assistant-fire-chief-dies-of-injuries-suffered-a-decade-ago

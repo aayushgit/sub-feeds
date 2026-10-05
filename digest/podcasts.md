@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-05 13:37 UTC
+# Podcast episodes · generated 2026-10-05 13:46 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-05 · Front Burner (CBC) · 21 min · Brexit's lessons for Alberta · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-VHPJuvVw-20261004.mp3 — Ten years ago, Britain voted 52 per cent to 48 per cent to leave the European Union. The result reshaped British politic

@@ -318,7 +318,9 @@ write_digest("weekly.md", 8, 5, 100, "Weekly feed digest",
 # papers: new research first seen in the last ~30 hours, most on-topic first
 def score(v):
     blob = (" " + v["title"] + " " + v.get("abstract", "") + " ").lower()
-    return sum(1 for k in keywords if k in blob)
+    hits = sum(1 for k in keywords if k in blob)
+    # papers from the curated journal feeds rank ahead of open web searches
+    return hits + (3 if v["group"] == "journals" else 0)
 
 
 fresh = [v for v in store.values() if v["group"] in ("journals", "papers")

@@ -48,10 +48,72 @@ keywords = [l.strip().lower() for l in (ROOT / "keywords.txt").read_text(encodin
             if l.strip() and not l.lstrip().startswith("#")]
 
 
+import gzip, random
+from urllib.parse import urlsplit
+
+BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+ACCEPT = "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, application/json;q=0.8, */*;q=0.5"
+CACHE_PATH = DIGEST / "http_cache.json"     # ETag / Last-Modified per URL, so unchanged feeds are not re-downloaded
+http_cache = json.loads(CACHE_PATH.read_text()) if CACHE_PATH.exists() else {}
+_last_hit = {}
+
+
+class NotModified(Exception):
+    pass
+
+
+def _pace(host):
+    """Polite crawling: at least ~1.5 s between requests to the same site."""
+    gap = 0.6 if host == "news.google.com" else 1.5
+    wait = gap - (time.time() - _last_hit.get(host, 0))
+    if wait > 0:
+        time.sleep(wait)
+    _last_hit[host] = time.time()
+
+
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return r.read()
+    """Fetch politely: conditional GET, gzip, pacing, retries with backoff, one retry with a browser UA on 403."""
+    host = urlsplit(url).netloc
+    cacheable = "/rss/articles/" not in url and "batchexecute" not in url
+    cached = http_cache.get(url, {}) if cacheable else {}
+    ua = UA
+    for attempt in range(4):
+        _pace(host)
+        headers = {"User-Agent": ua, "Accept": ACCEPT, "Accept-Encoding": "gzip",
+                   "Accept-Language": "en-CA,en;q=0.9"}
+        if cached.get("etag"):
+            headers["If-None-Match"] = cached["etag"]
+        if cached.get("modified"):
+            headers["If-Modified-Since"] = cached["modified"]
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30) as r:
+                body = r.read()
+                if r.headers.get("Content-Encoding") == "gzip":
+                    body = gzip.decompress(body)
+                if cacheable:
+                    http_cache[url] = {k: v for k, v in (("etag", r.headers.get("ETag")),
+                                                          ("modified", r.headers.get("Last-Modified"))) if v}
+                return body
+        except urllib.error.HTTPError as e:
+            if e.code == 304:
+                raise NotModified()
+            if e.code == 403 and ua == UA:
+                ua = BROWSER_UA          # some sites refuse non-browser clients
+                continue
+            if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+                try:
+                    delay = min(int(e.headers.get("Retry-After", "0")), 30)
+                except ValueError:
+                    delay = 0
+                time.sleep(delay or (2 ** attempt * 3 + random.random()))
+                continue
+            raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt < 2:
+                time.sleep(2 ** attempt * 3)
+                continue
+            raise
+    raise RuntimeError("gave up after retries")
 
 
 def clean(text):
@@ -231,7 +293,11 @@ status = []
 
 for f in feeds:
     try:
-        raw = fetch(f["url"])
+        try:
+            raw = fetch(f["url"])
+        except NotModified:
+            status.append((f["name"], "ok", "unchanged", 0))
+            continue
         items = {"ckan": parse_ckan, "crossref": parse_crossref, "openalex": parse_openalex, "s2": parse_s2}.get(f["type"], parse_feed)(raw)
         kept = 0
         is_gnews = "news.google.com" in f["url"]
@@ -357,6 +423,15 @@ for v in pods:
 
 # keep latest.md as a copy of weekly for anything still pointing at it
 (DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())
+
+CACHE_PATH.write_text(json.dumps(http_cache, indent=1))
+# failure streaks, so a feed that keeps failing stands out
+HEALTH = DIGEST / "health.json"
+health = json.loads(HEALTH.read_text()) if HEALTH.exists() else {}
+for n, s_, a, k in status:
+    health[n] = 0 if s_ == "ok" else health.get(n, 0) + 1
+HEALTH.write_text(json.dumps(health, indent=1))
+status = [(n, s_ if s_ == "ok" or health[n] < 2 else f"{s_} · failing {health[n]} runs in a row", a, k) for n, s_, a, k in status]
 
 ok = sum(1 for s in status if s[1] == "ok")
 st = [f"# Feed status · {NOW:%Y-%m-%d %H:%M} UTC · {ok}/{len(status)} feeds working", "",

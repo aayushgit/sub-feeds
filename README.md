@@ -19,6 +19,9 @@ Example:
 
 To test right away: **Actions → Collect feeds → Run workflow**, then open **digest/status.md** to check the new feed shows `ok`.
 
+## How the collector avoids being blocked
+It fetches politely, like a good feed reader: it pauses between requests to the same site, asks only for what changed since the last run (ETag / If-Modified-Since, stored in `digest/http_cache.json`), accepts gzip, backs off and retries on rate limits or server errors, and retries once with a browser-style header if a site refuses unknown clients. Sites that still block GitHub can be reached through a Google News `site:` search (see above). `digest/status.md` flags any feed that has failed several runs in a row.
+
 ## Keywords
 **keywords.txt** has one word or phrase per line. Keep it focused: broad words like "risk" or "data" pull in noise and make the briefings cost more to read.
 

@@ -2,7 +2,8 @@ name: Collect feeds
 
 on:
   schedule:
-    - cron: "15 10 * * *"   # 10:15 UTC = 6:15 am Toronto (EDT) / 5:15 am (EST)
+    - cron: "20 7 * * *"    # 7:20 UTC = 3:20 am Toronto (EDT); GitHub can start late, so this leaves hours of slack
+    - cron: "50 9 * * *"    # second run as a safety net
   workflow_dispatch: {}
 
 permissions:

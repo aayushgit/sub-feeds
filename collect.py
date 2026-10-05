@@ -34,7 +34,9 @@ def load_feeds():
         if not name or not url:
             continue
         flt = (r.get("filter") or "no").strip().lower()
-        kind = "ckan" if flt == "ckan" else "crossref" if flt.startswith("crossref") else "feed"
+        kind = ("ckan" if flt == "ckan" else "crossref" if flt.startswith("crossref") else
+                "openalex" if flt == "openalex" else "s2" if flt == "s2" else "feed")
+        url = url.replace("{from}", (NOW - dt.timedelta(days=10)).strftime("%Y-%m-%d"))
         terms = [t.strip() for t in flt[6:].split("|") if t.strip()] if flt.startswith("match:") else None
         out.append({"name": name, "url": url, "group": (r.get("group") or "other").strip().lower() or "other",
                     "filter": flt in ("yes", "y", "true", "1", "crossref-filter"), "terms": terms, "type": kind})
@@ -182,6 +184,38 @@ def decode_gnews(url):
         return url
 
 
+def parse_openalex(raw):
+    out = []
+    for w in json.loads(raw).get("results", []):
+        inv = w.get("abstract_inverted_index") or {}
+        words = sorted((p, word) for word, ps in inv.items() for p in ps)
+        loc = (w.get("primary_location") or {}).get("source") or {}
+        out.append({
+            "title": clean(w.get("display_name") or ""),
+            "link": w.get("doi") or w.get("id") or "",
+            "date": parse_date(w.get("publication_date")),
+            "summary": " ".join(word for _, word in words),
+            "venue": loc.get("display_name") or "",
+            "oa": (w.get("open_access") or {}).get("oa_url") or "",
+        })
+    return out
+
+
+def parse_s2(raw):
+    out = []
+    for w in json.loads(raw).get("data", []):
+        doi = (w.get("externalIds") or {}).get("DOI")
+        out.append({
+            "title": clean(w.get("title") or ""),
+            "link": ("https://doi.org/" + doi) if doi else (w.get("url") or ""),
+            "date": parse_date(w.get("publicationDate")),
+            "summary": clean(w.get("abstract") or ""),
+            "venue": w.get("venue") or "",
+            "oa": (w.get("openAccessPdf") or {}).get("url") or "",
+        })
+    return out
+
+
 def matches(item):
     blob = (" " + item["title"] + " " + item["summary"] + " ").lower()
     return any(k in blob for k in keywords)
@@ -198,7 +232,7 @@ status = []
 for f in feeds:
     try:
         raw = fetch(f["url"])
-        items = {"ckan": parse_ckan, "crossref": parse_crossref}.get(f["type"], parse_feed)(raw)
+        items = {"ckan": parse_ckan, "crossref": parse_crossref, "openalex": parse_openalex, "s2": parse_s2}.get(f["type"], parse_feed)(raw)
         kept = 0
         is_gnews = "news.google.com" in f["url"]
         if is_gnews:   # newest 10 only; their summaries just repeat the title
@@ -224,6 +258,8 @@ for f in feeds:
                 "title": it["title"], "link": it["link"], "date": d.isoformat(),
                 "summary": it["summary"][:SUMMARY_CHARS], "source": f["name"], "group": f["group"],
                 "duration": it.get("duration"),
+                "venue": it.get("venue", ""), "oa": it.get("oa", ""),
+                "abstract": it["summary"][:400] if f["group"] in ("journals", "papers") else "",
                 "first_seen": NOW.isoformat(),
             }
             kept += 1
@@ -251,7 +287,7 @@ def write_digest(fname, days, per_source, summary_chars, title, note, per_group=
     recent.sort(key=lambda v: v["date"], reverse=True)
     lines = [f"# {title} · generated {NOW:%Y-%m-%d %H:%M} UTC", note, ""]
     for g, label in GROUPS:
-        if (summary_chars is None and g == "journals") or g == "podcasts":
+        if g in ("journals", "papers", "podcasts"):   # papers have their own file
             continue
         rows = [v for v in recent if v["group"] == g]
         if not rows:
@@ -276,9 +312,33 @@ def write_digest(fname, days, per_source, summary_chars, title, note, per_group=
 # daily: last ~2 days, headlines only, no journals
 write_digest("daily.md", 2, 3, None, "Daily feed digest",
              "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.", per_group=10)
-# weekly: last 8 days, short summaries, journals as titles only
+# weekly: last 8 days, short summaries (papers are in papers.md)
 write_digest("weekly.md", 8, 5, 100, "Weekly feed digest",
              "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.", per_group=25)
+# papers: new research first seen in the last ~30 hours, most on-topic first
+def score(v):
+    blob = (" " + v["title"] + " " + v.get("abstract", "") + " ").lower()
+    return sum(1 for k in keywords if k in blob)
+
+
+fresh = [v for v in store.values() if v["group"] in ("journals", "papers")
+         and parse_date(v.get("first_seen") or v["date"]) >= NOW - dt.timedelta(hours=30)]
+fresh.sort(key=lambda v: (score(v), v["date"]), reverse=True)
+pp = [f"# New papers · generated {NOW:%Y-%m-%d %H:%M} UTC",
+      "Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. "
+      "Each line: date · venue · title · link · open-access link if any — start of abstract.", ""]
+per = {}
+for v in fresh:
+    src = v["source"]
+    per[src] = per.get(src, 0) + 1
+    if per[src] > 4 or len(pp) >= 43:
+        continue
+    venue = v.get("venue") or src
+    oa = f" · OA: {v['oa']}" if v.get("oa") and v["oa"] != v["link"] else ""
+    ab = (v.get("abstract") or "")[:160]
+    pp.append(f"- {v['date'][:10]} · {venue} · {v['title']} · {v['link']}{oa}" + (f" — {ab}" if ab else ""))
+(DIGEST / "papers.md").write_text("\n".join(pp) + "\n")
+
 # podcasts: last 14 days of episodes from Aayush's subscriptions, with length
 pods = [v for v in store.values() if v["group"] == "podcasts" and parse_date(v["date"]) >= NOW - dt.timedelta(days=14)]
 pods.sort(key=lambda v: v["date"], reverse=True)

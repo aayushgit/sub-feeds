@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-06 14:16 UTC
+# Podcast episodes · generated 2026-10-06 16:16 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-06 · Front Burner (CBC) · 42 min · Naomi Klein on Carney, trade war and 'end times' · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-YiPaSrgv-20261005.mp3 — Celebrated author Naomi Klein joins the show to talk about how Mark Carney's response to Trump's trade war echoes themes

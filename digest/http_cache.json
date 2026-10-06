@@ -1,7 +1,7 @@
 {
  "https://www.toronto.ca/news/feed/": {
-  "etag": "\"9d4358df499fb6bec509b2bb5d3fd80c\"",
-  "modified": "Tue, 06 Oct 2026 13:51:08 GMT"
+  "etag": "\"b99612eaf81a79da5a5fe869c87eb13d\"",
+  "modified": "Tue, 06 Oct 2026 15:32:51 GMT"
  },
  "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20": {},
  "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
@@ -21,26 +21,26 @@
   "etag": "W/\"7055-BIR1oo8BPfS/VA8aznhwtrf0f1U\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
-  "etag": "W/\"6fc3-r2Llit4YcsZUnycpZfPRGjFW/hc\""
+  "etag": "W/\"7090-8FSHfyce5ERxVXFGI9xgC4P8t7g\""
  },
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"3578e8be6f1521f74ae0e8765ad811e1\"",
-  "modified": "Tue, 06 Oct 2026 14:09:43 GMT"
+  "etag": "W/\"92cc8205b3d9673a88aadb6624e4e444\"",
+  "modified": "Tue, 06 Oct 2026 16:08:36 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"ce101ebca0b7c453ac9a81084aa2ba5b\"",
-  "modified": "Tue, 06 Oct 2026 14:07:44 GMT"
+  "etag": "W/\"92cc8205b3d9673a88aadb6624e4e444\"",
+  "modified": "Tue, 06 Oct 2026 16:08:36 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/a5bbb9094757e4e2cedbb7f444baca4e",
-  "modified": "Tue, 06 Oct 2026 14:16:04 GMT"
+  "etag": "W/d97afc86044359d3b43bc1ff85b0d4fd",
+  "modified": "Tue, 06 Oct 2026 16:15:32 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
-  "etag": "W/\"a807-65d17f3029aa8\"",
-  "modified": "Mon, 05 Oct 2026 13:35:02 GMT"
+  "etag": "W/\"9ee6-65cd5bf079e8a\"",
+  "modified": "Fri, 02 Oct 2026 06:36:03 GMT"
  },
  "https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -51,17 +51,17 @@
  "https://news.google.com/rss/search?q=(%22urban+search+and+rescue%22+OR+HUSAR+OR+INSARAG)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+%22catastrophe+losses%22+OR+%22Insurance+Bureau+of+Canada%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.firefightingincanada.com/feed/": {
-  "etag": "\"7c000ea988db479b3056473272d7bea1\"",
-  "modified": "Tue, 06 Oct 2026 12:58:37 GMT"
+  "etag": "\"7353dfc8075d7122ca637b0a09c00c0f\"",
+  "modified": "Tue, 06 Oct 2026 15:24:27 GMT"
  },
  "https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.artemis.bm/feed/": {
-  "etag": "W/\"201a7795d4f6d003e30913a378cd1042\"",
-  "modified": "Tue, 06 Oct 2026 13:00:20 GMT"
+  "etag": "W/\"615559ee9c9fd480b2e31ec1c4fab81f\"",
+  "modified": "Tue, 06 Oct 2026 15:40:24 GMT"
  },
  "https://www.nist.gov/news-events/news/rss.xml": {
-  "etag": "\"1791295742-gzip\"",
-  "modified": "Tue, 06 Oct 2026 14:09:02 GMT"
+  "etag": "\"1791303303-gzip\"",
+  "modified": "Tue, 06 Oct 2026 16:15:03 GMT"
  },
  "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -72,8 +72,8 @@
  },
  "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://hazards.colorado.edu/feed": {
-  "etag": "\"ae6ddaa2cd736bbb0f1333c2387f3445\"",
-  "modified": "Mon, 05 Oct 2026 23:54:38 GMT"
+  "etag": "\"59513de3547e561d7956c7e97851ba02\"",
+  "modified": "Tue, 06 Oct 2026 16:15:39 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/22124209": {
   "etag": "W/\"412706a3b032ff0bd8f6c308b525fe68\"",
@@ -84,8 +84,8 @@
   "modified": "Mon, 05 Oct 2026 09:03:37 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/09257535": {
-  "etag": "W/\"74c61f680e95181dd862acc34b35604d\"",
-  "modified": "Mon, 05 Oct 2026 09:10:47 GMT"
+  "etag": "W/\"152816400af98d92ded0b68d7090ea81\"",
+  "modified": "Tue, 06 Oct 2026 09:10:57 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/14677717/most-recent": {
   "modified": "Tue, 06 Oct 2026 07:46:20 GMT"
@@ -118,11 +118,11 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"a453c2639d55dd1:0\"",
-  "modified": "Tue, 06 Oct 2026 14:17:16 GMT"
+  "etag": "\"81a9da2cae55dd1:0\"",
+  "modified": "Tue, 06 Oct 2026 16:17:25 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Tue, 06 Oct 2026 13:34:55 GMT"
+  "modified": "Tue, 06 Oct 2026 15:38:01 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
   "etag": "\"6d7f-65d27d300c56d-gzip\"",
@@ -155,8 +155,8 @@
   "modified": "Tue, 06 Oct 2026 08:00:15 GMT"
  },
  "https://www.municipalworld.com/podcast-channels/mw-shares/feed/": {
-  "etag": "W/\"131684e61e014b3c91f0af3ebcd7e35d-br\"",
-  "modified": "Tue, 06 Oct 2026 13:22:48 GMT"
+  "etag": "W/\"b92ea54cc9ff77a15ce12b648faf7c58-br\"",
+  "modified": "Tue, 06 Oct 2026 14:38:55 GMT"
  },
  "https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml": {
   "modified": "Tue, 06 Oct 2026 06:00:31 GMT"

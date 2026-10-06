@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-06 14:16 UTC
+# New papers · generated 2026-10-06 16:16 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-02 · NPRC Journal of Multidisciplinary Research · Assessment of Safety and Hazard Management Practices and Emergency Preparedness among Employees in Hospitals of Nepal · https://doi.org/10.3126/nprcjmr.v3i9.100479 — Background: Hospitals in Nepal operate in the environment that is vulnerable to biological, chemical, physical, ergonomic, psychosocial, fire, and disaster risk

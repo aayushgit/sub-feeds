@@ -82,3 +82,11 @@ development charge
 fiscal
 fire chief
 fire department
+# dispatch and operations (added 7 Oct 2026)
+priority dispatch
+mpds
+ampds
+call-taker
+telecommunicator
+standards of cover
+nfpa 1710

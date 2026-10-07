@@ -117,3 +117,5 @@ Google News: big international fire services,https://news.google.com/rss/search?
 Fire Engineering,https://www.fireengineering.com/feed/,fire_depts,no
 Canadian Public Administration,https://onlinelibrary.wiley.com/feed/17547121/most-recent,journals,no
 Public Administration Review,https://onlinelibrary.wiley.com/feed/15406210/most-recent,journals,yes
+# --- dispatch and operations (added 7 Oct 2026) ---
+Google News: emergency dispatch operations,https://news.google.com/rss/search?q=%28%22emergency+dispatch%22+OR+%22dispatch+centre%22+OR+%22dispatch+center%22+OR+%22communications+centre%22+OR+%22priority+dispatch%22+OR+MPDS+OR+%22call-taker%22+OR+%22telecommunicator%22%29+when:7d&hl=en-CA&gl=CA&ceid=CA:en,policy_tech,no

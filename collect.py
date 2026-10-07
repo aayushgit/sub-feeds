@@ -340,7 +340,7 @@ store_path.write_text(json.dumps(store, indent=1, ensure_ascii=False))
 
 # build digest
 GROUPS = [("toronto", "City of Toronto"), ("government", "Government"), ("news", "News"),
-          ("fire_ems", "Fire service"), ("insurance", "Insurance and finance"),
+          ("fire_ems", "Fire service"), ("fire_depts", "Other fire departments"), ("labour_finance", "Labour, public policy and finance"), ("insurance", "Insurance and finance"),
           ("policy_tech", "Policy, technology and communications"), ("agencies", "Agencies and research centres"), ("journals", "New journal articles"), ("podcasts", "Podcasts")]
 known = {g for g, _ in GROUPS}
 for g in sorted({f["group"] for f in feeds} - known):   # any new group you invent gets its own section

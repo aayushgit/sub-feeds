@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-08 14:39 UTC
+# Podcast episodes · generated 2026-10-08 16:58 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-08 · Better Every Shift (FireRescue1) · 37 min · USA vs. Australia: What each fire service does better · https://sidealpha.podbean.com/e/usa-vs-australia-what-each-fire-service-does-better/ — Australia has been using door control and flow path for roughly a decade longer than we have — and it's still wrestling 

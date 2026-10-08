@@ -1,15 +1,15 @@
 {
  "https://www.toronto.ca/news/feed/": {
-  "etag": "\"1a44172c9262baff389f469562b4daa5\"",
-  "modified": "Thu, 08 Oct 2026 13:37:39 GMT"
+  "etag": "\"0dd52db8c8955c7994bba582142a0040\"",
+  "modified": "Thu, 08 Oct 2026 14:50:36 GMT"
  },
  "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20": {},
  "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
-  "etag": "\"1c984677dc4093be4c738da0d66dd32e\"",
-  "modified": "Thu, 08 Oct 2026 14:00:53 GMT"
+  "etag": "\"529808ff5fef1c5d7f58c607f69e7a89\"",
+  "modified": "Thu, 08 Oct 2026 15:20:53 GMT"
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
-  "etag": "W/\"6dba-6Z+RJKX9kxlaciK2P24qcQLHwv8\""
+  "etag": "W/\"6e15-XPoSw/4YVfKdzqBaWsp8ZBa6Ceo\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofhealth&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"6111-q7xdXUjRzNBcnIH5/+Di/MVndeA\""
@@ -26,21 +26,21 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"06e80413cbaa9c641ef94349954d8938\"",
-  "modified": "Thu, 08 Oct 2026 14:29:41 GMT"
+  "etag": "W/\"27cbf1ad19733ec904d8ebd62e2b5da2\"",
+  "modified": "Thu, 08 Oct 2026 16:41:02 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"3b0eaf8d9418da784a886fb1b22fe3a9\"",
-  "modified": "Thu, 08 Oct 2026 14:35:22 GMT"
+  "etag": "W/\"27cbf1ad19733ec904d8ebd62e2b5da2\"",
+  "modified": "Thu, 08 Oct 2026 16:41:02 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/717191b481d4549cfb50a290aeb116cd",
-  "modified": "Thu, 08 Oct 2026 14:37:50 GMT"
+  "etag": "W/e3ef006b49ad3152683e1c777e4a6e0e",
+  "modified": "Thu, 08 Oct 2026 16:57:29 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
-  "etag": "W/\"ba4d-65d4fe9a03a7e\"",
-  "modified": "Thu, 08 Oct 2026 08:21:03 GMT"
+  "etag": "W/\"a807-65d17f3029aa8\"",
+  "modified": "Mon, 05 Oct 2026 13:35:02 GMT"
  },
  "https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -51,17 +51,17 @@
  "https://news.google.com/rss/search?q=(%22urban+search+and+rescue%22+OR+HUSAR+OR+INSARAG)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+%22catastrophe+losses%22+OR+%22Insurance+Bureau+of+Canada%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.firefightingincanada.com/feed/": {
-  "etag": "\"496db369389c9b8daf07deda1fae7fc7\"",
-  "modified": "Wed, 07 Oct 2026 14:28:49 GMT"
+  "etag": "\"252a86d6e0f7674dd2d4df605bee2554\"",
+  "modified": "Wed, 07 Oct 2026 15:48:21 GMT"
  },
  "https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.artemis.bm/feed/": {
-  "etag": "W/\"d631e830c953741ade863c8c0d023ef8\"",
-  "modified": "Thu, 08 Oct 2026 14:30:36 GMT"
+  "etag": "W/\"9593862a8fd33984c42f0684d3ad80f1\"",
+  "modified": "Thu, 08 Oct 2026 16:08:56 GMT"
  },
  "https://www.nist.gov/news-events/news/rss.xml": {
-  "etag": "\"1791470463-gzip\"",
-  "modified": "Thu, 08 Oct 2026 14:41:03 GMT"
+  "etag": "\"1791478621-gzip\"",
+  "modified": "Thu, 08 Oct 2026 16:57:01 GMT"
  },
  "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -72,20 +72,20 @@
  },
  "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://hazards.colorado.edu/feed": {
-  "etag": "\"1684357f233588f09216881bd0eba4d8\"",
-  "modified": "Thu, 08 Oct 2026 14:41:39 GMT"
+  "etag": "\"40ecf2203f1a7968638ea6f007c374d0\"",
+  "modified": "Thu, 08 Oct 2026 16:57:41 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/22124209": {
   "etag": "W/\"fed60ee9198a1eab587eef0ac6032768\"",
   "modified": "Thu, 08 Oct 2026 09:09:55 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/03797112": {
-  "etag": "W/\"08119250c7076b18a7c74d3b142fd5d6\"",
-  "modified": "Wed, 07 Oct 2026 09:03:45 GMT"
+  "etag": "W/\"40cd23e738fbe29d19d1b04227a19741\"",
+  "modified": "Thu, 08 Oct 2026 09:03:56 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/09257535": {
-  "etag": "\"50fcf682c774f7c3575e63d1ada11911\"",
-  "modified": "Wed, 07 Oct 2026 09:11:07 GMT"
+  "etag": "W/\"6230604da469248865e34e37bdd25595\"",
+  "modified": "Thu, 08 Oct 2026 09:11:37 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/14677717/most-recent": {
   "modified": "Thu, 08 Oct 2026 07:33:09 GMT"
@@ -118,11 +118,11 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"9094a18c3257dd1:0\"",
-  "modified": "Thu, 08 Oct 2026 14:37:31 GMT"
+  "etag": "\"1ba185194657dd1:0\"",
+  "modified": "Thu, 08 Oct 2026 16:57:27 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Thu, 08 Oct 2026 14:43:00 GMT"
+  "modified": "Thu, 08 Oct 2026 16:46:26 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
   "etag": "\"6c9e-65d44d5e948d0-gzip\"",
@@ -155,8 +155,8 @@
   "modified": "Thu, 08 Oct 2026 08:00:16 GMT"
  },
  "https://www.municipalworld.com/podcast-channels/mw-shares/feed/": {
-  "etag": "W/\"51473646b8b735e04835042f566343c4-br\"",
-  "modified": "Thu, 08 Oct 2026 14:06:44 GMT"
+  "etag": "W/\"5d963752edc24b7f1b3223dd319c0785-br\"",
+  "modified": "Thu, 08 Oct 2026 16:17:56 GMT"
  },
  "https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml": {
   "modified": "Thu, 08 Oct 2026 06:00:17 GMT"
@@ -215,8 +215,8 @@
  "https://news.google.com/rss/search?q=site:pbo-dpb.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.hrreporter.com/rss": {},
  "https://www.iaff.org/feed/": {
-  "etag": "W/\"d38e05ff8090d6cd3fe10b5152e6c8fe\"",
-  "modified": "Thu, 08 Oct 2026 14:34:27 GMT"
+  "etag": "\"d0faa93497a5d7231649a8c3e4844a4c\"",
+  "modified": "Thu, 08 Oct 2026 16:48:59 GMT"
  },
  "https://news.google.com/rss/search?q=%28%22fire+chief%22+OR+%22fire+department%22+OR+%22fire+services%22+OR+%22fire+rescue%22%29+%28budget+OR+staffing+OR+%22master+plan%22+OR+%22response+times%22+OR+%22new+fire+station%22+OR+council%29+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=%28%22Ottawa+Fire+Services%22+OR+%22Vancouver+Fire+Rescue%22+OR+%22Calgary+Fire+Department%22+OR+%22Edmonton+Fire+Rescue%22+OR+%22Mississauga+Fire%22+OR+%22Brampton+Fire%22+OR+%22Hamilton+Fire+Department%22+OR+%22Winnipeg+Fire+Paramedic%22+OR+%22Service+de+s%C3%A9curit%C3%A9+incendie+de+Montr%C3%A9al%22%29+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},

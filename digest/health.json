@@ -22,7 +22,7 @@
  "Google News: Ontario fire marshal": 0,
  "Google News: urban search and rescue": 0,
  "Google News: disaster insurance Canada": 0,
- "Firefighting in Canada": 0,
+ "Firefighting in Canada": 1,
  "Canadian Underwriter (via Google News)": 0,
  "Artemis (cat bonds)": 0,
  "NIST news": 0,
@@ -78,7 +78,7 @@
  "Risk REconsidered (Swiss Re)": 0,
  "Smart Firefighting": 0,
  "The Climate Question (BBC)": 0,
- "The Emergency Management Network Podcast": 5,
+ "The Emergency Management Network Podcast": 6,
  "OpenAlex: emergency and disaster management": 0,
  "OpenAlex: fire service": 0,
  "OpenAlex: wildfire and evacuation": 0,
@@ -105,5 +105,6 @@
  "Google News: big international fire services": 0,
  "Fire Engineering": 0,
  "Canadian Public Administration": 0,
- "Public Administration Review": 0
+ "Public Administration Review": 0,
+ "Google News: emergency dispatch operations": 0
 }

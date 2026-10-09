@@ -1,57 +1,56 @@
-# Daily feed digest · generated 2026-10-09 14:26 UTC
+# Daily feed digest · generated 2026-10-09 16:37 UTC
 Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.
 
 ## City of Toronto
 - 2026-10-09 · City of Toronto news · Kids can vote for Toronto’s 2027 Tree of the Year and learn about the voting process during Kids Vote Weekend · https://www.toronto.ca/news/kids-can-vote-for-torontos-2027-tree-of-the-year-and-learn-about-the-voting-process-during-kids-vote-weekend/
-- 2026-10-07 · City of Toronto news · City of Toronto offers rare access to wastewater infrastructure to learn what happens when items are put down the drain · https://www.toronto.ca/news/city-of-toronto-offers-rare-access-to-wastewater-infrastructure-to-learn-what-happens-when-items-are-put-down-the-drain/
 
 ## Government
 - 2026-10-08 · Public Safety Canada · Minister Olszewski to highlight emergency preparedness efforts in Edmonton · https://www.canada.ca/en/public-safety-canada/news/2026/10/minister-olszewski-to-highlight-emergency-preparedness-efforts-in-edmonton.html
 
 ## News
+- 2026-10-09 · Google News: disaster insurance Canada · Market Update: Automotive Stock News October 2026 - Collision Repair Mag · https://www.collisionrepairmag.com/news/collision-repair/market-trends/article/15837109/market-update-automotive-stock-news-october-2026
+- 2026-10-09 · Google News: lithium-ion fire Canada · Three health and safety reminders for the Fall term - Toronto Metropolitan University (TMU) · https://www.torontomu.ca/facilities-management-development/news/2026/10/three-health-safety-reminders-for-fall-term/
+- 2026-10-09 · Google News: emergency management Canada · Government of Canada helps Saskatchewan businesses adapt and grow amid unjustified U.S. tariffs - PR Newswire Canada · https://www.newswire.ca/news-releases/government-of-canada-helps-saskatchewan-businesses-adapt-and-grow-amid-unjustified-u-s-tariffs-846076875.html
 - 2026-10-09 · CTV News Toronto (via Google News) · Two people and dog rescued from window in highrise fire in Regent Park area - CTV News · https://guelph.ctvnews.ca/toronto/video/2026/10/09/two-people-and-dog-rescued-from-window-in-highrise-fire-in-regent-park-area/
+- 2026-10-09 · Google News: urban search and rescue · The Latest: Hurricane Isaias strengthens to a Category 3 ahead of expected landfall - WREG.com · https://wreg.com/news/nation-and-world/ap-us-news/ap-the-latest-hurricane-isaias-strengthens-to-a-category-3-ahead-of-expected-landfall/amp/
 - 2026-10-09 · Google News: Ontario fire marshal · Two homes in Hamilton, Ontario devastated by explosions, three hospitalised - The News International · https://www.thenews.com.pk/latest/1419254-two-homes-in-hamilton-ontario-devastated-by-explosions-three-hospitalised
 - 2026-10-09 · Toronto Star GTA · Read the best of Canadian Nobel laureate Anne Carson, selected by those who know her work · https://www.thestar.com/entertainment/read-the-best-of-canadian-nobel-laureate-anne-carson-selected-by-those-who-know-her-work/article_a91913b8-a5bf-4b2a-8f92-96e3aab93e7a.html
 - 2026-10-09 · Google News: disaster insurance Canada · September Toronto storms cost insurers $563 million, CatIQ says - Insurance Business · https://www.insurancebusinessmag.com/ca/news/catastrophe/september-toronto-storms-cost-insurers-563-million-catiq-says-592939.aspx
 - 2026-10-09 · Google News: wildfire flood Canada · BCAA commits $750,000 to wildfire mental health support - Canadian Auto Dealer · https://canadianautodealer.ca/2026/10/bcaa-commits-750000-to-wildfire-mental-health-support/
 - 2026-10-09 · Google News: emergency management Canada · 15,000 attend unsanctioned Homecoming gatherings in London, 3 arrested - CP24 · https://www.cp24.com/news/canada/2026/10/09/15000-attend-unsanctioned-homecoming-gatherings-in-london-3-arrested/
-- 2026-10-09 · Google News: lithium-ion fire Canada · Lithium-ion battery sparks fire at Regent Park apartment building - edge injury law · https://www.edgelegal.ca/news/lithium-ion-battery-sparks-fire-at-regent-park-apartment-building/
-- 2026-10-09 · Global News Canada · Indigenous cultural burn near Osoyoos revives traditional fire stewardship · https://globalnews.ca/news/12093539/indigenous-cultural-burn-near-osoyoos-revives-traditional-fire-stewardship/
-- 2026-10-09 · Google News: wildfire flood Canada · Residents in Montreal’s east end receive fake evacuation notices - CTV News · https://www.ctvnews.ca/montreal/article/residents-in-montreals-east-end-receive-fake-evacuation-notices/
-- 2026-10-09 · Google News: disaster insurance Canada · As El Niño nears, eligible California residents could get 25% off flood insurance - Currently.com · https://currently.att.yahoo.com/att/el-ni-o-nears-eligible-010500175.html
 
 ## Fire service
+- 2026-10-09 · Firehouse · Massive Blaze in Chinatown Battled by Los Angeles Firefighters · https://www.firehouse.com/community-risk/investigation-equipment/video/55410815/massive-blaze-in-chinatown-battled-by-los-angeles-firefighters
 - 2026-10-09 · Firehouse · Body Found Four Days after Fire in Jefferson Township, OH · https://www.firehouse.com/community-risk/community-risk-reduction/video/55410786/body-found-four-days-after-fire-in-jefferson-township-oh
 - 2026-10-09 · Firehouse · Police Officer Pulls Two from Overnight House Fire in Minneapolis · https://www.firehouse.com/operations-training/video/55410649/police-officer-pulls-two-from-overnight-house-fire-in-minneapolis
-- 2026-10-09 · Firehouse · Fallen Durham, NC, Firefighter Remembered for 'unyielding desire to master his craft' · https://www.firehouse.com/lodds/news/55410755/fallen-durham-nc-firefighter-identified-remembered-for-unyielding-desire-to-master-his-craft
 
 ## Other fire departments
+- 2026-10-09 · Google News: big international fire services · London Fire Brigade: Scaling its Finance and Procurement - Procurement Magazine · https://procurementmag.com/news/how-london-fire-brigade-scales-its-finance-and-procurement
+- 2026-10-09 · Google News: big international fire services · FDNY teaches kids life-saving fire safety tips for National Fire Prevention Week - PIX11 · https://pix11.com/news/its-a-g-thing/fdny-teaches-kids-life-saving-fire-safety-tips-for-national-fire-prevention-week/
+- 2026-10-09 · Fire Engineering · NC Firefighter Killed in Fire Identified; Died When Roof Collapsed · https://www.fireengineering.com/firefighting/nc-firefighter-killed-in-fire-identified-died-when-roof-collapsed/
+- 2026-10-09 · Fire Engineering · Gulf Coast States Prep for Hurricane Isaias · https://www.fireengineering.com/news/gulf-coast-states-prep-for-hurricane-isaias/
 - 2026-10-09 · Fire Engineering · One Killed in NC House Fire · https://www.fireengineering.com/firefighting/one-killed-in-nc-house-fire/
-- 2026-10-09 · Fire Engineering · Woman Rescued, Two Firefighters Hospitalized After CA Fire · https://www.fireengineering.com/firefighting/woman-rescued-two-firefighters-hospitalized-after-ca-fire/
 - 2026-10-09 · Google News: big international fire services · Window cleaners rescued from 15th floor of London skyscraper after cradle glitch - Metro.co.uk · https://metro.co.uk/2026/10/09/window-cleaners-rescued-15th-floor-london-skyscraper-29694396/
-- 2026-10-09 · Fire Engineering · Firefighters Find Human Remains While Putting Out Small CT Fire · https://www.fireengineering.com/firefighting/firefighters-find-human-remains-while-putting-out-small-ct-fire/
-- 2026-10-09 · Google News: big international fire services · Window cleaners become trapped on 15th floor of London skyscraper - The Independent · https://www.independent.co.uk/news/uk/home-news/southwark-window-cleaner-london-fire-brigade-b3063925.html
-- 2026-10-09 · Google News: big international fire services · London Fire Brigade standardise finance and procurement - UKAuthority · https://www.ukauthority.com/articles/london-fire-brigade-standardise-finance-and-procurement
 - 2026-10-09 · Google News: Canadian fire departments · Honoring 19 years of service: Council Bluff Fire Department’s Charles Jones - Yahoo · https://www.yahoo.com/news/articles/honoring-19-years-council-bluff-034337500.html
 - 2026-10-08 · Google News: Canadian fire departments · Mukilteo weighs costs of future fire department staffing - Mukilteo Beacon · https://www.mukilteobeacon.com/stories/mukilteo-weighs-costs-of-future-fire-department-staffing,195042
 - 2026-10-08 · Google News: Canadian fire departments · Police, fire department move in to clear Saskatoon encampment - Yahoo News Canada · https://ca.news.yahoo.com/police-fire-department-move-clear-165528111.html
 
 ## Labour, public policy and finance
+- 2026-10-09 · IAFF news · New Vice Presidents take office in 7th and 14th Districts · https://www.iaff.org/news/new-vice-presidents-take-office-in-7th-and-14th-districts/
+- 2026-10-09 · Google News: firefighter and paramedic bargaining · Staff Shortage Leads to Recent Station Closures in Lowell, MA - Firehouse.com · https://www.firehouse.com/careers-education/video/55410854/staff-shortage-leads-to-recent-station-closures-in-lowell-ma
+- 2026-10-09 · Google News: Toronto budget and finance · Sutcliffe promising freezing recreation fees for seniors, deferring property taxes for downsizing if re-elected - CTV News · https://www.ctvnews.ca/ottawa/article/sutcliffe-promising-freezing-recreation-fees-for-seniors-deferring-property-taxes-for-downsizing-if-re-elected/
+- 2026-10-09 · Google News: Canadian public policy and fiscal · IRCC Clarifies Who Can Avoid A New Canada Immigration Medical Exam - Immigration.ca · https://immigration.ca/ircc-clarifies-who-can-avoid-a-new-canada-immigration-medical-exam/
+- 2026-10-09 · IAFF news · Ready for what comes next · https://www.iaff.org/news/ready-for-what-comes-next/
 - 2026-10-09 · IAFF news · KELLY: The global standard in training · https://www.iaff.org/news/kelly-the-global-standard-in-training/
 - 2026-10-09 · Google News: Toronto budget and finance · ‘Food has become too expensive:’ Here is how Olivia Chow plans to address rising prices at grocery stores - CP24 · https://www.cp24.com/local/toronto/2026/10/09/food-has-become-too-expensive-here-is-how-olivia-chow-plans-to-address-rising-prices-at-grocery-stores/
-- 2026-10-09 · Google News: Toronto budget and finance · Dream Office Real Estate Investment Trust Units Advance as Downtown Toronto Office Clustering and Asset Modernization Support Market Sentiment - kalkine.ca · https://kalkine.ca/news/real-estate/dream-office-real-estate-investment-trust-units-advance-as-downtown-toronto-office-clustering-and-asset-modernization-support-market-sentiment
+- 2026-10-09 · Google News: Toronto budget and finance · Olivia Chow unveils 4-point plan to cut grocery prices. Here is how it would work. - CTV News · https://www.ctvnews.ca/toronto/article/food-has-become-too-expensive-here-is-how-olivia-chow-plans-to-address-rising-prices-at-grocery-stores/
 - 2026-10-09 · Google News: Ontario municipal finance · The Becker Milk Company Limited Class B Shares Hold Steady as Commercial Tenant Concentration and Real Estate Capital Value Scrutiny Shape Market Sentiment - kalkine.ca · https://kalkine.ca/news/real-estate/the-becker-milk-company-limited-class-b-shares-hold-steady-as-commercial-tenant-concentration-and-real-estate-capital-value-scrutiny-shape-market-sentiment
 - 2026-10-09 · Google News: Canadian public policy and fiscal · Canada Announces Special Groups Whose Families Qualify for Immigration Fee Exemption - Legit News · https://www.legit.ng/people/1735222-canada-lists-special-groups-family-qualify-immigration-fee-exemptions/
-- 2026-10-09 · Google News: Ontario municipal finance · Leadership candidate Dylan Marando releasing ‘capital L’ Liberal policy platform - The Trillium · https://www.thetrillium.ca/news/politics/leadership-candidate-dylan-marando-releasing-capital-l-liberal-policy-platform-12876522
-- 2026-10-09 · Canadian HR Reporter (labour items) · Bill C-39 clears second reading, putting federal strike rules under review · https://www.hrreporter.com/news/hr-news/bill-c-39-clears-second-reading-putting-federal-strike-rules-under-review/394998
-- 2026-10-09 · Google News: Canadian public policy and fiscal · Residential Schools: Evidence Must Come First - Todayville · https://www.todayville.com/calgary/residential-schools-evidence-must-come-first/
-- 2026-10-08 · Google News: Toronto budget and finance · Ottawa mayoral candidate Alex Lawson promises tax freeze in 1st year - CBC · http://www.cbc.ca/player/play/video/9.7375022
-- 2026-10-08 · Google News: Canadian public policy and fiscal · Official languages commissioner rebukes Air Canada CEO over English-only message - CFJC Today Kamloops · https://cfjctoday.com/2026/10/08/official-languages-commissioner-rebukes-air-canada-ceo-over-english-only-message/
 
 ## Insurance and finance
+- 2026-10-09 · Artemis (cat bonds) · Nepal government approves World Bank earthquake cat bond mandate agreement · https://www.artemis.bm/news/nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement
 - 2026-10-09 · Artemis (cat bonds) · Hurricane Simon rapidly intensifying, bringing Mexico catastrophe bond back into focus · https://www.artemis.bm/news/hurricane-simon-rapidly-intensifying-bringing-mexico-catastrophe-bond-back-into-focus/?utm_source=rss&utm_medium=rss&utm_campaign=hurricane-simon-rapidly-intensifying-bringing-mexico-catastrophe-bond-back-into-focus
 - 2026-10-09 · Artemis (cat bonds) · Conning forecasts long-term expansion for US life settlement market through 2035 · https://www.artemis.bm/news/conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035/?utm_source=rss&utm_medium=rss&utm_campaign=conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035
-- 2026-10-09 · Artemis (cat bonds) · Hannover Re targets $200m seventh Acorn Re parametric US earthquake cat bond · https://www.artemis.bm/news/hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond
 - 2026-10-08 · Canadian Underwriter (via Google News) · Lessons from Summerland: 3 things your clients can do to prevent wildfire damage - Canadian Underwriter · https://canadianunderwriter.ca/news/claims/lessons-from-summerland-3-things-your-clients-can-do-to-prevent-wildfire-damage/
 - 2026-10-08 · Canadian Underwriter (via Google News) · Will Ontario town pass e-scooter bylaw? - Canadian Underwriter · https://canadianunderwriter.ca/news/auto/will-ontario-town-pass-e-scooter-bylaw/
 
@@ -68,13 +67,13 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-09 · Google News: public safety communications · AT&T to offer iPhone Duo with up to $1,200 off for trade-ins - StreetInsider · https://www.streetinsider.com/Corporate+News/AT%26T+to+offer+iPhone+Duo+with+up+to+%241%2C200+off+for+trade-ins/27169042.html
 
 ## Agencies and research centres
-- 2026-10-09 · GDACS orange and red alerts · Green earthquake (Magnitude 4.8M, Depth:165.662km) in Nicaragua 09/10/2026 12:33 UTC, 3 million in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570292
-- 2026-10-09 · GDACS orange and red alerts · Green earthquake (Magnitude 4.6M, Depth:10km) in Philippines 09/10/2026 09:17 UTC, 4.4 million in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570271
-- 2026-10-09 · GDACS orange and red alerts · Green earthquake (Magnitude 4.9M, Depth:40.817km) in Indonesia 09/10/2026 09:47 UTC, 570 thousand in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570278
-- 2026-10-09 · PreventionWeb · Five innovative ways to bring resilience home · https://www.preventionweb.net/news/five-innovative-ways-bring-resilience-home
-- 2026-10-09 · PreventionWeb · Academy of the Disaster Research Unit · https://www.preventionweb.net/organization/academy-disaster-research-unit
-- 2026-10-09 · PreventionWeb · Extreme drought and heat from the last El Niño signal a “new normal” for tropical forests · https://www.preventionweb.net/news/extreme-drought-and-heat-last-el-nino-signal-new-normal-tropical-forests
+- 2026-10-09 · Natural Hazards Center · The 52nd Annual Natural Hazards Workshop Returns to Boulder · https://hazards.colorado.edu/center-news/the-52nd-annual-natural-hazards-workshop-returns-to-boulder
+- 2026-10-09 · GDACS orange and red alerts · Green earthquake (Magnitude 4.6M, Depth:501.59km) in South Of Fiji Islands 09/10/2026 15:18 UTC, No people affected in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570321
+- 2026-10-09 · GDACS orange and red alerts · Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown]. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570318
+- 2026-10-09 · GDACS orange and red alerts · Green earthquake (Magnitude 5.4M, Depth:10km) in Vanuatu 09/10/2026 13:51 UTC, 2 thousand in MMI VI. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570301
+- 2026-10-09 · PreventionWeb · ADPC’s Young Professional Platform - Interns Talk 11th Session: Blue-Green Infrastructure for Disaster and Climate Resilience in urban settings · https://www.preventionweb.net/event/adpcs-young-professional-platform-interns-talk-11th-session-blue-green-infrastructure
+- 2026-10-09 · PreventionWeb · Lessons Management Forum 2027 · https://www.preventionweb.net/event/lessons-management-forum-2027
+- 2026-10-09 · PreventionWeb · Commemorating the 60th Anniversary of the 1966 Arno River Flood · https://www.preventionweb.net/event/commemorating-60th-anniversary-1966-arno-river-flood
+- 2026-10-08 · FEMA (via Google News) · Disasters and Other Declarations - FEMA.gov · https://www.fema.gov/disaster/declarations?page=107&ref=blog.freelancersunion.org
 - 2026-10-08 · FEMA (via Google News) · FEMA Urges Residents to Prepare for Hurricane Isaias - FEMA.gov · https://www.fema.gov/press-release/20261008/fema-urges-residents-prepare-hurricane-isaias
 - 2026-10-08 · FEMA (via Google News) · President Donald J. Trump Approves Major Disaster Declaration for Hawaii - FEMA.gov · https://www.fema.gov/press-release/20261008/president-donald-j-trump-approves-major-disaster-declaration-hawaii
-- 2026-10-08 · NFPA (via Google News) · SUPPORT FOR THE EFFECTIVE AND ETHICAL USE OF DRONES IN FIRST RESPONSE - National Fire Protection Association (NFPA) · https://www.nfpa.org/-/media/Project/Storefront/Catalog/Files/Member-Sections/Metro-Chiefs/Urban-Fire-Forum/2026/UFF-SUPPORT-FOR-THE-EFFECTIVE-AND-ETHICAL-USE-OF-DRONES-IN-FIRST-RESPONSE.pdf?rev=6e356eba3f4b4af49022c4dc2472abdf&hash=B4ED9114A568601AE5AED461D1510ED0
-- 2026-10-08 · NIST news · NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over Time · https://www.nist.gov/news-events/news/2026/10/nist-study-shows-how-toxic-substances-mixed-fentanyl-vary-across-us-and

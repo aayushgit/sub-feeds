@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-10 13:49 UTC
+# Podcast episodes · generated 2026-10-10 15:34 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-10 · Power & Politics (CBC) · 24 min · Weekly Wrap: Is Elon Musk influencing the Alberta referendum? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-pWde5sZQ-20261010.mp3 — Elon Musk says he thinks it's a good idea for Alberta, Quebec and Saskatchewan to separate. The Weekly Wrap panel discus

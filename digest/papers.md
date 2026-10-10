@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-10 13:49 UTC
+# New papers · generated 2026-10-10 15:34 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-10 · IJDRR · FLOOD EVACUATION MODELS: A SIMPLIFIED PROBABILISTIC APPROACH WITH APPLICATION TO A CASE STUDY IN ROME · https://www.sciencedirect.com/science/article/pii/S2212420926005078?dgcid=rss_sd_all — Publication date: Available online 10 October 2026 Source: International Journal of Disaster Risk Reduction Author(s): Davide Luciano De Luca, Mara Lucantonio, 

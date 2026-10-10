@@ -1,4 +1,4 @@
-# Daily feed digest · generated 2026-10-10 13:49 UTC
+# Daily feed digest · generated 2026-10-10 15:34 UTC
 Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -26,15 +26,15 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-09 · Firehouse · Massive Blaze in Chinatown Battled by Los Angeles Firefighters · https://www.firehouse.com/community-risk/investigation-equipment/video/55410815/massive-blaze-in-chinatown-battled-by-los-angeles-firefighters
 
 ## Other fire departments
+- 2026-10-10 · Fire Engineering · Teen Intentionally Set Fire in MI High School Bathroom · https://www.fireengineering.com/firefighting/teen-intentionally-set-fire-in-mi-high-school-bathroom/
+- 2026-10-10 · Fire Engineering · NY Home Damaged by Fire Thursday Hit by Second Fire Early Friday · https://www.fireengineering.com/firefighting/ny-home-damaged-by-fire-thursday-hit-by-second-fire-early-friday/
 - 2026-10-10 · Google News: big international fire services · Window cleaners rescued after getting stuck at 15th floor of London skyscraper - AOL.co.uk · https://www.aol.co.uk/articles/window-cleaners-rescued-getting-stuck-102302000.html
 - 2026-10-09 · Google News: Canadian fire departments · P.E.I.'s fire departments face tough choices amid skyrocketing diesel costs and tariffs - CBC · https://www.cbc.ca/news/canada/prince-edward-island/pei-fire-departments-rising-diesel-prices-tariffs-9.7375800
 - 2026-10-09 · Google News: big international fire services · Storm Season Kick-Off Press Conference - Fire Department - Los Angeles County (.gov) · https://fire.lacounty.gov/storm-season-kick-off-press-conference/
-- 2026-10-09 · Google News: big international fire services · 9 treated after a crash involving pedestrians in the Bronx, FDNY says - CBS News · https://www.cbsnews.com/newyork/video/9-treated-after-a-crash-involving-pedestrians-in-the-bronx-fdny-says/
+- 2026-10-09 · Google News: big international fire services · 39th Annual Productivity and Quality Awards Ceremony - Fire Department - Los Angeles County (.gov) · https://fire.lacounty.gov/39th-apq-awards-ceremony/
 - 2026-10-09 · Fire Engineering · Large-Area Searches: Defining the Space · https://www.fireengineering.com/firefighting/large-area-searches-defining-the-space/
 - 2026-10-09 · Google News: Canadian fire departments · Here’s why a McDougall candidate is asking people not to vote for him - ParrySound.com · https://www.parrysound.com/news/municipal-elections/mcdougall-candidate-asks-not-to-elect-him/article_73b8057f-2967-50ab-b750-9bdc89f956f8.html
 - 2026-10-09 · Google News: Canadian fire departments · Central York firefighters union says staffing shortages impacting fire truck availability - AuroraToday.ca · https://www.auroratoday.ca/municipal-election/central-york-firefighters-union-says-staffing-shortages-impacting-fire-truck-availability-12874355
-- 2026-10-09 · Fire Engineering · NC Firefighter Killed in Fire Identified; Died When Roof Collapsed · https://www.fireengineering.com/firefighting/nc-firefighter-killed-in-fire-identified-died-when-roof-collapsed/
-- 2026-10-09 · Fire Engineering · Gulf Coast States Prep for Hurricane Isaias · https://www.fireengineering.com/news/gulf-coast-states-prep-for-hurricane-isaias/
 
 ## Labour, public policy and finance
 - 2026-10-10 · Google News: Toronto budget and finance · Olivia Chow and Brad Bradford have big housing ideas. But in Doug Ford’s Ontario, do they have a say? - Toronto Star · https://www.thestar.com/real-estate/hos-election-fact-check/article_264d06f1-3c41-4d52-b9db-4b3195ae2615.html
@@ -63,8 +63,8 @@ Last 48 hours. Each line: date · source · title · link. Open the link before 
 - 2026-10-10 · Google News: public alerting · Canton issues weather preparedness advisory - themountaineer.com · https://www.themountaineer.com/news/canton-issues-weather-preparedness-advisory/article_c87cf297-58e6-406c-a9e5-e241f2117df2.html
 - 2026-10-10 · Google News: public safety communications · GENESEE COUNTY/Emergency Services Dispatchers recognized for Outstanding Service - Video News Service · https://videonewsservice.net/index.php/2026/10/10/genesee-county-emergency-services-dispatchers-recognized-for-outstanding-service/
 - 2026-10-10 · Google News: public alerting · Off-duty UW-Madison police officer helps catch man with knife - WMSN · https://fox47.com/news/local/off-duty-uw-madison-police-officer-helps-catch-man-with-knife
+- 2026-10-10 · Google News: public safety communications · Genesee County dispatchers recognized at state 911 conference - The Batavian · https://www.thebatavian.com/press-release/genesee-county-dispatchers-recognized-at-state-911-conference/649438
 - 2026-10-10 · Google News: emergency tech and AI · Videos - Natural Disaster Expo 2026 Speaker Series: Rob Borse on AI in Emergency Management - JDSupra · https://www.jdsupra.com/post/contentViewerEmbed.aspx?fid=b6766781-bc77-417a-a275-ad6ebf656405
-- 2026-10-10 · NENA (via Google News) · Ivan Rincon - Candidate for NENA Canadian Region Director - National Emergency Number Association · https://www.nena.org/resource/resmgr/2027-28_board/Rincon.pdf
 
 ## Agencies and research centres
 - 2026-10-10 · GDACS orange and red alerts · Green earthquake (Magnitude 4.6M, Depth:560.2km) in Fiji 10/10/2026 12:21 UTC, Few people affected in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570530

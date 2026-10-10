@@ -1,4 +1,4 @@
-# Weekly feed digest · generated 2026-10-10 13:49 UTC
+# Weekly feed digest · generated 2026-10-10 15:34 UTC
 Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -16,7 +16,6 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-06 · Ontario Newsroom · Ontario and Canada Investing Over $203,000 to Protect Steel Workers in the Hamilton Area · https://news.ontario.ca/en/release/1008101/ontario_and_canada_investing_over_203000_to_protect_steel_workers_in_the_hamilton_area — New investment will help 75 steel and manufacturing workers gain in-demand skills, protect local job
 - 2026-10-05 · CRTC · Stéphanie Paquette to the Dîner conférence de la Chambre de commerce du Grand Joliette · https://www.canada.ca/en/radio-television-telecommunications/news/2026/10/stephanie-paquette-to-the-diner-conference-de-la-chambre-de-commerce-du-grand-joliette.html — Stéphanie Paquette will demystify the role of the CRTC and present its key priorities in telecommuni
 - 2026-10-02 · CRTC · CRTC takes action to improve information about cellphone coverage · https://www.canada.ca/en/radio-television-telecommunications/news/2026/10/crtc-takes-action-to-improve-information-about-cellphone-coverage.html — The CRTC is helping Canadians better understand where cellphone coverage is available and where ther
-- 2026-10-02 · Public Safety Canada · Statement by Minister Olszewski to launch Fire Prevention Week 2026 · https://www.canada.ca/en/public-safety-canada/news/2026/10/statement-by-minister-olszewski-to-launch-fire-prevention-week-2026.html — Today, the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience a
 
 ## News
 - 2026-10-10 · CTV News Toronto (via Google News) · Police find evidence of gunfire near Etobicoke park - CTV News · https://northernontario.ctvnews.ca/toronto/article/police-find-evidence-of-gunfire-near-etobicoke-park/
@@ -58,20 +57,20 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-02 · Firefighting in Canada · Southern Ontario fire departments can now be reimbursed for No Service Calls on provincial highways · https://www.firefightingincanada.com/southern-ontario-fire-departments-can-now-be-reimbursed-for-no-service-calls-on-provincial-highways/ — Sept. 29, 2026, Ajax, Ont. — Ontario has announced a …
 
 ## Other fire departments
+- 2026-10-10 · Fire Engineering · Teen Intentionally Set Fire in MI High School Bathroom · https://www.fireengineering.com/firefighting/teen-intentionally-set-fire-in-mi-high-school-bathroom/ — A fire set by a 16-year-old student in a Grand Haven High School bathroom led to evacuation and dism
+- 2026-10-10 · Fire Engineering · NY Home Damaged by Fire Thursday Hit by Second Fire Early Friday · https://www.fireengineering.com/firefighting/ny-home-damaged-by-fire-thursday-hit-by-second-fire-early-friday/ — A house at 4240 Inverrary Drive in Clay caught fire early Friday, causing significant roof and secon
 - 2026-10-10 · Google News: big international fire services · Window cleaners rescued after getting stuck at 15th floor of London skyscraper - AOL.co.uk · https://www.aol.co.uk/articles/window-cleaners-rescued-getting-stuck-102302000.html
 - 2026-10-09 · Google News: Canadian fire departments · P.E.I.'s fire departments face tough choices amid skyrocketing diesel costs and tariffs - CBC · https://www.cbc.ca/news/canada/prince-edward-island/pei-fire-departments-rising-diesel-prices-tariffs-9.7375800
 - 2026-10-09 · Google News: big international fire services · Storm Season Kick-Off Press Conference - Fire Department - Los Angeles County (.gov) · https://fire.lacounty.gov/storm-season-kick-off-press-conference/
+- 2026-10-09 · Google News: big international fire services · 39th Annual Productivity and Quality Awards Ceremony - Fire Department - Los Angeles County (.gov) · https://fire.lacounty.gov/39th-apq-awards-ceremony/
 - 2026-10-09 · Google News: big international fire services · 9 treated after a crash involving pedestrians in the Bronx, FDNY says - CBS News · https://www.cbsnews.com/newyork/video/9-treated-after-a-crash-involving-pedestrians-in-the-bronx-fdny-says/
 - 2026-10-09 · Fire Engineering · Large-Area Searches: Defining the Space · https://www.fireengineering.com/firefighting/large-area-searches-defining-the-space/ — Large-area fires require more than traditional tactics—training and search must be advanced for buil
 - 2026-10-09 · Google News: big international fire services · FDNY releases new PSA for 101st National Fire Prevention Week - NYC.gov · https://www.nyc.gov/site/fdny/news/FS4726/fdny-releases-new-psa-101st-national-fire-prevention-week
 - 2026-10-09 · Google News: Canadian fire departments · Here’s why a McDougall candidate is asking people not to vote for him - ParrySound.com · https://www.parrysound.com/news/municipal-elections/mcdougall-candidate-asks-not-to-elect-him/article_73b8057f-2967-50ab-b750-9bdc89f956f8.html
 - 2026-10-09 · Google News: Canadian fire departments · Central York firefighters union says staffing shortages impacting fire truck availability - AuroraToday.ca · https://www.auroratoday.ca/municipal-election/central-york-firefighters-union-says-staffing-shortages-impacting-fire-truck-availability-12874355
-- 2026-10-09 · Google News: big international fire services · Multiple people injured after being struck by a vehicle in the Bronx: FDNY - PIX11 · https://pix11.com/news/local-news/multiple-people-injured-after-being-struck-by-a-vehicle-in-the-bronx-fdny/amp/
 - 2026-10-09 · Google News: Canadian fire departments · Fire department sees busy summer, holds PTSD awareness session - The Record · https://www.therecord.com/news/canada/fire-department-sees-busy-summer-holds-ptsd-awareness-session/article_4ca04d81-65c9-5c34-bbd2-f4bfebbc8fde.html
 - 2026-10-09 · Fire Engineering · NC Firefighter Killed in Fire Identified; Died When Roof Collapsed · https://www.fireengineering.com/firefighting/nc-firefighter-killed-in-fire-identified-died-when-roof-collapsed/ — A Durham firefighter, Andrew Brokes, died when a burning building's roof collapsed during a rescue. 
 - 2026-10-09 · Fire Engineering · Gulf Coast States Prep for Hurricane Isaias · https://www.fireengineering.com/news/gulf-coast-states-prep-for-hurricane-isaias/ — Hurricane Isaias, a Category 2 storm, threatened the Gulf Coast with strong winds, storm surge, and 
-- 2026-10-09 · Fire Engineering · One Killed in NC House Fire · https://www.fireengineering.com/firefighting/one-killed-in-nc-house-fire/ — One person died from injuries in a Tuesday house fire in Lexington.
-- 2026-10-09 · Fire Engineering · Woman Rescued, Two Firefighters Hospitalized After CA Fire · https://www.fireengineering.com/firefighting/woman-rescued-two-firefighters-hospitalized-after-ca-fire/ — Two firefighters were hospitalized with heat exhaustion after battling a multi-floor fire in a downt
 - 2026-10-09 · Google News: Canadian fire departments · Honoring 19 years of service: Council Bluff Fire Department’s Charles Jones - Yahoo · https://www.yahoo.com/news/articles/honoring-19-years-council-bluff-034337500.html
 
 ## Labour, public policy and finance
@@ -120,6 +119,7 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-10 · Google News: public alerting · Canton issues weather preparedness advisory - themountaineer.com · https://www.themountaineer.com/news/canton-issues-weather-preparedness-advisory/article_c87cf297-58e6-406c-a9e5-e241f2117df2.html
 - 2026-10-10 · Google News: public safety communications · GENESEE COUNTY/Emergency Services Dispatchers recognized for Outstanding Service - Video News Service · https://videonewsservice.net/index.php/2026/10/10/genesee-county-emergency-services-dispatchers-recognized-for-outstanding-service/
 - 2026-10-10 · Google News: public alerting · Off-duty UW-Madison police officer helps catch man with knife - WMSN · https://fox47.com/news/local/off-duty-uw-madison-police-officer-helps-catch-man-with-knife
+- 2026-10-10 · Google News: public safety communications · Genesee County dispatchers recognized at state 911 conference - The Batavian · https://www.thebatavian.com/press-release/genesee-county-dispatchers-recognized-at-state-911-conference/649438
 - 2026-10-10 · Google News: emergency tech and AI · Videos - Natural Disaster Expo 2026 Speaker Series: Rob Borse on AI in Emergency Management - JDSupra · https://www.jdsupra.com/post/contentViewerEmbed.aspx?fid=b6766781-bc77-417a-a275-ad6ebf656405
 - 2026-10-10 · NENA (via Google News) · Ivan Rincon - Candidate for NENA Canadian Region Director - National Emergency Number Association · https://www.nena.org/resource/resmgr/2027-28_board/Rincon.pdf
 - 2026-10-10 · NENA (via Google News) · STACEY CANN - National Emergency Number Association · https://www.nena.org/resource/resmgr/2027-28_board/Cann.pdf
@@ -132,11 +132,10 @@ Last 8 days. Each line: date · source · title · link — short summary. Open 
 - 2026-10-09 · Google News: public safety communications · AT&T Prepares for Rachel - AT&T Newsroom · https://about.att.com/pages/disaster_relief/2026/storm-rachel.html
 - 2026-10-09 · Google News: public safety communications · Comtech to host Q4FY26 earnings call on Oct 14 - scanx.trade · https://scanx.trade/stock-market-news/companies/comtech-host-q4fy26-earnings-call-oct-14/53124349
 - 2026-10-09 · Google News: emergency dispatch operations · RiverCom begins $7 million renovation of future Wenatchee 911 center - The Leavenworth Echo · https://www.leavenworthecho.com/stories/rivercom-begins-7-million-renovation-of-future-wenatchee-911-center,191953
+- 2026-10-09 · Google News: public safety communications · Scarborough, Old Orchard Beach leaders push for new emergency communications system - WGME · https://wgme.com/news/local/gallery/scarborough-old-orchard-beach-leaders-push-for-new-emergency-communications-system-maine-police-fire-dispatch?photo=2
 - 2026-10-09 · NENA (via Google News) · NENA 2027 Call for Papers Now Open - National Emergency Number Association · https://www.nena.org/news/news.asp?id=736713
 - 2026-10-09 · Google News: community risk assessment · Virginia launches statewide dashboard to help fire departments identify community risks - WRIC ABC 8News · https://www.wric.com/news/virginia-news/vdfp-community-risk-assessment-dashboard/amp/
 - 2026-10-09 · Emergency Management magazine (GovTech) · Niagara, N.Y.-Area Fire Depts. to Receive $1M in Federal Grants · https://www.govtech.com/em/safety/niagara-n-y-area-fire-depts-to-receive-1m-in-federal-grants — The grants are part of $13.2 million in funding for fire departments across upstate New York announc
-- 2026-10-09 · Google News: public safety communications · Mercer County 911 dispatcher receives award for dedicated service - WVNS · https://www.wvnstv.com/news/west-virginia-news/mercer-county/mercer-county-911-dispatcher-receives-award-for-dedicated-service/amp/
-- 2026-10-09 · Google News: community risk assessment · Louisiana State Fire Marshal unveils new mascot, Pelly-Can, to assist in fire safety awareness - louisianaradionetwork.com · https://louisianaradionetwork.com/2026/10/09/48492/
 
 ## Agencies and research centres
 - 2026-10-10 · GDACS orange and red alerts · Green earthquake (Magnitude 4.6M, Depth:560.2km) in Fiji 10/10/2026 12:21 UTC, Few people affected in 100km. · https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570530 — On 10/10/2026 12:21:02 PM, an earthquake occurred in Fiji potentially affecting Few people affected 

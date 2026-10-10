@@ -26,21 +26,21 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"5052fb8f3e8b2a19d05917271470624b\"",
-  "modified": "Sat, 10 Oct 2026 13:26:58 GMT"
+  "etag": "W/\"78542aa42d67d87c869706a4fad14e3e\"",
+  "modified": "Sat, 10 Oct 2026 14:30:32 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"5052fb8f3e8b2a19d05917271470624b\"",
-  "modified": "Sat, 10 Oct 2026 13:26:58 GMT"
+  "etag": "W/\"d88b1a90dd45be9ec7300dafb6e9b281\"",
+  "modified": "Sat, 10 Oct 2026 15:33:39 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/3d9bb4d4ce470d62fc8b6d05182e581d",
-  "modified": "Sat, 10 Oct 2026 13:45:51 GMT"
+  "etag": "W/3285672c86e2a094172fb34368f65f2b",
+  "modified": "Sat, 10 Oct 2026 15:34:08 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
-  "etag": "W/\"a807-65d17f3029aa8\"",
-  "modified": "Mon, 05 Oct 2026 13:35:02 GMT"
+  "etag": "W/\"ba4d-65d4fe9a03a7e\"",
+  "modified": "Thu, 08 Oct 2026 08:21:03 GMT"
  },
  "https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -118,14 +118,14 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"2cfcfbefbd58dd1:0\"",
-  "modified": "Sat, 10 Oct 2026 13:47:48 GMT"
+  "etag": "\"7e4ecf95ca58dd1:0\"",
+  "modified": "Sat, 10 Oct 2026 15:18:21 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Sat, 10 Oct 2026 13:29:24 GMT"
+  "modified": "Sat, 10 Oct 2026 15:30:14 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
-  "etag": "\"6c9e-65d6d2aaf978c-gzip\"",
+  "etag": "\"6c9e-65d6d2ab1665c-gzip\"",
   "modified": "Fri, 09 Oct 2026 19:15:09 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/19444079/most-recent": {
@@ -215,15 +215,15 @@
  "https://news.google.com/rss/search?q=site:pbo-dpb.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.hrreporter.com/rss": {},
  "https://www.iaff.org/feed/": {
-  "etag": "\"0e04696ac7344fe8247b9b6faf786420\"",
-  "modified": "Sat, 10 Oct 2026 13:10:41 GMT"
+  "etag": "\"caecf750e1e78d5b6d2838c3115827a1\"",
+  "modified": "Sat, 10 Oct 2026 15:13:06 GMT"
  },
  "https://news.google.com/rss/search?q=%28%22fire+chief%22+OR+%22fire+department%22+OR+%22fire+services%22+OR+%22fire+rescue%22%29+%28budget+OR+staffing+OR+%22master+plan%22+OR+%22response+times%22+OR+%22new+fire+station%22+OR+council%29+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=%28%22Ottawa+Fire+Services%22+OR+%22Vancouver+Fire+Rescue%22+OR+%22Calgary+Fire+Department%22+OR+%22Edmonton+Fire+Rescue%22+OR+%22Mississauga+Fire%22+OR+%22Brampton+Fire%22+OR+%22Hamilton+Fire+Department%22+OR+%22Winnipeg+Fire+Paramedic%22+OR+%22Service+de+s%C3%A9curit%C3%A9+incendie+de+Montr%C3%A9al%22%29+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=%28FDNY+OR+%22London+Fire+Brigade%22+OR+%22Los+Angeles+Fire+Department%22+OR+%22Chicago+Fire+Department%22+OR+%22Fire+and+Rescue+NSW%22+OR+%22Scottish+Fire+and+Rescue%22%29+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.fireengineering.com/feed/": {
-  "etag": "W/\"e96bdbf655c03cb9484dfaa9d7fe883b\"",
-  "modified": "Sat, 10 Oct 2026 02:08:19 GMT"
+  "etag": "W/\"a93c7fda11108efed1657f70aa69df22\"",
+  "modified": "Sat, 10 Oct 2026 13:01:35 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/17547121/most-recent": {
   "modified": "Sat, 10 Oct 2026 08:07:23 GMT"

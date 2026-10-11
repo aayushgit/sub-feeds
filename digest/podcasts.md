@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-11 14:09 UTC
+# Podcast episodes · generated 2026-10-11 15:58 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-11 · The Climate Question (BBC) · 23 min · Are we ready for a super El Niño? · http://www.bbc.co.uk/programmes/w3ct99j4 — When a powerful El Niño strikes, it can devastate harvests, flood communities and kill thousands of people. Scientists h

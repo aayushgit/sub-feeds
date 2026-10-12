@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-12 16:48 UTC
+# Podcast episodes · generated 2026-10-12 19:21 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-12 · Front Burner (CBC) · 39 min · How gambling became the game · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-Qs2jckv3-20261007.mp3 — How did sports betting go from being illegal to being EVERYWHERE? The answer lies in the convergence of daily fantasy sp

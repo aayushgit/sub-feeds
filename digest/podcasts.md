@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-13 15:07 UTC
+# Podcast episodes · generated 2026-10-13 17:08 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-13 · Front Burner (CBC) · 35 min · Is AI inevitable? Jill Lepore says no · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-QbgOfNpU-20261012.mp3 — In late September, amid mounting warnings about the risks of AI, the CEOs of six of the world’s most powerful technology

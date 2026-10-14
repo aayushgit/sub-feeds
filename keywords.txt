@@ -90,3 +90,27 @@ call-taker
 telecommunicator
 standards of cover
 nfpa 1710
+# command, situational awareness, GIS, drones and AI (added 13 Oct 2026)
+incident command
+incident management system
+unified command
+emergency operations centre
+situational awareness
+common operating picture
+rpas
+drone
+uav
+gis
+geospatial
+remote sensing
+satellite imagery
+digital twin
+lidar
+ng911
+ng9-1-1
+machine learning
+predictive analytics
+large language model
+generative ai
+computer vision
+crisis informatics

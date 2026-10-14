@@ -2,7 +2,7 @@
 import urllib.request, re
 from pathlib import Path
 UA = "Mozilla/5.0 (compatible; FieldNotesFeedCollector/1.0)"
-C = {'Policy Options (IRPP)': ['https://policyoptions.irpp.org/feed/'], 'Canadian HR Reporter': ['https://www.hrreporter.com/rss', 'https://www.hrreporter.com/feed/'], 'Fire Engineering': ['https://www.fireengineering.com/feed/'], 'IAFF': ['https://www.iaff.org/feed/', 'https://www.iaff.org/news/feed/'], 'StatCan Daily': ['https://www150.statcan.gc.ca/n1/dai-quo/rss/dai-quo-eng.xml'], 'FAO Ontario': ['https://www.fao-on.org/en/feed', 'https://www.fao-on.org/feed/'], 'PBO': ['https://www.pbo-dpb.ca/en/rss', 'https://www.pbo-dpb.ca/en/feed'], 'Canadian Public Administration (Wiley)': ['https://onlinelibrary.wiley.com/feed/17547121/most-recent'], 'Public Administration Review (Wiley)': ['https://onlinelibrary.wiley.com/feed/15406210/most-recent']}
+C = {'DroneLife': ['https://dronelife.com/feed/'], 'DroneDJ': ['https://dronedj.com/feed/'], 'Directions Magazine': ['https://www.directionsmag.com/rss/articles', 'https://www.directionsmag.com/rss'], 'GIM International': ['https://www.gim-international.com/rss'], 'Esri ArcNews/Blog': ['https://www.esri.com/arcgis-blog/feed/'], 'Copernicus EMS (via Google News)': ['https://news.google.com/rss/search?q=%22Copernicus+Emergency%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en'], 'ISCRAM': ['https://iscram.org/feed/']}
 out = ["# Probe results", "", "| Feed | URL | Result |", "|---|---|---|"]
 for name, urls in C.items():
     for u in urls:

@@ -1,12 +1,12 @@
 {
  "https://www.toronto.ca/news/feed/": {
-  "etag": "\"a087c6d5152abe25e09776f822ad053c\"",
-  "modified": "Wed, 14 Oct 2026 04:02:03 GMT"
+  "etag": "\"6a7add3d14cba716f0d3fa9f0b730244\"",
+  "modified": "Wed, 14 Oct 2026 14:34:19 GMT"
  },
  "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20": {},
  "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
-  "etag": "\"d04266d5310da09c58af5c53ae31b073\"",
-  "modified": "Tue, 13 Oct 2026 18:20:54 GMT"
+  "etag": "\"16296eeaafdaa51de35839cabc93980d\"",
+  "modified": "Wed, 14 Oct 2026 13:10:51 GMT"
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"6fd4-OwvYrSMMJQp/G8IWGl+fF0jZ/AY\""
@@ -26,17 +26,17 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"4b0f14a647aee14f2f2d3dd7e73e6d67\"",
-  "modified": "Wed, 14 Oct 2026 12:50:48 GMT"
+  "etag": "W/\"e3fb4a3694b0cefe279b18afd75203b8\"",
+  "modified": "Wed, 14 Oct 2026 14:38:01 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"4b0f14a647aee14f2f2d3dd7e73e6d67\"",
-  "modified": "Wed, 14 Oct 2026 12:50:48 GMT"
+  "etag": "W/\"52c0b04b2f9668580003e1b0b5246f9a\"",
+  "modified": "Wed, 14 Oct 2026 14:39:32 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/9efd040c522f8a063f1dd19f467f6987",
-  "modified": "Wed, 14 Oct 2026 12:55:28 GMT"
+  "etag": "W/9a5f162f8c7f5075254274f6a6047e01",
+  "modified": "Wed, 14 Oct 2026 14:38:50 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
   "etag": "W/\"ba4d-65d4fe9a03a7e\"",
@@ -56,28 +56,28 @@
  },
  "https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.artemis.bm/feed/": {
-  "etag": "W/\"cc93131bc2cd271766a33e4c6c3f7279\"",
-  "modified": "Wed, 14 Oct 2026 12:55:45 GMT"
+  "etag": "W/\"b2d8d8d5fb9ee6a1a8187dd126935a16\"",
+  "modified": "Wed, 14 Oct 2026 13:12:19 GMT"
  },
  "https://www.nist.gov/news-events/news/rss.xml": {
-  "etag": "\"1791980282-gzip\"",
-  "modified": "Wed, 14 Oct 2026 12:18:02 GMT"
+  "etag": "\"1791988802-gzip\"",
+  "modified": "Wed, 14 Oct 2026 14:40:02 GMT"
  },
  "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:usfa.fema.gov+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.preventionweb.net/rss.xml": {
-  "etag": "\"1791974496-gzip\"",
-  "modified": "Wed, 14 Oct 2026 10:41:36 GMT"
+  "etag": "\"1791983865-gzip\"",
+  "modified": "Wed, 14 Oct 2026 13:17:45 GMT"
  },
  "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://hazards.colorado.edu/feed": {
-  "etag": "\"fe60a49086b15b0afaf5c010ebfae629\"",
-  "modified": "Tue, 13 Oct 2026 23:18:41 GMT"
+  "etag": "\"79510dd46d4d09ae07422fc48bcd1f82\"",
+  "modified": "Wed, 14 Oct 2026 14:35:50 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/22124209": {
-  "etag": "W/\"ba694b692010891a759dcf44894e8ae1\"",
-  "modified": "Tue, 13 Oct 2026 09:09:56 GMT"
+  "etag": "W/\"e1360cea55c918a90970cabc7eab88e1\"",
+  "modified": "Wed, 14 Oct 2026 09:10:05 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/03797112": {
   "etag": "W/\"46f3aed38fed631dc17fab98c48d8a3a\"",
@@ -102,7 +102,7 @@
  "https://www.mdpi.com/rss/journal/fire": {},
  "https://api.crossref.org/journals/1090-3127/works?sort=created&order=desc&rows=25": {},
  "https://ascelibrary.org/action/showFeed?type=etoc&feed=rss&jc=nhrefo": {
-  "modified": "Tue, 13 Oct 2026 07:01:42 GMT"
+  "modified": "Wed, 14 Oct 2026 14:10:55 GMT"
  },
  "https://www.govtech.com/em.rss": {},
  "https://theconversation.com/ca/topics/natural-disasters-1172/articles.atom": {},
@@ -118,11 +118,11 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"1fd23d31da5bdd1:0\"",
-  "modified": "Wed, 14 Oct 2026 12:47:37 GMT"
+  "etag": "\"4c8f596e95bdd1:0\"",
+  "modified": "Wed, 14 Oct 2026 14:37:49 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Wed, 14 Oct 2026 12:31:31 GMT"
+  "modified": "Wed, 14 Oct 2026 14:34:10 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
   "etag": "\"6bc0-65dc7efaff72d-gzip\"",
@@ -155,8 +155,8 @@
   "modified": "Wed, 14 Oct 2026 08:00:16 GMT"
  },
  "https://www.municipalworld.com/podcast-channels/mw-shares/feed/": {
-  "etag": "W/\"2806acb1d652b71efe198223291a1904-br\"",
-  "modified": "Wed, 14 Oct 2026 11:50:08 GMT"
+  "etag": "W/\"bb49a13021d64d263816be4c665e2524-br\"",
+  "modified": "Wed, 14 Oct 2026 14:25:58 GMT"
  },
  "https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml": {
   "modified": "Wed, 14 Oct 2026 06:00:37 GMT"
@@ -318,8 +318,8 @@
  "https://api.openalex.org/works?search=%28%22machine%20learning%22%20OR%20%22deep%20learning%22%20OR%20%22large%20language%20model%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22emergency%20medical%20services%22%20OR%20%22fire%20service%22%20OR%20%22emergency%20management%22%20OR%20%22disaster%20response%22%20OR%20dispatch%29&filter=from_publication_date:2026-10-04,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%22incident%20command%22%20OR%20%22incident%20management%20system%22%20OR%20%22situational%20awareness%22%20AND%20emergency%20OR%20%22common%20operating%20picture%22&filter=from_publication_date:2026-10-04,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://dronelife.com/feed/": {
-  "etag": "\"1f44b5872f34d939965a5d1b80b62ecd\"",
-  "modified": "Tue, 13 Oct 2026 17:22:42 GMT"
+  "etag": "\"604cf9d83238344bb6c31b3ba0e50645\"",
+  "modified": "Wed, 14 Oct 2026 13:28:27 GMT"
  },
  "https://dronedj.com/feed/": {
   "etag": "W/\"c8bcb55531fb62f55e7eb04712e97899\"",

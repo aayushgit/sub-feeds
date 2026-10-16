@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-16 12:31 UTC
+# Podcast episodes · generated 2026-10-16 14:17 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-16 · Front Burner (CBC) · 29 min · Politics! Carney in Alberta, Stelco showdown · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-tLlQiWtM-20261016.mp3 — Prime Minister Mark Carney is in Alberta this week, making a final pitch for unity in the lead-up to the province's refe

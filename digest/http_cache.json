@@ -26,17 +26,17 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"1d52eaea524fd5feb09282e820d39c05\"",
-  "modified": "Sat, 17 Oct 2026 06:13:00 GMT"
+  "etag": "W/\"029a0f69c65963e0e94f2869a0d408c4\"",
+  "modified": "Sat, 17 Oct 2026 13:13:35 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"1d52eaea524fd5feb09282e820d39c05\"",
-  "modified": "Sat, 17 Oct 2026 06:13:00 GMT"
+  "etag": "W/\"029a0f69c65963e0e94f2869a0d408c4\"",
+  "modified": "Sat, 17 Oct 2026 13:13:35 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/33faccd940772e979cd80f670876f29e",
-  "modified": "Sat, 17 Oct 2026 11:38:44 GMT"
+  "etag": "W/8c0b73d4d6e8eadbcbd41fb48b03de28",
+  "modified": "Sat, 17 Oct 2026 13:11:35 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
   "etag": "W/\"ae2b-65ddccc59a5d4\"",
@@ -67,8 +67,8 @@
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:usfa.fema.gov+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.preventionweb.net/rss.xml": {
-  "etag": "\"1792154312-gzip\"",
-  "modified": "Fri, 16 Oct 2026 12:38:32 GMT"
+  "etag": "\"1792240742-gzip\"",
+  "modified": "Sat, 17 Oct 2026 12:39:02 GMT"
  },
  "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://hazards.colorado.edu/feed": {
@@ -118,15 +118,15 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"6dfbfde42b5edd1:0\"",
-  "modified": "Sat, 17 Oct 2026 11:37:30 GMT"
+  "etag": "\"3dd4f376385edd1:0\"",
+  "modified": "Sat, 17 Oct 2026 13:07:29 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Sat, 17 Oct 2026 11:01:16 GMT"
+  "modified": "Sat, 17 Oct 2026 13:15:24 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
-  "etag": "\"6b64-65df9ecb32b6d-gzip\"",
-  "modified": "Fri, 16 Oct 2026 19:10:59 GMT"
+  "etag": "\"6b64-65df9ecbcbd9e-gzip\"",
+  "modified": "Fri, 16 Oct 2026 19:11:00 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/19444079/most-recent": {
   "modified": "Sat, 17 Oct 2026 08:09:06 GMT"

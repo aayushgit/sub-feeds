@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-17 11:40 UTC
+# New papers · generated 2026-10-17 13:14 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-16 · IJDRR · A Catastrophe Modelling Approach for Rapid Post-Event Flood Loss Estimation · https://www.sciencedirect.com/science/article/pii/S2212420926005236?dgcid=rss_sd_all — Publication date: Available online 15 October 2026 Source: International Journal of Disaster Risk Reduction Author(s): Christopher Masafu, Sumeet Kulkarni, Khal

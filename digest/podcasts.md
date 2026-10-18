@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-17 13:14 UTC
+# Podcast episodes · generated 2026-10-18 12:06 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-17 · Power & Politics (CBC) · 23 min · Weekly Wrap: What will Albertans choose? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-8Pu9OtX5-20261017.mp3 — Prime Minister Mark Carney and Conservative Leader Pierre Poilievre are among those in Alberta this week making the case

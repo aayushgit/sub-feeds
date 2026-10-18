@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-18 12:06 UTC
+# New papers · generated 2026-10-18 13:35 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-18 · IJDRR · Beyond exposure: institutional response, resilience, and mental health after the 2024 Spanish floods · https://www.sciencedirect.com/science/article/pii/S2212420926005297?dgcid=rss_sd_all — Publication date: Available online 17 October 2026 Source: International Journal of Disaster Risk Reduction Author(s): Paula Collazo Castiñeira, Silvia Collado,

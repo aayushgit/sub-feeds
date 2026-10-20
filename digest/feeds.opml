@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>Field Notes feeds</title><dateCreated>Tue, 20 Oct 2026 20:16:53 +0000</dateCreated></head>
+<body>
+<outline text="City of Toronto">
+  <outline type="rss" text="City of Toronto news" xmlUrl="https://www.toronto.ca/news/feed/"/>
+  <outline type="rss" text="TRCA news" xmlUrl="https://trca.ca/news/feed/"/>
+</outline>
+<outline text="Government">
+  <outline type="rss" text="Ontario Newsroom" xmlUrl="https://news.ontario.ca/newsroom/en/rss/allnews.rss"/>
+  <outline type="rss" text="Public Safety Canada" xmlUrl="https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&amp;sort=publishedDate&amp;orderBy=desc&amp;pick=30&amp;format=atom"/>
+  <outline type="rss" text="Health Canada" xmlUrl="https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofhealth&amp;sort=publishedDate&amp;orderBy=desc&amp;pick=30&amp;format=atom"/>
+  <outline type="rss" text="CRTC" xmlUrl="https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianradiotelevisionandtelecommunicationscommission&amp;sort=publishedDate&amp;orderBy=desc&amp;pick=30&amp;format=atom"/>
+  <outline type="rss" text="Natural Resources Canada" xmlUrl="https://api.io.canada.ca/io-server/gc/news/en/v2?dept=naturalresourcescanada&amp;sort=publishedDate&amp;orderBy=desc&amp;pick=30&amp;format=atom"/>
+  <outline type="rss" text="Indigenous Services Canada" xmlUrl="https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&amp;sort=publishedDate&amp;orderBy=desc&amp;pick=30&amp;format=atom"/>
+</outline>
+<outline text="News">
+  <outline type="rss" text="CBC Toronto" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-toronto"/>
+  <outline type="rss" text="CBC Canada" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada"/>
+  <outline type="rss" text="Global News Toronto" xmlUrl="https://globalnews.ca/toronto/feed/"/>
+  <outline type="rss" text="Global News Canada" xmlUrl="https://globalnews.ca/canada/feed/"/>
+  <outline type="rss" text="CTV News Toronto (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Toronto Star GTA" xmlUrl="https://www.thestar.com/search/?f=rss&amp;t=article&amp;c=news/gta*&amp;l=50&amp;s=start_time&amp;sd=desc"/>
+  <outline type="rss" text="Canadian Press via Newswire (Canada)" xmlUrl="https://www.newswire.ca/rss/news-releases-list.rss"/>
+  <outline type="rss" text="Google News: Toronto fire" xmlUrl="https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: lithium-ion fire Canada" xmlUrl="https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: 9-1-1 Canada" xmlUrl="https://news.google.com/rss/search?q=(%22NG9-1-1%22+OR+%229-1-1%22+OR+%22911+outage%22)+Canada+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: emergency management Canada" xmlUrl="https://news.google.com/rss/search?q=(%22emergency+management%22+OR+%22Emergency+Management+Ontario%22)+(Canada+OR+Toronto+OR+%22Ontario+government%22)+-%22New+York%22+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: wildfire flood Canada" xmlUrl="https://news.google.com/rss/search?q=(wildfire+OR+flood+OR+evacuation)+Canada+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: Ontario fire marshal" xmlUrl="https://news.google.com/rss/search?q=%22fire+marshal%22+Ontario+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: urban search and rescue" xmlUrl="https://news.google.com/rss/search?q=(%22urban+search+and+rescue%22+OR+HUSAR+OR+INSARAG)+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: disaster insurance Canada" xmlUrl="https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+%22catastrophe+losses%22+OR+%22Insurance+Bureau+of+Canada%22)+Canada+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+</outline>
+<outline text="Fire service">
+  <outline type="rss" text="Firefighting in Canada" xmlUrl="https://www.firefightingincanada.com/feed/"/>
+  <outline type="rss" text="Firehouse" xmlUrl="https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D"/>
+  <outline type="rss" text="Canadian Association of Fire Chiefs" xmlUrl="https://cafc.ca/"/>
+  <outline type="rss" text="IAFC news" xmlUrl="https://www.iafc.org/"/>
+  <outline type="rss" text="Canadian Firefighter magazine" xmlUrl="https://www.cdnfirefighter.com/feed/"/>
+</outline>
+<outline text="Other fire departments">
+  <outline type="rss" text="Google News: Canadian fire departments" xmlUrl="https://news.google.com/rss/search?q=%28%22fire+chief%22+OR+%22fire+department%22+OR+%22fire+services%22+OR+%22fire+rescue%22%29+%28budget+OR+staffing+OR+%22master+plan%22+OR+%22response+times%22+OR+%22new+fire+station%22+OR+council%29+Canada+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: big Canadian fire services" xmlUrl="https://news.google.com/rss/search?q=%28%22Ottawa+Fire+Services%22+OR+%22Vancouver+Fire+Rescue%22+OR+%22Calgary+Fire+Department%22+OR+%22Edmonton+Fire+Rescue%22+OR+%22Mississauga+Fire%22+OR+%22Brampton+Fire%22+OR+%22Hamilton+Fire+Department%22+OR+%22Winnipeg+Fire+Paramedic%22+OR+%22Service+de+s%C3%A9curit%C3%A9+incendie+de+Montr%C3%A9al%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: big international fire services" xmlUrl="https://news.google.com/rss/search?q=%28FDNY+OR+%22London+Fire+Brigade%22+OR+%22Los+Angeles+Fire+Department%22+OR+%22Chicago+Fire+Department%22+OR+%22Fire+and+Rescue+NSW%22+OR+%22Scottish+Fire+and+Rescue%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Fire Engineering" xmlUrl="https://www.fireengineering.com/feed/"/>
+</outline>
+<outline text="Labour, public policy and finance">
+  <outline type="rss" text="Google News: firefighter and paramedic bargaining" xmlUrl="https://news.google.com/rss/search?q=%28%22collective+agreement%22+OR+%22interest+arbitration%22+OR+%22arbitration+award%22+OR+%22collective+bargaining%22+OR+grievance%29+%28firefighters+OR+%22fire+fighters%22+OR+paramedics%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: Ontario public-sector labour" xmlUrl="https://news.google.com/rss/search?q=%28%22Ontario+Labour+Relations+Board%22+OR+%22labour+arbitration%22+OR+%22Bill+124%22+OR+%22public+sector+union%22+OR+%22essential+services+agreement%22%29+Ontario+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: Toronto budget and finance" xmlUrl="https://news.google.com/rss/search?q=Toronto+%28%22city+budget%22+OR+%22budget+committee%22+OR+%22property+tax%22+OR+%22capital+budget%22+OR+%22development+charges%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: Ontario municipal finance" xmlUrl="https://news.google.com/rss/search?q=%28%22municipal+budget%22+OR+%22property+tax%22+OR+%22development+charges%22+OR+%22infrastructure+funding%22%29+Ontario+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: Canadian public policy and fiscal" xmlUrl="https://news.google.com/rss/search?q=%28%22federal+budget%22+OR+%22fiscal+update%22+OR+%22public+policy%22+OR+%22Parliamentary+Budget+Officer%22+OR+%22Financial+Accountability+Office%22%29+Canada+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Financial Accountability Office of Ontario (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:fao-on.org+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Parliamentary Budget Officer (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:pbo-dpb.ca+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Canadian HR Reporter (labour items)" xmlUrl="https://www.hrreporter.com/rss"/>
+  <outline type="rss" text="IAFF news" xmlUrl="https://www.iaff.org/feed/"/>
+</outline>
+<outline text="Insurance and finance">
+  <outline type="rss" text="Canadian Underwriter (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Artemis (cat bonds)" xmlUrl="https://www.artemis.bm/feed/"/>
+  <outline type="rss" text="ICLR (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:iclr.org+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+</outline>
+<outline text="Policy, technology and communications">
+  <outline type="rss" text="Emergency Management magazine (GovTech)" xmlUrl="https://www.govtech.com/em.rss"/>
+  <outline type="rss" text="The Conversation Canada: natural disasters" xmlUrl="https://theconversation.com/ca/topics/natural-disasters-1172/articles.atom"/>
+  <outline type="rss" text="Google News: community risk assessment" xmlUrl="https://news.google.com/rss/search?q=(%22community+risk+assessment%22+OR+%22community+risk+reduction%22+OR+%22hazard+identification+and+risk+assessment%22)+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: public alerting" xmlUrl="https://news.google.com/rss/search?q=(%22Alert+Ready%22+OR+%22emergency+alert%22+OR+%22public+alerting%22+OR+%22wireless+emergency+alert%22)+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: public safety communications" xmlUrl="https://news.google.com/rss/search?q=(%22public+safety+broadband%22+OR+FirstNet+OR+%22public+safety+communications%22+OR+%22emergency+communications%22)+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: emergency tech and AI" xmlUrl="https://news.google.com/rss/search?q=(%22emergency+management%22+OR+%22disaster+response%22+OR+firefighters)+(AI+OR+drones+OR+%22artificial+intelligence%22)+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: resilience policy Canada" xmlUrl="https://news.google.com/rss/search?q=(%22disaster+resilience%22+OR+%22climate+adaptation%22+OR+%22disaster+risk+reduction%22)+(policy+OR+strategy+OR+funding)+Canada+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="NENA (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:nena.org+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="EENA (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:eena.org+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Domestic Preparedness (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:domesticpreparedness.com+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: emergency dispatch operations" xmlUrl="https://news.google.com/rss/search?q=%28%22emergency+dispatch%22+OR+%22dispatch+centre%22+OR+%22dispatch+center%22+OR+%22communications+centre%22+OR+%22priority+dispatch%22+OR+MPDS+OR+%22call-taker%22+OR+%22telecommunicator%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: drones and RPAS in public safety" xmlUrl="https://news.google.com/rss/search?q=%28drone+OR+drones+OR+RPAS+OR+UAV%29+%28firefighters+OR+%22fire+department%22+OR+%22search+and+rescue%22+OR+%22public+safety%22+OR+%22emergency+response%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: incident command and IMS" xmlUrl="https://news.google.com/rss/search?q=%28%22incident+command%22+OR+%22incident+management+system%22+OR+%22unified+command%22+OR+%22emergency+operations+centre%22+OR+%22emergency+operations+center%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: GIS and remote sensing in emergencies" xmlUrl="https://news.google.com/rss/search?q=%28GIS+OR+geospatial+OR+%22satellite+imagery%22+OR+%22remote+sensing%22+OR+%22digital+twin%22%29+%28disaster+OR+emergency+OR+wildfire+OR+flood%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: AI and data in emergency services" xmlUrl="https://news.google.com/rss/search?q=%28%22public+safety%22+OR+%22emergency+services%22+OR+911+OR+%22fire+department%22+OR+EMS%29+%28%22machine+learning%22+OR+%22predictive+analytics%22+OR+%22data+analytics%22+OR+%22generative+AI%22+OR+%22large+language+model%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Google News: NG9-1-1 and situational awareness" xmlUrl="https://news.google.com/rss/search?q=%28NG911+OR+%22NG9-1-1%22+OR+%22next+generation+911%22+OR+%22real-time+crime+center%22+OR+%22common+operating+picture%22+OR+%22situational+awareness%22%29+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="DroneLife (public-safety items)" xmlUrl="https://dronelife.com/feed/"/>
+  <outline type="rss" text="DroneDJ (public-safety items)" xmlUrl="https://dronedj.com/feed/"/>
+  <outline type="rss" text="GIM International (disaster items)" xmlUrl="https://www.gim-international.com/rss"/>
+  <outline type="rss" text="ISCRAM (crisis informatics)" xmlUrl="https://iscram.org/feed/"/>
+  <outline type="rss" text="Esri Canada blog" xmlUrl="https://resources.esri.ca/"/>
+  <outline type="rss" text="NAPSG Foundation" xmlUrl="https://www.napsgfoundation.org/"/>
+</outline>
+<outline text="Agencies and research centres">
+  <outline type="rss" text="NIST news" xmlUrl="https://www.nist.gov/news-events/news/rss.xml"/>
+  <outline type="rss" text="UL FSRI (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:fsri.org+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="NFPA (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:nfpa.org+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="USFA (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:usfa.fema.gov+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="PreventionWeb" xmlUrl="https://www.preventionweb.net/rss.xml"/>
+  <outline type="rss" text="Urgent Communications (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Natural Hazards Center" xmlUrl="https://hazards.colorado.edu/feed"/>
+  <outline type="rss" text="FEMA (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:fema.gov+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="Canadian Red Cross (via Google News)" xmlUrl="https://news.google.com/rss/search?q=site:redcross.ca+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+  <outline type="rss" text="GDACS orange and red alerts" xmlUrl="https://www.gdacs.org/xml/rss_24h.xml"/>
+  <outline type="rss" text="Copernicus Emergency Management (via Google News)" xmlUrl="https://news.google.com/rss/search?q=%22Copernicus+Emergency%22+OR+%22International+Charter+Space+and+Major+Disasters%22+when:7d&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+</outline>
+<outline text="Blogs and newsletters">
+  <outline type="rss" text="Recovery Diva (Claire Rubin)" xmlUrl="https://recoverydiva.com/feed/"/>
+  <outline type="rss" text="Disaster Zone (Eric Holdeman)" xmlUrl="https://disaster-zone.com/"/>
+  <outline type="rss" text="Canadian Risk and Hazards Network (CRHNet)" xmlUrl="https://crhnet.ca/feed/"/>
+  <outline type="rss" text="Statistical Modeling and Causal Inference (Gelman)" xmlUrl="https://statmodeling.stat.columbia.edu/"/>
+  <outline type="rss" text="Data Colada" xmlUrl="https://datacolada.org/feed"/>
+  <outline type="rss" text="Andrew Heiss (causal inference and R)" xmlUrl="https://www.andrewheiss.com/blog/"/>
+</outline>
+<outline text="New journal articles">
+  <outline type="rss" text="IJDRR" xmlUrl="https://rss.sciencedirect.com/publication/science/22124209"/>
+  <outline type="rss" text="Fire Safety Journal" xmlUrl="https://rss.sciencedirect.com/publication/science/03797112"/>
+  <outline type="rss" text="Safety Science" xmlUrl="https://rss.sciencedirect.com/publication/science/09257535"/>
+  <outline type="rss" text="Disasters" xmlUrl="https://onlinelibrary.wiley.com/feed/14677717/most-recent"/>
+  <outline type="rss" text="Risk Analysis" xmlUrl="https://onlinelibrary.wiley.com/feed/15396924/most-recent"/>
+  <outline type="rss" text="Journal of Contingencies and Crisis Management" xmlUrl="https://onlinelibrary.wiley.com/feed/14685973/most-recent"/>
+  <outline type="rss" text="MDPI Fire" xmlUrl="https://www.mdpi.com/rss/journal/fire"/>
+  <outline type="rss" text="Natural Hazards Review" xmlUrl="https://ascelibrary.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=nhrefo"/>
+  <outline type="rss" text="Natural Hazards and Earth System Sciences" xmlUrl="https://nhess.copernicus.org/xml/rss2_0.xml"/>
+  <outline type="rss" text="Risk Hazards and Crisis in Public Policy" xmlUrl="https://onlinelibrary.wiley.com/feed/19444079/most-recent"/>
+  <outline type="rss" text="Canadian Public Administration" xmlUrl="https://onlinelibrary.wiley.com/feed/17547121/most-recent"/>
+  <outline type="rss" text="Public Administration Review" xmlUrl="https://onlinelibrary.wiley.com/feed/15406210/most-recent"/>
+</outline>
+<outline text="Podcasts">
+  <outline type="rss" text="Better Every Shift (FireRescue1)" xmlUrl="https://feed.podbean.com/sidealpha/feed.xml"/>
+  <outline type="rss" text="Disaster Zone" xmlUrl="https://www.spreaker.com/show/6208902/episodes/feed"/>
+  <outline type="rss" text="Disasters: Deconstructed" xmlUrl="https://feed.podbean.com/disastersdecon/feed.xml"/>
+  <outline type="rss" text="Electric Cities (ULI Toronto)" xmlUrl="https://feed.podbean.com/ulitoronto/feed.xml"/>
+  <outline type="rss" text="Emergency Preparedness in Canada (EPIC)" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:252268684/sounds.rss"/>
+  <outline type="rss" text="Front Burner (CBC)" xmlUrl="https://www.cbc.ca/podcasting/includes/frontburner.xml"/>
+  <outline type="rss" text="MW Shares (Municipal World)" xmlUrl="https://www.municipalworld.com/podcast-channels/mw-shares/feed/"/>
+  <outline type="rss" text="Power &amp; Politics (CBC)" xmlUrl="https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml"/>
+  <outline type="rss" text="Risk REconsidered (Swiss Re)" xmlUrl="https://rss.libsyn.com/shows/540792/destinations/4660057.xml"/>
+  <outline type="rss" text="Smart Firefighting" xmlUrl="https://feed.podbean.com/SmartFirefighting/feed.xml"/>
+  <outline type="rss" text="The Climate Question (BBC)" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtvb6.rss"/>
+  <outline type="rss" text="The Emergency Management Network Podcast" xmlUrl="https://api.substack.com/feed/podcast/577776.rss"/>
+</outline>
+<outline text="Papers">
+  <outline type="rss" text="arXiv: emergency and disaster research" xmlUrl="https://export.arxiv.org/api/query?search_query=abs:%22emergency%20management%22%20OR%20abs:%22disaster%20response%22%20OR%20abs:%22disaster%20management%22%20OR%20abs:%22evacuation%22%20OR%20abs:%22emergency%20call%22%20OR%20abs:%22firefighting%22%20OR%20abs:%22search%20and%20rescue%22&amp;sortBy=submittedDate&amp;sortOrder=descending&amp;max_results=40"/>
+</outline>
+</body>
+</opml>

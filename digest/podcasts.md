@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-20 14:30 UTC
+# Podcast episodes · generated 2026-10-20 20:16 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-20 · Front Burner (CBC) · 21 min · Alberta decides to stay in Canada · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-O9HDv5PL-20261020.mp3 — After a historic referendum, Albertans have voted to remain in Canada. When we recorded this episode, just over a third 
@@ -11,4 +11,3 @@ Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · 
 - 2026-10-15 · Better Every Shift (FireRescue1) · 39 min · Is your culture your best recruiter? · https://sidealpha.podbean.com/e/is-your-culture-your-best-recruiter/ — The best recruiting pitch might be the one you never make. Kentland (Md.) Volunteer Fire Department Sergeant Alex Caldar
 - 2026-10-11 · The Climate Question (BBC) · 23 min · Are we ready for a super El Niño? · http://www.bbc.co.uk/programmes/w3ct99j4 — When a powerful El Niño strikes, it can devastate harvests, flood communities and kill thousands of people. Scientists h
 - 2026-10-08 · Better Every Shift (FireRescue1) · 37 min · USA vs. Australia: What each fire service does better · https://sidealpha.podbean.com/e/usa-vs-australia-what-each-fire-service-does-better/ — Australia has been using door control and flow path for roughly a decade longer than we have — and it's still wrestling 
-- 2026-10-06 · MW Shares (Municipal World) · length ? · Developing the skills needed for future-ready municipalities · https://www.municipalworld.com/podcasts/developing-the-skills-needed-for-future-ready-municipalities/ — Philippe Richard Bertrand, the president and chief vision officer at illuxi, joins us to discuss how future skills are b

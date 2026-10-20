@@ -132,3 +132,16 @@ DroneDJ (public-safety items),https://dronedj.com/feed/,policy_tech,match:public
 GIM International (disaster items),https://www.gim-international.com/rss,policy_tech,match:disaster|emergency|flood|wildfire|earthquake|hazard|resilien|digital twin|damage
 Copernicus Emergency Management (via Google News),https://news.google.com/rss/search?q=%22Copernicus+Emergency%22+OR+%22International+Charter+Space+and+Major+Disasters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en,agencies,no
 ISCRAM (crisis informatics),https://iscram.org/feed/,policy_tech,no
+# --- blogs and newsletters (added 20 Oct 2026; homepages, feeds auto-discovered) ---
+Recovery Diva (Claire Rubin),https://recoverydiva.com/,blogs,no
+Disaster Zone (Eric Holdeman),https://disaster-zone.com/,blogs,no
+Canadian Risk and Hazards Network (CRHNet),https://www.crhnet.ca/,blogs,no
+Canadian Association of Fire Chiefs,https://cafc.ca/,fire_ems,no
+IAFC news,https://www.iafc.org/,fire_ems,no
+Canadian Firefighter magazine,https://www.cdnfirefighter.com/,fire_ems,no
+Esri Canada blog,https://resources.esri.ca/,policy_tech,no
+NAPSG Foundation,https://www.napsgfoundation.org/,policy_tech,no
+TRCA news,https://trca.ca/news/,toronto,no
+Statistical Modeling and Causal Inference (Gelman),https://statmodeling.stat.columbia.edu/,blogs,no
+Data Colada,https://datacolada.org/,blogs,no
+Andrew Heiss (causal inference and R),https://www.andrewheiss.com/blog/,blogs,no

@@ -6,6 +6,12 @@ Writes:
   digest/status.md   – which feeds worked on the last run
   digest/items.json  – rolling store of items (last 21 days), used for de-duplication
 
+  digest/feeds.opml  – every RSS/Atom feed as OPML, to import into any feed reader
+  digest/discovered.json – feed URLs found by auto-discovery when feeds.csv lists a homepage
+
+feeds.csv url can be a feed or a plain homepage (its feed is auto-discovered). For a site with no
+feed, set filter to scrape:REGEX and the collector keeps links on that page whose URL matches REGEX.
+Daily digest marks unread items (first seen in the last 24 hours) with 🆕.
 Standard library only, so it runs on GitHub Actions with no installs.
 """
 import json, re, html, time, datetime as dt, urllib.request, urllib.error, urllib.parse
@@ -35,11 +41,13 @@ def load_feeds():
             continue
         flt = (r.get("filter") or "no").strip().lower()
         kind = ("ckan" if flt == "ckan" else "crossref" if flt.startswith("crossref") else
-                "openalex" if flt == "openalex" else "s2" if flt == "s2" else "feed")
+                "openalex" if flt == "openalex" else "s2" if flt == "s2" else
+                "scrape" if flt.startswith("scrape:") else "feed")
         url = url.replace("{from}", (NOW - dt.timedelta(days=10)).strftime("%Y-%m-%d"))
         terms = [t.strip() for t in flt[6:].split("|") if t.strip()] if flt.startswith("match:") else None
         out.append({"name": name, "url": url, "group": (r.get("group") or "other").strip().lower() or "other",
-                    "filter": flt in ("yes", "y", "true", "1", "crossref-filter"), "terms": terms, "type": kind})
+                    "filter": flt in ("yes", "y", "true", "1", "crossref-filter"), "terms": terms, "type": kind,
+                    "pattern": (r.get("filter") or "").strip()[7:] if kind == "scrape" else None})
     return out
 
 
@@ -278,6 +286,79 @@ def parse_s2(raw):
     return out
 
 
+
+# ---------- blogwatcher-style helpers: feed auto-discovery and HTML scraping ----------
+from html.parser import HTMLParser
+
+DISCOVERED_PATH = DIGEST / "discovered.json"   # homepage -> feed URL found by auto-discovery
+discovered = json.loads(DISCOVERED_PATH.read_text()) if DISCOVERED_PATH.exists() else {}
+COMMON_FEED_PATHS = ("feed/", "rss", "rss.xml", "feed.xml", "atom.xml", "index.xml", "blog/feed/", "news/feed/")
+
+
+def looks_like_feed(raw):
+    head = raw[:2000].lstrip().lower()
+    return head.startswith(b"<?xml") or b"<rss" in head or b"<feed" in head or b"<rdf" in head
+
+
+def discover(page_url, body):
+    """Find a site's RSS/Atom feed: <link rel=alternate> tags first, then common feed paths."""
+    text = body.decode("utf-8", "ignore")
+    for tag in re.findall(r"<link\b[^>]*>", text, flags=re.I):
+        if re.search(r"rel=[\"']?alternate", tag, re.I) and re.search(r"type=[\"']?application/(rss|atom)\+xml", tag, re.I):
+            m = re.search(r"href=[\"']([^\"']+)", tag, re.I)
+            if m:
+                return urllib.parse.urljoin(page_url, html.unescape(m.group(1)))
+    base = page_url if page_url.endswith("/") else page_url + "/"
+    for path in COMMON_FEED_PATHS:
+        cand = urllib.parse.urljoin(base, path)
+        try:
+            raw = fetch(cand)
+            if looks_like_feed(raw) and parse_feed(raw):
+                return cand
+        except Exception:
+            continue
+    return None
+
+
+class _Anchors(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.links, self._href, self._text = [], None, []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            self._href, self._text = dict(attrs).get("href"), []
+
+    def handle_data(self, data):
+        if self._href is not None:
+            self._text.append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self._href is not None:
+            self.links.append((self._href, " ".join(self._text)))
+            self._href = None
+
+
+def parse_scrape(raw, page_url, pattern):
+    """Sites with no feed: keep links whose address matches the regex in feeds.csv (scrape:REGEX)."""
+    p = _Anchors()
+    p.feed(raw.decode("utf-8", "ignore"))
+    out, seen_links = [], set()
+    rx = re.compile(pattern, re.I)
+    for href, text in p.links:
+        if not href:
+            continue
+        link = urllib.parse.urljoin(page_url, href).split("#")[0]
+        title = clean(text)
+        if link in seen_links or len(title) < 15 or not rx.search(link):
+            continue
+        seen_links.add(link)
+        out.append({"title": title, "link": link, "date": None, "summary": ""})
+        if len(out) >= 15:
+            break
+    return out
+
+
 def matches(item):
     blob = (" " + item["title"] + " " + item["summary"] + " ").lower()
     return any(k in blob for k in keywords)
@@ -293,12 +374,28 @@ status = []
 
 for f in feeds:
     try:
+        url, via = discovered.get(f["url"], f["url"]), ""
         try:
-            raw = fetch(f["url"])
+            raw = fetch(url)
         except NotModified:
             status.append((f["name"], "ok", "unchanged", 0))
             continue
-        items = {"ckan": parse_ckan, "crossref": parse_crossref, "openalex": parse_openalex, "s2": parse_s2}.get(f["type"], parse_feed)(raw)
+        if f["type"] == "scrape":
+            items, via = parse_scrape(raw, url, f["pattern"]), " (scraped page)"
+        elif f["type"] == "feed" and not looks_like_feed(raw):
+            found = discover(url, raw)          # a homepage was given: find its feed
+            if not found:
+                raise ValueError("no RSS/Atom feed found on page; add scrape:REGEX in feeds.csv")
+            discovered[f["url"]] = found
+            via = " (auto-discovered feed)"
+            try:
+                raw = fetch(found)
+            except NotModified:
+                status.append((f["name"], "ok", "unchanged" + via, 0))
+                continue
+            items = parse_feed(raw)
+        else:
+            items = {"ckan": parse_ckan, "crossref": parse_crossref, "openalex": parse_openalex, "s2": parse_s2}.get(f["type"], parse_feed)(raw)
         kept = 0
         is_gnews = "news.google.com" in f["url"]
         if is_gnews:   # newest 10 only; their summaries just repeat the title
@@ -327,9 +424,10 @@ for f in feeds:
                 "venue": it.get("venue", ""), "oa": it.get("oa", ""),
                 "abstract": it["summary"][:400] if f["group"] in ("journals", "papers") else "",
                 "first_seen": NOW.isoformat(),
+                "date_known": it["date"] is not None,
             }
             kept += 1
-        status.append((f["name"], "ok", len(items), kept))
+        status.append((f["name"], "ok" + via, len(items), kept))
     except Exception as e:  # keep going; the status report shows failures
         status.append((f["name"], "FAILED: " + type(e).__name__ + " " + str(e)[:80], 0, 0))
 
@@ -337,20 +435,28 @@ for f in feeds:
 cutoff = NOW - dt.timedelta(days=KEEP_DAYS)
 store = {k: v for k, v in store.items() if parse_date(v["date"]) >= cutoff}
 store_path.write_text(json.dumps(store, indent=1, ensure_ascii=False))
+DISCOVERED_PATH.write_text(json.dumps(discovered, indent=1))
 
 # build digest
 GROUPS = [("toronto", "City of Toronto"), ("government", "Government"), ("news", "News"),
           ("fire_ems", "Fire service"), ("fire_depts", "Other fire departments"), ("labour_finance", "Labour, public policy and finance"), ("insurance", "Insurance and finance"),
-          ("policy_tech", "Policy, technology and communications"), ("agencies", "Agencies and research centres"), ("journals", "New journal articles"), ("podcasts", "Podcasts")]
+          ("policy_tech", "Policy, technology and communications"), ("agencies", "Agencies and research centres"), ("blogs", "Blogs and newsletters"), ("journals", "New journal articles"), ("podcasts", "Podcasts")]
 known = {g for g, _ in GROUPS}
 for g in sorted({f["group"] for f in feeds} - known):   # any new group you invent gets its own section
     GROUPS.append((g, g.replace("_", " ").title()))
 
 
-def write_digest(fname, days, per_source, summary_chars, title, note, per_group=999):
+def is_new(v):
+    """Unread = first seen by the collector in the last ~24 hours (i.e. since the previous morning's briefing)."""
+    return parse_date(v.get("first_seen") or v["date"]) >= NOW - dt.timedelta(hours=24)
+
+
+def write_digest(fname, days, per_source, summary_chars, title, note, per_group=999, new_first=False):
     window = NOW - dt.timedelta(days=days)
     recent = [v for v in store.values() if parse_date(v["date"]) >= window and parse_date(v["date"]) <= NOW + dt.timedelta(days=1)]
     recent.sort(key=lambda v: v["date"], reverse=True)
+    if new_first:   # unread items lead each section, already-seen ones follow
+        recent.sort(key=lambda v: not is_new(v))
     lines = [f"# {title} · generated {NOW:%Y-%m-%d %H:%M} UTC", note, ""]
     for g, label in GROUPS:
         if g in ("journals", "papers", "podcasts"):   # papers have their own file
@@ -369,7 +475,9 @@ def write_digest(fname, days, per_source, summary_chars, title, note, per_group=
             s = ""
             if summary_chars and g != "journals" and v["summary"]:
                 s = " — " + v["summary"][:summary_chars]
-            lines.append(f"- {v['date'][:10]} · {v['source']} · {v['title']} · {v['link']}{s}")
+            mark = "🆕 " if new_first and is_new(v) else ""
+            when = v["date"][:10] if v.get("date_known", True) else "first seen " + v["date"][:10]
+            lines.append(f"- {mark}{when} · {v['source']} · {v['title']} · {v['link']}{s}")
             shown += 1
         lines.append("")
     (DIGEST / fname).write_text("\n".join(lines))
@@ -377,7 +485,9 @@ def write_digest(fname, days, per_source, summary_chars, title, note, per_group=
 
 # daily: last ~2 days, headlines only, no journals
 write_digest("daily.md", 2, 3, None, "Daily feed digest",
-             "Last 48 hours. Each line: date · source · title · link. Open the link before relying on any detail.", per_group=10)
+             "Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first seen in the last 24 hours, so not in "
+             "yesterday's digest); unread items come first in each section. Open the link before relying on any detail.",
+             per_group=10, new_first=True)
 # weekly: last 8 days, short summaries (papers are in papers.md)
 write_digest("weekly.md", 8, 5, 100, "Weekly feed digest",
              "Last 8 days. Each line: date · source · title · link — short summary. Open the link before relying on any detail.", per_group=25)
@@ -425,6 +535,23 @@ for v in pods:
 (DIGEST / "latest.md").write_text((DIGEST / "weekly.md").read_text())
 
 CACHE_PATH.write_text(json.dumps(http_cache, indent=1))
+
+# OPML export of the RSS/Atom feeds, for importing into any feed reader
+from xml.sax.saxutils import quoteattr
+labels = dict(GROUPS)
+op = ['<?xml version="1.0" encoding="UTF-8"?>', '<opml version="2.0">',
+      f"<head><title>Field Notes feeds</title><dateCreated>{NOW:%a, %d %b %Y %H:%M:%S} +0000</dateCreated></head>", "<body>"]
+for g, label in GROUPS:
+    fs = [f for f in feeds if f["group"] == g and f["type"] == "feed"]
+    if not fs:
+        continue
+    op.append(f"<outline text={quoteattr(label)}>")
+    for f in fs:
+        u = discovered.get(f["url"], f["url"])
+        op.append(f"  <outline type=\"rss\" text={quoteattr(f['name'])} xmlUrl={quoteattr(u)}/>")
+    op.append("</outline>")
+op += ["</body>", "</opml>"]
+(DIGEST / "feeds.opml").write_text("\n".join(op) + "\n")
 # failure streaks, so a feed that keeps failing stands out
 HEALTH = DIGEST / "health.json"
 health = json.loads(HEALTH.read_text()) if HEALTH.exists() else {}

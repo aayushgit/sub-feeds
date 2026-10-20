@@ -429,6 +429,7 @@ for f in feeds:
             kept += 1
         status.append((f["name"], "ok" + via, len(items), kept))
     except Exception as e:  # keep going; the status report shows failures
+        http_cache.pop(f["url"], None)   # don't let a failed page be skipped as "unchanged" next time
         status.append((f["name"], "FAILED: " + type(e).__name__ + " " + str(e)[:80], 0, 0))
 
 # drop old items

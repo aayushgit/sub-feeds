@@ -33,3 +33,10 @@ It fetches politely, like a good feed reader: it pauses between requests to the 
 - `digest/podcasts.md`: last 14 days of episodes from the podcast feeds, with length; read by the daily for "For your walk". To add a show, find its RSS feed (in Apple Podcasts search results, or on the show website) and add a line with group `podcasts`.
 - `digest/status.md`: which feeds worked on the last run.
 - `digest/items.json`: rolling 21-day store used to avoid repeats.
+
+## Blog watching (added 20 Oct 2026)
+Inspired by the blogwatcher skill, built into collect.py (no extra tools to install):
+- **Homepages work as feeds.** Put a blog's homepage in feeds.csv; the collector finds its RSS/Atom feed (`<link rel="alternate">` or common paths like /feed/) and remembers it in digest/discovered.json.
+- **Sites with no feed:** set the filter column to `scrape:REGEX`; the collector keeps links on that page whose address matches REGEX (e.g. `scrape:/blog/\d{4}/`). Their date shows as "first seen".
+- **Unread markers:** daily.md marks items first seen in the last 24 hours with 🆕 and lists them first, so the briefing doesn't repeat yesterday's stories.
+- **OPML:** digest/feeds.opml exports every feed for any reader (Feedly, Inoreader, NetNewsWire). To bulk-add feeds, upload an .opml file to the import/ folder; the next run adds them to feeds.csv.

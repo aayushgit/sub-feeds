@@ -1,24 +1,24 @@
 {
  "https://www.toronto.ca/news/feed/": {
-  "etag": "\"51314f3264ac76d2c2ddbb680a3be82e\"",
-  "modified": "Mon, 19 Oct 2026 20:20:41 GMT"
+  "etag": "\"115aa68ce3896519d24637e7fc3f39ed\"",
+  "modified": "Tue, 20 Oct 2026 13:48:43 GMT"
  },
  "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20": {},
  "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
-  "etag": "\"cbcffbb33650e02cc31ff8188f5abc53\"",
-  "modified": "Mon, 19 Oct 2026 19:40:50 GMT"
+  "etag": "\"6f3dce6733de967b99516965108cd3da\"",
+  "modified": "Tue, 20 Oct 2026 13:20:50 GMT"
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"6ea6-cL0ESIP57dpV5TSUMqUsCSkd98o\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofhealth&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
-  "etag": "W/\"60aa-9HhnzzePF3fh6xpXkgHMh2/iIoo\""
+  "etag": "W/\"5fd4-YfpK2d4SB6OTq0loyQbNjNpMxLo\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianradiotelevisionandtelecommunicationscommission&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"5cb9-glPOX9ZEko6cjDCIckXq4KJe8J0\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=naturalresourcescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
-  "etag": "W/\"701a-yjZr8SxhQKyq15+mpNab/3CABuw\""
+  "etag": "W/\"6ff2-WEcHqiA8AjnyTMQupkQk+RRhYWo\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"715e-EgSfEeg1Qw/VhPC0o/Sk4vjqvgk\""
@@ -26,17 +26,17 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"18963eacddf42c32d058da430233af9b\"",
-  "modified": "Mon, 19 Oct 2026 22:04:21 GMT"
+  "etag": "W/\"856cd21687bb6571bddf29f95248cbd3\"",
+  "modified": "Tue, 20 Oct 2026 14:25:22 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"fb4083e408652fa570934460db4fd78a\"",
-  "modified": "Tue, 20 Oct 2026 12:47:03 GMT"
+  "etag": "W/\"ad92231090151b732d4ee3e89798a2ab\"",
+  "modified": "Tue, 20 Oct 2026 14:27:47 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/7852ccc1e40f45e45c213616453d013b",
-  "modified": "Tue, 20 Oct 2026 12:47:10 GMT"
+  "etag": "W/8061b62de5bdaf55cbd52f589af8a469",
+  "modified": "Tue, 20 Oct 2026 14:30:18 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
   "etag": "W/\"ae2b-65ddccc59a5d4\"",
@@ -51,17 +51,17 @@
  "https://news.google.com/rss/search?q=(%22urban+search+and+rescue%22+OR+HUSAR+OR+INSARAG)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+%22catastrophe+losses%22+OR+%22Insurance+Bureau+of+Canada%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.firefightingincanada.com/feed/": {
-  "etag": "\"58503d7372ca6296e6eaa5ed2c984019\"",
-  "modified": "Mon, 19 Oct 2026 19:04:41 GMT"
+  "etag": "\"89d3b46e962d6bbb08792d128a706c3f\"",
+  "modified": "Tue, 20 Oct 2026 13:49:47 GMT"
  },
  "https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.artemis.bm/feed/": {
-  "etag": "W/\"5ebb5b145e2094a12164f64b2a40a88a\"",
-  "modified": "Tue, 20 Oct 2026 10:30:33 GMT"
+  "etag": "W/\"2080892592333c3ec3b8bcb5f519a3ef\"",
+  "modified": "Tue, 20 Oct 2026 14:00:16 GMT"
  },
  "https://www.nist.gov/news-events/news/rss.xml": {
-  "etag": "\"1792500362-gzip\"",
-  "modified": "Tue, 20 Oct 2026 12:46:02 GMT"
+  "etag": "\"1792505642-gzip\"",
+  "modified": "Tue, 20 Oct 2026 14:14:02 GMT"
  },
  "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -72,8 +72,8 @@
  },
  "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://hazards.colorado.edu/feed": {
-  "etag": "\"7488b7a24aebd14916196ef903401771\"",
-  "modified": "Mon, 19 Oct 2026 23:53:47 GMT"
+  "etag": "\"b00154359fe1f5d92a91a02635b44a54\"",
+  "modified": "Tue, 20 Oct 2026 14:21:41 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/22124209": {
   "etag": "W/\"b26817c7f2e89a871979ceb60886ec65\"",
@@ -118,11 +118,11 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"17ae252e9160dd1:0\"",
-  "modified": "Tue, 20 Oct 2026 12:47:35 GMT"
+  "etag": "\"f27659c09d60dd1:0\"",
+  "modified": "Tue, 20 Oct 2026 14:17:34 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Tue, 20 Oct 2026 12:09:48 GMT"
+  "modified": "Tue, 20 Oct 2026 14:03:23 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
   "etag": "\"6b0d-65e3f8c01a096-gzip\"",
@@ -152,11 +152,11 @@
  },
  "https://feeds.soundcloud.com/users/soundcloud:users:252268684/sounds.rss": {},
  "https://www.cbc.ca/podcasting/includes/frontburner.xml": {
-  "modified": "Tue, 20 Oct 2026 09:22:46 GMT"
+  "modified": "Tue, 20 Oct 2026 13:56:47 GMT"
  },
  "https://www.municipalworld.com/podcast-channels/mw-shares/feed/": {
-  "etag": "W/\"a489a749ac32a791979a204cce106c48-br\"",
-  "modified": "Tue, 20 Oct 2026 12:42:27 GMT"
+  "etag": "W/\"2cf42d4a98d4a4e333369550341e0d60-br\"",
+  "modified": "Tue, 20 Oct 2026 14:00:57 GMT"
  },
  "https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml": {
   "modified": "Tue, 20 Oct 2026 06:01:13 GMT"

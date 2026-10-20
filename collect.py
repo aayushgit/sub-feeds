@@ -556,11 +556,11 @@ op += ["</body>", "</opml>"]
 HEALTH = DIGEST / "health.json"
 health = json.loads(HEALTH.read_text()) if HEALTH.exists() else {}
 for n, s_, a, k in status:
-    health[n] = 0 if s_ == "ok" else health.get(n, 0) + 1
+    health[n] = 0 if s_.startswith("ok") else health.get(n, 0) + 1
 HEALTH.write_text(json.dumps(health, indent=1))
-status = [(n, s_ if s_ == "ok" or health[n] < 2 else f"{s_} · failing {health[n]} runs in a row", a, k) for n, s_, a, k in status]
+status = [(n, s_ if s_.startswith("ok") or health[n] < 2 else f"{s_} · failing {health[n]} runs in a row", a, k) for n, s_, a, k in status]
 
-ok = sum(1 for s in status if s[1] == "ok")
+ok = sum(1 for s in status if s[1].startswith("ok"))
 st = [f"# Feed status · {NOW:%Y-%m-%d %H:%M} UTC · {ok}/{len(status)} feeds working", "",
       "| Feed | Status | Items in feed | New items kept |", "|---|---|---|---|"]
 st += [f"| {n} | {s} | {a} | {k} |" for n, s, a, k in status]

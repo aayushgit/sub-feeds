@@ -26,21 +26,21 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"8e1962907d20719c6ce5e2e19a387bf7\"",
-  "modified": "Tue, 20 Oct 2026 20:00:42 GMT"
+  "etag": "W/\"97499be0794e41018e5f5a0d2b8f1574\"",
+  "modified": "Tue, 20 Oct 2026 20:16:52 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"8dd960a3f8621a88be68165f3206db22\"",
-  "modified": "Tue, 20 Oct 2026 20:14:31 GMT"
+  "etag": "W/\"97499be0794e41018e5f5a0d2b8f1574\"",
+  "modified": "Tue, 20 Oct 2026 20:16:52 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/6ba908852129088394aad302c2357360",
-  "modified": "Tue, 20 Oct 2026 20:16:37 GMT"
+  "etag": "W/a63ee0bd27ee5c06d1765cdf42496b17",
+  "modified": "Tue, 20 Oct 2026 20:21:48 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
-  "etag": "W/\"ae2b-65ddccc59a5d4\"",
-  "modified": "Thu, 15 Oct 2026 08:26:02 GMT"
+  "etag": "W/\"ac08-65e31986e28d2\"",
+  "modified": "Mon, 19 Oct 2026 13:36:04 GMT"
  },
  "https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -461,5 +461,9 @@
  "https://www.andrewheiss.com/blog/": {
   "etag": "\"tlt3dz6sra\"",
   "modified": "Wed, 23 Sep 2026 07:27:35 GMT"
- }
+ },
+ "https://news.google.com/rss/search?q=site:cafc.ca+OR+%22Canadian+Association+of+Fire+Chiefs%22+when:14d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:iafc.org+OR+%22International+Association+of+Fire+Chiefs%22+when:14d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:esri.ca+OR+%22Esri+Canada%22+when:14d&hl=en-CA&gl=CA&ceid=CA:en": {},
+ "https://news.google.com/rss/search?q=site:napsgfoundation.org+OR+NAPSG+when:14d&hl=en-CA&gl=CA&ceid=CA:en": {}
 }

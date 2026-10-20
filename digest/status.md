@@ -1,11 +1,11 @@
-# Feed status · 2026-10-20 20:16 UTC · 121/133 feeds working
+# Feed status · 2026-10-20 20:24 UTC · 130/131 feeds working
 
 | Feed | Status | Items in feed | New items kept |
 |---|---|---|---|
-| City of Toronto news | ok | 10 | 0 |
+| City of Toronto news | ok | unchanged | 0 |
 | Toronto Open Data (newest datasets) | ok | 20 | 0 |
-| Ontario Newsroom | ok | 15 | 0 |
-| Public Safety Canada | ok | 30 | 1 |
+| Ontario Newsroom | ok | unchanged | 0 |
+| Public Safety Canada | ok | 30 | 2 |
 | Health Canada | ok | 30 | 0 |
 | CRTC | ok | 30 | 0 |
 | Natural Resources Canada | ok | 30 | 0 |
@@ -13,31 +13,31 @@
 | CBC Toronto | ok | 20 | 0 |
 | CBC Canada | ok | 20 | 1 |
 | Global News Toronto | ok | 10 | 0 |
-| Global News Canada | ok | 10 | 1 |
+| Global News Canada | ok | 10 | 0 |
 | CTV News Toronto (via Google News) | ok | 10 | 0 |
 | Toronto Star GTA | ok | 50 | 0 |
-| Canadian Press via Newswire (Canada) | ok | unchanged | 0 |
+| Canadian Press via Newswire (Canada) | ok | 20 | 0 |
 | Google News: Toronto fire | ok | 8 | 0 |
-| Google News: lithium-ion fire Canada | ok | 10 | 1 |
-| Google News: 9-1-1 Canada | ok | 10 | 2 |
-| Google News: emergency management Canada | ok | 7 | 2 |
+| Google News: lithium-ion fire Canada | ok | 10 | 0 |
+| Google News: 9-1-1 Canada | ok | 10 | 0 |
+| Google News: emergency management Canada | ok | 7 | 0 |
 | Google News: wildfire flood Canada | ok | 10 | 2 |
-| Google News: Ontario fire marshal | ok | 10 | 1 |
-| Google News: urban search and rescue | ok | 10 | 1 |
-| Google News: disaster insurance Canada | ok | 10 | 0 |
-| Firefighting in Canada | ok | 10 | 0 |
-| Canadian Underwriter (via Google News) | ok | 10 | 1 |
-| Artemis (cat bonds) | ok | 10 | 2 |
-| NIST news | ok | 40 | 0 |
+| Google News: Ontario fire marshal | ok | 10 | 0 |
+| Google News: urban search and rescue | ok | 10 | 0 |
+| Google News: disaster insurance Canada | ok | 10 | 1 |
+| Firefighting in Canada | ok | unchanged | 0 |
+| Canadian Underwriter (via Google News) | ok | 10 | 0 |
+| Artemis (cat bonds) | ok | unchanged | 0 |
+| NIST news | ok | unchanged | 0 |
 | UL FSRI (via Google News) | ok | 3 | 0 |
-| NFPA (via Google News) | ok | 10 | 0 |
+| NFPA (via Google News) | ok | 10 | 1 |
 | USFA (via Google News) | ok | 1 | 0 |
 | PreventionWeb | ok | unchanged | 0 |
 | Urgent Communications (via Google News) | ok | 3 | 0 |
-| Natural Hazards Center | ok | 10 | 0 |
-| IJDRR | ok | 100 | 3 |
+| Natural Hazards Center | ok | unchanged | 0 |
+| IJDRR | ok | unchanged | 0 |
 | Fire Safety Journal | ok | unchanged | 0 |
-| Safety Science | ok | 99 | 1 |
+| Safety Science | ok | unchanged | 0 |
 | Disasters | ok | unchanged | 0 |
 | Risk Analysis | ok | unchanged | 0 |
 | Journal of Contingencies and Crisis Management | ok | unchanged | 0 |
@@ -47,21 +47,21 @@
 | MDPI Fire | ok | 100 | 1 |
 | Prehospital Emergency Care | ok | 25 | 0 |
 | Natural Hazards Review | ok | 21 | 0 |
-| Emergency Management magazine (GovTech) | ok | 10 | 3 |
+| Emergency Management magazine (GovTech) | ok | 10 | 0 |
 | The Conversation Canada: natural disasters | ok | 25 | 0 |
 | Google News: community risk assessment | ok | 9 | 0 |
-| Google News: public alerting | ok | 10 | 2 |
-| Google News: public safety communications | ok | 10 | 2 |
-| Google News: emergency tech and AI | ok | 10 | 5 |
-| Google News: resilience policy Canada | ok | 5 | 2 |
+| Google News: public alerting | ok | 10 | 0 |
+| Google News: public safety communications | ok | 10 | 0 |
+| Google News: emergency tech and AI | ok | 10 | 0 |
+| Google News: resilience policy Canada | ok | 5 | 0 |
 | NENA (via Google News) | ok | 7 | 0 |
 | EENA (via Google News) | ok | 0 | 0 |
-| FEMA (via Google News) | ok | 10 | 1 |
+| FEMA (via Google News) | ok | 10 | 0 |
 | Domestic Preparedness (via Google News) | ok | 1 | 0 |
 | ICLR (via Google News) | ok | 0 | 0 |
 | Canadian Red Cross (via Google News) | ok | 3 | 0 |
-| GDACS orange and red alerts | ok | 180 | 7 |
-| Firehouse | ok | 25 | 3 |
+| GDACS orange and red alerts | ok | unchanged | 0 |
+| Firehouse | ok | unchanged | 0 |
 | Natural Hazards and Earth System Sciences | ok | 20 | 0 |
 | Risk Hazards and Crisis in Public Policy | ok | unchanged | 0 |
 | Journal of Homeland Security and Emergency Management | ok | 25 | 0 |
@@ -81,7 +81,7 @@
 | Risk REconsidered (Swiss Re) | ok | unchanged | 0 |
 | Smart Firefighting | ok | unchanged | 0 |
 | The Climate Question (BBC) | ok | unchanged | 0 |
-| The Emergency Management Network Podcast | FAILED: HTTPError HTTP Error 403: Forbidden · failing 33 runs in a row | 0 | 0 |
+| The Emergency Management Network Podcast | FAILED: HTTPError HTTP Error 403: Forbidden · failing 34 runs in a row | 0 | 0 |
 | OpenAlex: emergency and disaster management | ok | 25 | 0 |
 | OpenAlex: fire service | ok | 25 | 0 |
 | OpenAlex: wildfire and evacuation | ok | 25 | 0 |
@@ -92,46 +92,44 @@
 | OpenAlex: community resilience and vulnerability | ok | 25 | 0 |
 | OpenAlex: warning and risk communication | ok | 25 | 0 |
 | OpenAlex: risk and public governance | ok | 25 | 0 |
-| arXiv: emergency and disaster research | ok | 40 | 3 |
-| Semantic Scholar: emergency and disaster research | ok | 135 | 6 |
-| Google News: firefighter and paramedic bargaining | ok | 10 | 2 |
-| Google News: Ontario public-sector labour | ok | 3 | 1 |
-| Google News: Toronto budget and finance | ok | 10 | 4 |
-| Google News: Ontario municipal finance | ok | 10 | 2 |
-| Google News: Canadian public policy and fiscal | ok | 10 | 10 |
+| arXiv: emergency and disaster research | ok | 40 | 4 |
+| Semantic Scholar: emergency and disaster research | ok | 135 | 0 |
+| Google News: firefighter and paramedic bargaining | ok | 10 | 0 |
+| Google News: Ontario public-sector labour | ok | 3 | 0 |
+| Google News: Toronto budget and finance | ok | 10 | 0 |
+| Google News: Ontario municipal finance | ok | 10 | 0 |
+| Google News: Canadian public policy and fiscal | ok | 10 | 2 |
 | Financial Accountability Office of Ontario (via Google News) | ok | 0 | 0 |
-| Parliamentary Budget Officer (via Google News) | ok | 6 | 2 |
-| Canadian HR Reporter (labour items) | ok | 43 | 5 |
-| IAFF news | ok | 10 | 0 |
+| Parliamentary Budget Officer (via Google News) | ok | 6 | 0 |
+| Canadian HR Reporter (labour items) | ok | 43 | 0 |
+| IAFF news | ok | unchanged | 0 |
 | Google News: Canadian fire departments | ok | 9 | 0 |
 | Google News: big Canadian fire services | ok | 10 | 0 |
-| Google News: big international fire services | ok | 10 | 4 |
-| Fire Engineering | ok | 10 | 5 |
+| Google News: big international fire services | ok | 10 | 1 |
+| Fire Engineering | ok | unchanged | 0 |
 | Canadian Public Administration | ok | unchanged | 0 |
 | Public Administration Review | ok | unchanged | 0 |
-| Google News: emergency dispatch operations | ok | 10 | 4 |
-| Google News: drones and RPAS in public safety | ok | 10 | 4 |
-| Google News: incident command and IMS | ok | 10 | 3 |
-| Google News: GIS and remote sensing in emergencies | ok | 10 | 4 |
-| Google News: AI and data in emergency services | ok | 5 | 0 |
-| Google News: NG9-1-1 and situational awareness | ok | 10 | 1 |
+| Google News: emergency dispatch operations | ok | 10 | 0 |
+| Google News: drones and RPAS in public safety | ok | 10 | 0 |
+| Google News: incident command and IMS | ok | 10 | 0 |
+| Google News: GIS and remote sensing in emergencies | ok | 10 | 0 |
+| Google News: AI and data in emergency services | ok | 2 | 0 |
+| Google News: NG9-1-1 and situational awareness | ok | 10 | 0 |
 | OpenAlex: GIS remote sensing and drones in disasters | ok | 25 | 0 |
 | OpenAlex: AI and data science for emergency services | ok | 25 | 0 |
 | OpenAlex: incident command and situational awareness | ok | 25 | 0 |
-| DroneLife (public-safety items) | ok | 10 | 0 |
+| DroneLife (public-safety items) | ok | unchanged | 0 |
 | DroneDJ (public-safety items) | ok | unchanged | 0 |
 | GIM International (disaster items) | ok | 100 | 0 |
 | Copernicus Emergency Management (via Google News) | ok | 2 | 0 |
 | ISCRAM (crisis informatics) | ok | 10 | 0 |
-| Recovery Diva (Claire Rubin) | ok (auto-discovered feed) | 10 | 6 |
-| Disaster Zone (Eric Holdeman) | FAILED: URLError <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl | 0 | 0 |
-| Canadian Risk and Hazards Network (CRHNet) | ok (auto-discovered feed) | 10 | 1 |
-| Canadian Association of Fire Chiefs | FAILED: HTTPError HTTP Error 403: Forbidden | 0 | 0 |
-| IAFC news | FAILED: ValueError no RSS/Atom feed found on page; add scrape:REGEX in feeds.csv | 0 | 0 |
-| Canadian Firefighter magazine | ok (auto-discovered feed) | 10 | 6 |
-| Esri Canada blog | FAILED: ValueError no RSS/Atom feed found on page; add scrape:REGEX in feeds.csv | 0 | 0 |
-| NAPSG Foundation | FAILED: ValueError no RSS/Atom feed found on page; add scrape:REGEX in feeds.csv | 0 | 0 |
-| TRCA news | ok | unchanged (auto-discovered feed) | 0 |
-| Statistical Modeling and Causal Inference (Gelman) | FAILED: HTTPError HTTP Error 403: Forbidden | 0 | 0 |
-| Data Colada | ok (auto-discovered feed) | 50 | 1 |
-| Andrew Heiss (causal inference and R) | FAILED: ValueError no RSS/Atom feed found on page; add scrape:REGEX in feeds.csv | 0 | 0 |
+| Recovery Diva (Claire Rubin) | ok | unchanged | 0 |
+| Canadian Risk and Hazards Network (CRHNet) | ok | unchanged | 0 |
+| Canadian Association of Fire Chiefs (via Google News) | ok | 0 | 0 |
+| IAFC (via Google News) | ok | 10 | 7 |
+| Canadian Firefighter magazine | ok | unchanged | 0 |
+| Esri Canada (via Google News) | ok | 3 | 2 |
+| NAPSG Foundation (via Google News) | ok | 1 | 1 |
+| TRCA news | ok | unchanged | 0 |
+| Data Colada | ok | unchanged | 0 |
+| Andrew Heiss (causal inference and R) | ok | unchanged | 0 |

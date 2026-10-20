@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-20 20:16 UTC
+# New papers · generated 2026-10-20 20:24 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-20 · Natural Hazards and Earth System Sciences · Hydrologically enhanced machine learning framework for urban flood inundation mapping using multi-sensor remote sensing data: a case study of Mumbai, India · https://doi.org/10.5194/nhess-26-5119-2026 — Hydrologically enhanced machine learning framework for urban flood inundation mapping using multi-sensor remote sensing data: a case study of Mumbai, India Anku

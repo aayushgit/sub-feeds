@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-20 20:16 UTC
+# Podcast episodes · generated 2026-10-20 20:24 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-20 · Front Burner (CBC) · 21 min · Alberta decides to stay in Canada · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-O9HDv5PL-20261020.mp3 — After a historic referendum, Albertans have voted to remain in Canada. When we recorded this episode, just over a third 

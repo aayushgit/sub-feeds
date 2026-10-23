@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-23 12:40 UTC
+# New papers · generated 2026-10-23 14:27 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-23 · Disaster Medicine and Public Health Preparedness · While You Were Sleeping: Public Confidence in Rapid-Onset Hazard Warning Reception During Overnight Hours · https://doi.org/10.1017/dmp.2026.10467 — Abstract Objective Rapid-onset hazards such as flash floods and tornadoes often provide limited warning lead time. When these events occur overnight, residents 

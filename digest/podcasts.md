@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-23 12:40 UTC
+# Podcast episodes · generated 2026-10-23 14:27 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-23 · Front Burner (CBC) · 29 min · Elon, Starlink and the betrayal of Ukraine · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-V3gJfQJ2-20261022.mp3 — Two weeks ago, U.S. President Donald Trump announced that he’d struck a deal with Russian President Vladimir Putin to su

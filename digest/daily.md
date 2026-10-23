@@ -1,10 +1,10 @@
-# Daily feed digest · generated 2026-10-23 12:40 UTC
+# Daily feed digest · generated 2026-10-23 14:27 UTC
 Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first seen in the last 24 hours, so not in yesterday's digest); unread items come first in each section. Open the link before relying on any detail.
 
 ## City of Toronto
+- 🆕 2026-10-23 · Toronto Open Data (newest datasets) · SwimSafe™ · https://open.toronto.ca/dataset/swimsafe
+- 🆕 2026-10-23 · Toronto Open Data (newest datasets) · ChildCareSafe™ Infection Control inspection results · https://open.toronto.ca/dataset/childcaresafe
 - 🆕 2026-10-22 · Toronto Open Data (newest datasets) · Association of Community Centres · https://open.toronto.ca/dataset/association-of-community-centres
-- 🆕 2026-10-22 · Toronto Open Data (newest datasets) · City Youth Employment Programs · https://open.toronto.ca/dataset/youth-employment-programs
-- 🆕 2026-10-22 · Toronto Open Data (newest datasets) · Summer Safety Plan · https://open.toronto.ca/dataset/summer-safety-plan
 - 🆕 2026-10-22 · City of Toronto news · Victory tastes sweet for the Sugar Maple, elected as Toronto’s 2027 Tree of the Year · https://www.toronto.ca/news/victory-tastes-sweet-for-the-sugar-maple-elected-as-torontos-2027-tree-of-the-year/
 - 🆕 2026-10-22 · City of Toronto news · Voters head to the polls Monday for Toronto’s 2026 municipal election · https://www.toronto.ca/news/voters-head-to-the-polls-monday-for-torontos-2026-municipal-election/
 
@@ -14,32 +14,32 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-10-22 · Ontario Newsroom · Premier Ford Announces Updated Parliamentary Assistant Roles · https://news.ontario.ca/en/release/1008176/premier_ford_announces_updated_parliamentary_assistant_roles
 
 ## News
+- 🆕 2026-10-23 · Google News: disaster insurance Canada · Summer losses in Canada top C$3.7bn - Insurance Day · https://www.insuranceday.com/ID1158443/Summer-losses-in-Canada-top-C37bn
+- 🆕 2026-10-23 · Google News: Ontario fire marshal · Fire damages historic train station in downtown Brantford - Brantford Expositor · https://www.brantfordexpositor.ca/news/fire-damages-historic-train-station-in-downtown-brantford/
+- 🆕 2026-10-23 · Google News: emergency management Canada · Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies - European Civil Protection and Humanitarian Aid Operations · https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en
+- 🆕 2026-10-23 · Google News: lithium-ion fire Canada · Facility fires down in September, year to date over 2025 - Resource Recycling · https://resource-recycling.com/e-scrap/2026/10/23/facility-fires-down-in-september-year-to-date-over-2025/
 - 🆕 2026-10-23 · Google News: urban search and rescue · Changing the life of a child, one bed at a time - Herald-Whig · https://whig.com/2026/10/23/changing-the-life-of-a-child-one-bed-at-a-time/
 - 🆕 2026-10-23 · Global News Toronto · Inquest into death of Regis Korchinski-Paquet set to continue · https://globalnews.ca/news/12118287/regis-korchinski-paquet-inquest/
 - 🆕 2026-10-23 · Google News: disaster insurance Canada · Low catastrophe losses drive Munich Re guidance raise ahead of soft renewal - Insurance Business · https://www.insurancebusinessmag.com/ca/news/breaking-news/low-catastrophe-losses-drive-munich-re-guidance-raise-ahead-of-soft-renewal-594754.aspx
 - 🆕 2026-10-23 · Google News: disaster insurance Canada · Aviva price target raised by RBC despite Canada insurance hit - Yahoo Finance UK · https://uk.finance.yahoo.com/news/aviva-price-target-raised-rbc-120000627.html
 - 🆕 2026-10-23 · Google News: wildfire flood Canada · Disruption and flood warning as storm sweeps in - Yahoo News Canada · https://ca.news.yahoo.com/dorset-coast-under-flood-warning-062718102.html
 - 🆕 2026-10-23 · CTV News Toronto (via Google News) · Inquest into death of Regis Korchinski-Paquet set to continue - CTV News · https://vancouverisland.ctvnews.ca/toronto/local/article/inquest-into-death-of-regis-korchinski-paquet-set-to-continue/
-- 🆕 2026-10-23 · Google News: wildfire flood Canada · ‘I was floored’: Ontario man shocked flood cleanup estimate was $27,000 - CTV News · https://www.ctvnews.ca/toronto/consumer-alert/article/i-was-floored-ontario-man-shocked-flood-cleanup-estimate-was-27000/
-- 🆕 2026-10-23 · Google News: disaster insurance Canada · ‘I was floored’: Ontario man shocked flood cleanup estimate was $27,000 - CP24 · https://www.cp24.com/news/2026/10/23/i-was-floored-ontario-man-shocked-flood-cleanup-estimate-was-27000/
-- 🆕 2026-10-23 · Google News: wildfire flood Canada · Road closure and evacuation amid 'unsafe' building - Yahoo News Canada · https://ca.news.yahoo.com/road-closure-evacuation-amid-unsafe-101147407.html
-- 🆕 2026-10-23 · Google News: 9-1-1 Canada · Transition to new 9-1-1 system rolls out locally on Oct. 29 - Times Chronicle · https://www.timeschronicle.ca/transition-to-new-9-1-1-system-rolls-out-locally-on-oct-29/
 
 ## Fire service
-- 🆕 2026-10-22 · Firehouse · Huntsville, AL, Firefighters File 69 Grievances After Finding Oil Particles in SCBA · https://www.firehouse.com/safety-health/video/55413752/huntsville-al-firefighters-file-69-grievances-after-finding-oil-particles-in-scba
-- 🆕 2026-10-22 · Firehouse · Firefighter Suffers Medical Issue During Training at Rutland-Dundee, IL, Fire Station · https://www.firehouse.com/safety-health/news/55413591/rutland-dundee-il-firefighter-suffers-medical-issue-during-training
-- 🆕 2026-10-22 · Firehouse · Four Kids, Mom Perish in Canton, TX, House Fire · https://www.firehouse.com/community-risk/investigation-equipment/video/55413727/four-kids-mom-perish-in-canton-tx-house-fire
+- 🆕 2026-10-23 · Firehouse · Mad about Sexual Encounter, Man Sets Fires at Massage Parlors in Cahokia Heights, IL · https://www.firehouse.com/community-risk/investigation-equipment/video/55413984/mad-about-sexual-encounter-man-sets-fires-at-massage-parlors-in-cahokia-heights-il
+- 🆕 2026-10-23 · Firehouse · Another Legal Victory Gets Former Cincinnati Fire Chief Closer to His Day in Court · https://www.firehouse.com/careers-education/video/55413957/after-another-legal-victory-former-cincinnati-fire-chief-close-to-his-day-in-court
+- 🆕 2026-10-23 · Firehouse · Fire Department Trench Rescue Training Must be Sustainable and Executed Consistently · https://www.firehouse.com/rescue/technical-rescue/trench-rescue/article/55404306/fire-department-trench-rescue-training-must-be-sustainable-and-executed-consistently
 
 ## Other fire departments
+- 🆕 2026-10-23 · Google News: big international fire services · ‘Sweetheart Deal’ in FDNY Ghost Gun Backfire - Susan B. Edelman | Substack · https://susanedelman2.substack.com/p/sweetheart-deal-in-fdny-ghost-gun
 - 🆕 2026-10-23 · Google News: big international fire services · Overturned Car On The Bronx River Parkway Causes Delays - News12 | Bronx · https://bronx.news12.com/overturned-car-on-the-bronx-river-parkway-causes-delays
 - 🆕 2026-10-23 · Fire Engineering · Three Rescues in 14 Hours: First Snow of Season Spells Trouble in CO · https://www.fireengineering.com/technical-rescue/three-rescues-in-14-hours-first-snow-of-season-spells-trouble-in-co/
 - 🆕 2026-10-23 · Fire Engineering · Six Rescued From Staten Island (NY) House Fire After Flames Obstruct Exit · https://www.fireengineering.com/firefighting/six-rescued-from-staten-island-ny-house-fire-after-flames-obstruct-exit/
 - 🆕 2026-10-23 · Fire Engineering · HI Home Fire Caused by Portable Hotplate · https://www.fireengineering.com/firefighting/hi-home-fire-caused-by-portable-hotplate/
+- 🆕 2026-10-23 · Google News: big international fire services · Former FDNY and Emergency Management Leader Mike Byrne Receives NEMA Distinguished Service Award - Homeland Security Today · https://www.hstoday.us/subject-matter-areas/emergency-preparedness/former-fdny-and-emergency-management-leader-mike-byrne-receives-nema-distinguished-service-award/
 - 🆕 2026-10-23 · Google News: Canadian fire departments · LAMBTON VOTES: Lambton Shores Candidate Surveys - Petrolia Lambton Independent · https://petrolialambtonindependent.ca/2026/10/22/lambton-votes-lambton-shores-candidate-surveys/
-- 🆕 2026-10-23 · Google News: big international fire services · Fdny Firefighter Finds Support In His Firehouse Family After Life Threatening Brain Hemorrhage - News12 | Bronx · https://bronx.news12.com/fdny-firefighter-finds-support-in-his-firehouse-family-after-life-threatening-brain-hemorrhage
-- 🆕 2026-10-22 · Google News: big international fire services · TWO FIREFIGHTERS INJURED, 18 OTHERS INJURED AT BRONX FIRE – FDNY - Firefighter Close Calls · https://www.firefighterclosecalls.com/two-firefighters-injured-18-others-injured-at-bronx-fire-fdny/
+- 🆕 2026-10-22 · Google News: Canadian fire departments · Canada Post vehicle crashes into Saskatoon home - CTV News · https://www.ctvnews.ca/saskatoon/article/canada-post-vehicle-crashes-into-saskatoon-home/
 - 🆕 2026-10-22 · Google News: Canadian fire departments · Palm Coast City Council Approves Ordinance Strengthening Protections for Fire Department - City of Palm Coast (.gov) · https://www.palmcoast.gov/newsroom/home/details/fire-ordinance
-- 🆕 2026-10-22 · Google News: Canadian fire departments · Fire Chief Chad Kregar appointed as Huron County fire coordinator for another four-year term - Midwestern Newspapers · https://midwesternnewspapers.com/fire-chief-chad-kregar-appointed-as-huron-county-fire-coordinator-for-another-four-year-term/
 
 ## Labour, public policy and finance
 - 🆕 2026-10-23 · Google News: Ontario municipal finance · 2026 election: Will development charge cuts in Brampton and Mississauga actually make housing cheaper? - Brampton Guardian · https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQW1DSWs3Z0J0c0F5RU1vT2RnREc4aE8yUjU0b3FzYnplWFM0a2JnYnhlSGV5ZF8tR1J1S1lHcDA1WjRZVzUwbWM4SVdyeldiaUJ6MnQ4d3c0TEFxWjE5YnVXZ2pOUVpka0JtSENlRnJiT2tTMG5FUjFuNXJhc216OFFvMVRIZGV4NTR6WTNyczY1MnFybUs5X1pjMXN6UGZkTmtDaHcwaVkwMnJMLXJwTkh6S0ZIWVA1Zlo5R0s0YVVKbTBVNDJsbXNJSUlPT2MwX2lhcWRjakJadUNVdnI5aWV3VDJOZw?oc=5
@@ -54,36 +54,33 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-10-22 · Google News: Ontario municipal finance · BarrieVotes.ca charts an average 3.99 per cent annual property tax increase during the current council term - Simcoe.com · https://www.simcoe.com/news/municipal-elections/barrie-tax-increase/article_f309fd08-82d7-579e-aa34-5f3079cb413e.html
 
 ## Insurance and finance
+- 🆕 2026-10-23 · Artemis (cat bonds) · Catastrophe bond market to hit second $20bn+ issuance year at fastest pace yet · https://www.artemis.bm/news/catastrophe-bond-market-to-hit-second-20bn-issuance-year-at-fastest-pace-yet/?utm_source=rss&utm_medium=rss&utm_campaign=catastrophe-bond-market-to-hit-second-20bn-issuance-year-at-fastest-pace-yet
+- 🆕 2026-10-23 · Artemis (cat bonds) · Munich Re raises full-year 2026 profit target as Q3 result well-above consensus · https://www.artemis.bm/news/munich-re-raises-full-year-2026-profit-target-as-q3-result-well-above-consensus/?utm_source=rss&utm_medium=rss&utm_campaign=munich-re-raises-full-year-2026-profit-target-as-q3-result-well-above-consensus
 - 🆕 2026-10-23 · Artemis (cat bonds) · Fronting companies to engage more frequently with ILS market: AM Best · https://www.artemis.bm/news/fronting-companies-to-engage-more-frequently-with-ils-market-am-best/?utm_source=rss&utm_medium=rss&utm_campaign=fronting-companies-to-engage-more-frequently-with-ils-market-am-best
-- 🆕 2026-10-23 · Artemis (cat bonds) · Insurance-linked securities attract DACH investor interest, allocations to rise: BAI survey · https://www.artemis.bm/news/insurance-linked-securities-attract-dach-investor-interest-allocations-to-rise-bai-survey/?utm_source=rss&utm_medium=rss&utm_campaign=insurance-linked-securities-attract-dach-investor-interest-allocations-to-rise-bai-survey
-- 🆕 2026-10-22 · Artemis (cat bonds) · World Food Programme buys parametric tropical cyclone insurance from CCRIF · https://www.artemis.bm/news/world-food-programme-buys-parametric-tropical-cyclone-insurance-from-ccrif/?utm_source=rss&utm_medium=rss&utm_campaign=world-food-programme-buys-parametric-tropical-cyclone-insurance-from-ccrif
 
 ## Policy, technology and communications
+- 🆕 2026-10-23 · Google News: drones and RPAS in public safety · Search and rescue underway after drone hit and sank cargo vessel in new Black Sea attack near Romania - Yahoo News Canada · https://ca.news.yahoo.com/search-rescue-underway-drone-hit-135100611.html
+- 🆕 2026-10-23 · Google News: GIS and remote sensing in emergencies · China Successfully Launches New Remote Sensing Satellite - Ratopati · https://english.ratopati.com/story/84357/china-launches-new-remote-sensing-satellite
+- 🆕 2026-10-23 · Google News: public alerting · Cornyn, Ossoff, Pfluger’s Mystic Alerts Act signed into law - Odessa American · https://www.oaoa.com/local-news/government/cornyn-ossoff-pflugers-mystic-alerts-act-signed-into-law/
+- 🆕 2026-10-23 · Google News: public safety communications · Rebekah Taylor named acting chief of Henrico Emergency Communications - Henrico Citizen · https://www.henricocitizen.com/rebekah-taylor-acting-chief-henrico-emergency-communications/
 - 🆕 2026-10-23 · Google News: public safety communications · Shakhboot bin Nahyan Meets Vice President of the Republic of Côte d'Ivoire - وزارة الخارجية الإماراتية · https://www.mofa.gov.ae/en/MediaHub/News/2026/10/23/UAE-Cote-dIvoire
 - 🆕 2026-10-23 · Google News: drones and RPAS in public safety · Emergency Response in Black Sea After Cargo Ship Burns, Capsizes in Alleged Drone Attack - Breitbart News · https://www.breitbart.com/europe/2026/10/23/emergency-response-in-black-sea-after-cargo-ship-burns-capsizes-in-alleged-drone-attack/amp/
 - 🆕 2026-10-23 · Google News: GIS and remote sensing in emergencies · From pixels to pins: The death of heavy data in crisis management - Innovation News Network · https://www.innovationnewsnetwork.com/from-pixels-to-pins-the-death-of-heavy-data-in-crisis-management/74882/
 - 🆕 2026-10-23 · Google News: NG9-1-1 and situational awareness · Dan Quinn shares message for Jayden Daniels over controversial 4th-down play - Ventura County Star · https://www.vcstar.com/story/sports/nfl/commanders/2026/10/23/commanders-dan-quinn-jayden-daniels-4th-down/92392186007/
 - 🆕 2026-10-23 · Google News: public safety communications · Voices of reason: Loudoun emergency dispatchers answer thousands of calls annually - Loudoun Times · http://www.loudountimes.com/news/public_safety/accidents/voices-of-reason-loudoun-emergency-dispatchers-answer-thousands-of-calls-annually/article_8dcd7433-7aea-4ead-8e9e-84116158ec17.html
-- 🆕 2026-10-23 · Google News: public safety communications · UAE President confers First Class Order of Zayed II on six UAE ambassadors, Medal of Independence of First Order on two consuls-general - وزارة الخارجية الإماراتية · https://www.mofa.gov.ae/en/MediaHub/News/2026/10/23/UAE-First-Class-Order-of-Zayed-II
-- 🆕 2026-10-23 · Google News: emergency tech and AI · Springfield welcomes 14 new firefighters to Operations Division - The State Journal-Register · https://www.sj-r.com/story/news/local/2026/10/23/springfield-fire-department-swears-in-14-new-firefighters-operations-division/92343250007/
-- 🆕 2026-10-23 · Google News: emergency tech and AI · Puan: Firefighters in Karhutla Deserve Proper Protection from the State - Kompas.com · https://go.kompas.com/read/2026/10/23/133709174/puan-firefighters-in-karhutla-deserve-proper-protection-from-the-state
-- 🆕 2026-10-23 · Google News: GIS and remote sensing in emergencies · eCall, Once Built Vehicle by Vehicle, Now Moves to SaaS Subscriptions - 동아일보 · https://www.donga.com/en/article/all/20261023/6430156/1
-- 🆕 2026-10-23 · Google News: public alerting · Japan to simulate cyberattacks as PHP flaws roil global internet - The Straits Times · https://www.straitstimes.com/asia/east-asia/japan-to-simulate-cyberattacks-as-php-flaws-roil-global-internet?ref=search-latest-headlines
+- 🆕 2026-10-23 · Google News: GIS and remote sensing in emergencies · NIPOST Launches Digital Postcode System To Improve Deliveries, Emergency Response - LEADERSHIP Newspapers · https://leadership.ng/nipost-launches-digital-postcode-system-to-improve-deliveries-emergency-response/
 
 ## Agencies and research centres
+- 🆕 2026-10-23 · GDACS orange and red alerts · Green earthquake (Magnitude 4.5M, Depth:128.107km) in Indonesia 23/10/2026 12:24 UTC, 8 thousand in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573363
+- 🆕 2026-10-23 · GDACS orange and red alerts · Green earthquake (Magnitude 4.5M, Depth:571.735km) in Fiji 23/10/2026 12:19 UTC, 5 thousand in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573365
 - 🆕 2026-10-23 · PreventionWeb · From knowledge to action: Geneva hosts first global UN event on risk communication · https://www.preventionweb.net/news/knowledge-action-geneva-hosts-first-global-un-event-risk-communication
 - 🆕 2026-10-23 · PreventionWeb · Sweden disaster risk data system assessment and roadmap · https://www.preventionweb.net/publication/documents-and-publications/sweden-disaster-risk-data-system-assessment-and-roadmap
 - 🆕 2026-10-23 · PreventionWeb · Seismic assessment of unreinforced masonry façades from images using macroelement-based modeling · https://www.preventionweb.net/publication/documents-and-publications/seismic-assessment-unreinforced-masonry-facades-images-using
 - 🆕 2026-10-23 · GDACS orange and red alerts · Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573344
-- 🆕 2026-10-23 · GDACS orange and red alerts · Green earthquake (Magnitude 4.9M, Depth:10km) in Italy 23/10/2026 09:51 UTC, 350 thousand in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573341
-- 🆕 2026-10-23 · GDACS orange and red alerts · Green earthquake (Magnitude 4.5M, Depth:591.289km) in Philippines 23/10/2026 09:09 UTC, 2.3 million in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573339
 - 🆕 2026-10-22 · FEMA (via Google News) · Private Nonprofits, Including Houses of Worship, May Qualify for Hurricane Lowell Disaster Assistance - FEMA.gov · https://www.fema.gov/press-release/20261022/private-nonprofits-including-houses-worship-may-qualify-hurricane-lowell
 - 🆕 2026-10-22 · FEMA (via Google News) · FEMA Approves Nearly $51 million in Funding to Help Communities Recover from Recent Disasters and Strengthen Their Resilience Against Future Disasters in Arizona, the Commonwealth of the Northern Mariana Islands, Guam, Hawai‘i, and Nevada - FEMA.gov · https://fema.gov/press-release/20261022/fema-approves-nearly-51-million-funding-help-communities-recover-recent
 - 🆕 2026-10-22 · Canadian Red Cross (via Google News) · Three months after the Venezuela earthquakes: The road to recovery - Red Cross · https://www.redcross.ca/blog/2026/10/three-months-after-venezuela-earthquakes-the-road-to-recovery
 - 🆕 2026-10-22 · UL FSRI (via Google News) · Report Provides Unified Guidance for Advancing Wildfire Risk Modeling - Fire Safety Research Institute · https://fsri.org/research-update/report-provides-unified-guidance-advancing-wildfire-risk-modeling
 
 ## Blogs and newsletters
-- 🆕 2026-10-21 · Recovery Diva (Claire Rubin) · CA Takes Steps to Handle Disasters On Their Own. · https://recoverydiva.com/2026/10/21/ca-takes-steps-to-handle-disasters-on-their-own/
-- first seen 2026-10-21 · Andrew Heiss (causal inference and R) · Generating universes within universes with a single seed · https://www.andrewheiss.com/blog/2026/04/13/seeds-predetermined-universes/index.html
-- first seen 2026-10-21 · Andrew Heiss (causal inference and R) · How to automatically convert TikZ images to SVG with Quarto · https://www.andrewheiss.com/blog/2026/02/25/tikz-quarto-svg-fun/index.html
-- first seen 2026-10-21 · Andrew Heiss (causal inference and R) · How to make your data analysis life easier using Positron, Raycast, and Espanso · https://www.andrewheiss.com/blog/2026/01/13/dsl-positron-workflow/index.html
+- 2026-10-21 · Recovery Diva (Claire Rubin) · CA Takes Steps to Handle Disasters On Their Own. · https://recoverydiva.com/2026/10/21/ca-takes-steps-to-handle-disasters-on-their-own/

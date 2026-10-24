@@ -26,17 +26,17 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"097d4e858179d592bf3b2b3df4363a6b\"",
-  "modified": "Sat, 24 Oct 2026 11:55:31 GMT"
+  "etag": "W/\"027836531eda813bd025cd61e5b8c499\"",
+  "modified": "Sat, 24 Oct 2026 13:32:08 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"097d4e858179d592bf3b2b3df4363a6b\"",
-  "modified": "Sat, 24 Oct 2026 11:55:31 GMT"
+  "etag": "W/\"3f31c2f78f4d5be64c74cec954299194\"",
+  "modified": "Sat, 24 Oct 2026 13:33:56 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/658bda2200efc7ed5f899ec6f716c77a",
-  "modified": "Sat, 24 Oct 2026 12:03:04 GMT"
+  "etag": "W/b982832ed0a43aee31d32158d6bd099d",
+  "modified": "Sat, 24 Oct 2026 13:36:11 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
   "etag": "W/\"b47f-65e699dde1de2\"",
@@ -76,8 +76,8 @@
   "modified": "Fri, 23 Oct 2026 09:09:19 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/03797112": {
-  "etag": "\"850acfb0ddcaad03ba0188f5f16d5fb2\"",
-  "modified": "Fri, 23 Oct 2026 09:03:46 GMT"
+  "etag": "W/\"af8a047689a68ac29c3089ccf3f94243\"",
+  "modified": "Sat, 24 Oct 2026 09:03:34 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/09257535": {
   "etag": "W/\"091898215a144611d6e7c45156447317\"",
@@ -114,15 +114,15 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"daba9be2ae63dd1:0\"",
-  "modified": "Sat, 24 Oct 2026 11:57:46 GMT"
+  "etag": "\"54897d12ba63dd1:0\"",
+  "modified": "Sat, 24 Oct 2026 13:17:51 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Sat, 24 Oct 2026 12:05:16 GMT"
+  "modified": "Sat, 24 Oct 2026 12:50:03 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
-  "etag": "\"6bfb-65e86ca1f2af3-gzip\"",
-  "modified": "Fri, 23 Oct 2026 19:14:29 GMT"
+  "etag": "\"6bfb-65e86ca25ab8d-gzip\"",
+  "modified": "Fri, 23 Oct 2026 19:14:30 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/19444079/most-recent": {
   "modified": "Sat, 24 Oct 2026 08:09:21 GMT"

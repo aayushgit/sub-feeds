@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-24 12:03 UTC
+# Podcast episodes · generated 2026-10-24 13:36 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-24 · Power & Politics (CBC) · 23 min · Weekly Wrap: Trump walks back some tariffs to save a Senate race · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-iYc85CrO-20261024.mp3 — It's been a busy week in Canadian politics. From a referendum in Alberta, to a warning for Canada to stay out of U.S. po

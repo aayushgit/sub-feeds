@@ -1,12 +1,12 @@
-# Daily feed digest · generated 2026-10-24 12:03 UTC
+# Daily feed digest · generated 2026-10-24 13:36 UTC
 Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first seen in the last 24 hours, so not in yesterday's digest); unread items come first in each section. Open the link before relying on any detail.
 
 ## City of Toronto
 - 🆕 2026-10-23 · Toronto Open Data (newest datasets) · Privately-Owned Publicly Accessible Spaces (POPS) · https://open.toronto.ca/dataset/privately-owned-publicly-available-spaces
 - 🆕 2026-10-23 · Toronto Open Data (newest datasets) · SwimSafe™ · https://open.toronto.ca/dataset/swimsafe
 - 🆕 2026-10-23 · Toronto Open Data (newest datasets) · ChildCareSafe™ Infection Control inspection results · https://open.toronto.ca/dataset/childcaresafe
-- 🆕 2026-10-22 · City of Toronto news · Victory tastes sweet for the Sugar Maple, elected as Toronto’s 2027 Tree of the Year · https://www.toronto.ca/news/victory-tastes-sweet-for-the-sugar-maple-elected-as-torontos-2027-tree-of-the-year/
-- 🆕 2026-10-22 · City of Toronto news · Voters head to the polls Monday for Toronto’s 2026 municipal election · https://www.toronto.ca/news/voters-head-to-the-polls-monday-for-torontos-2026-municipal-election/
+- 2026-10-22 · City of Toronto news · Victory tastes sweet for the Sugar Maple, elected as Toronto’s 2027 Tree of the Year · https://www.toronto.ca/news/victory-tastes-sweet-for-the-sugar-maple-elected-as-torontos-2027-tree-of-the-year/
+- 2026-10-22 · City of Toronto news · Voters head to the polls Monday for Toronto’s 2026 municipal election · https://www.toronto.ca/news/voters-head-to-the-polls-monday-for-torontos-2026-municipal-election/
 
 ## Government
 - 🆕 2026-10-23 · Ontario Newsroom · Ontario and Canada Making Homes More Affordable in Sudbury · https://news.ontario.ca/en/release/1008194/ontario_and_canada_making_homes_more_affordable_in_sudbury
@@ -15,6 +15,8 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-10-23 · Ontario Newsroom · Ontario and Canada Making Homes More Affordable in Windsor and Tecumseh · https://news.ontario.ca/en/release/1008187/ontario_and_canada_making_homes_more_affordable_in_windsor_and_tecumseh
 
 ## News
+- 🆕 2026-10-24 · CBC Canada · 82 days later, no repairs started on washed-out road dividing small Quebec town · https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956?cmp=rss
+- 🆕 2026-10-24 · CBC Canada · The RDSP was meant to help disabled Canadians save for the future. Yet many don't know it exists · https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198?cmp=rss
 - 🆕 2026-10-24 · Google News: wildfire flood Canada · National flood program lost down rabbit hole of federal-provincial relations - Canadian Underwriter · https://canadianunderwriter.ca/news/national-flood-program-lost-down-rabbit-hole-of-federal-provincial-relations/
 - 🆕 2026-10-24 · Google News: wildfire flood Canada · Why Canada’s flood portal has stalled at the provincial level - Canadian Underwriter · https://canadianunderwriter.ca/news/industry/why-canadas-flood-portal-has-stalled-at-the-provincial-level/
 - 🆕 2026-10-24 · Global News Canada · ‘He ran into the fire’: Military medic critically injured saving fellow soldiers in CFB Wainwright fire · https://globalnews.ca/news/12119428/he-ran-into-the-fire-military-medic-critically-injured-saving-fellow-soldiers-in-cfb-wainwright-fire/
@@ -23,8 +25,6 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-10-23 · Google News: Toronto fire · 1 serious injured in two-alarm Etobicoke fire - CityNews Toronto · https://toronto.citynews.ca/2026/10/23/1-serious-injured-in-two-alarm-etobicoke-fire/
 - 🆕 2026-10-23 · Google News: disaster insurance Canada · Summer of 2026 the third costliest on record for Canadian insurers with C$3.7 billion of losses - theinsurer.com · https://www.theinsurer.com/ti/news/summer-of-2026-the-third-costliest-on-record-for-canadian-insurers-with-c37-2026-10-23/
 - 🆕 2026-10-23 · Google News: wildfire flood Canada · 27 thousand dollars to clean flood damage in a house in Ontario.. a price quote shocks its owner - arabcanadanews.ca · https://arabcanadanews.ca/en/article/27-thousand-dollars-to-clean-flood-damage-in-a-house-in-ontario-a-price-quote-shocks-its-owner
-- 🆕 2026-10-23 · Google News: disaster insurance Canada · 3.7 Billion in Insured Losses From Severe Weather - Collision Repair Mag · https://www.collisionrepairmag.com/news/auto-insurance/article/15838308/insurance-bureau-of-canada-ibc-37-billion-in-insured-losses-from-severe-weather
-- 🆕 2026-10-23 · Google News: disaster insurance Canada · Canadian Premium: Auto insurance costs rise 5% - Collision Repair Mag · https://www.collisionrepairmag.com/news/auto-insurance/article/15838325/canadian-premium-auto-insurance-costs-rise-5
 
 ## Fire service
 - 🆕 2026-10-23 · IAFC (via Google News) · Battalion Chief in Landrum, South Carolina - International Association of Fire Chiefs · https://careers.iafc.org/job/battalion-chief-landrum-south-carolina-2462
@@ -66,25 +66,25 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-10-23 · Artemis (cat bonds) · Munich Re raises full-year 2026 profit target as Q3 result well-above consensus · https://www.artemis.bm/news/munich-re-raises-full-year-2026-profit-target-as-q3-result-well-above-consensus/?utm_source=rss&utm_medium=rss&utm_campaign=munich-re-raises-full-year-2026-profit-target-as-q3-result-well-above-consensus
 
 ## Policy, technology and communications
+- 🆕 2026-10-24 · Google News: public safety communications · UAE leaders congratulate President of Zambia on Independence Day - وزارة الخارجية الإماراتية · https://www.mofa.gov.ae/en/MediaHub/News/2026/10/24/UAE-Zambia-Independence-Day
 - 🆕 2026-10-24 · Google News: public safety communications · Newtown Health Fair Educates And Supports Community - The Newtown Bee · https://www.newtownbee.com/10242026/newtown-health-fair-educates-and-supports-community/
 - 🆕 2026-10-24 · Google News: public alerting · North Korean leader Kim Jong-un was confirmed to be on "emergency alert" on the 24th when he visited.. - 매일경제 · https://www.mk.co.kr/en/politics/12184865
 - 🆕 2026-10-24 · Google News: public safety communications · MHA Seeks Views on Nationwide Emergency Communications Network for Police, Fire and Disaster Responders - The Policy Edge · https://www.policyedge.in/p/mha-seeks-views-on-nationwide-emergency-communications-network-for-police-fire-and-disaster-responders
 - 🆕 2026-10-24 · Google News: GIS and remote sensing in emergencies · A $1.3 Billion Satellite, The Deadly Nepal Flood And A Warning That Came Too Late - NDTV Profit · https://www.ndtvprofit.com/world/nisar-satellite-detected-signs-of-nepal-flood-weeks-before-disaster-study-finds-12229553
 - 🆕 2026-10-24 · Google News: incident command and IMS · Zamfara NMA Intensifies Surveillance Against Ebola - Channels Television · https://www.channelstv.com/2026/10/24/zamfara-nma-intensifies-surveillance-against-ebola/
 - 🆕 2026-10-24 · Google News: public alerting · UK Emergency Alert: Why Andy Burnham's govt is asking people to store food, keep cash at home & prepare fo - The Economic Times · https://m.economictimes.com/news/new-updates/uk-emergency-alert-why-andy-burnhams-govt-is-asking-people-to-store-food-keep-cash-at-home-prepare-for-3-days-without-essential-services/articleshow/135166409.cms
-- 🆕 2026-10-24 · Google News: public safety communications · India Seeks Stakeholder Input on Public Safety Broadband Network - OpenGov Asia · https://opengovasia.com/india-seeks-stakeholder-input-on-public-safety-broadband-network/
 - 🆕 2026-10-24 · Google News: GIS and remote sensing in emergencies · China launches six remote-sensing satellites as Long March rocket completes 673rd mission - Business Upturn · https://businessupturn.com/asia/east-asia/china/china-launches-six-remote-sensing-satellites-as-long-march-rocket-completes-673rd-mission/
 - 🆕 2026-10-24 · Google News: AI and data in emergency services · All The Time Links a Smart Safety Tracker to Company Dashboards and Public Safety Data - 에이빙 · https://kr.aving.net/news/articleViewAmp.html?idxno=1815543
 - 🆕 2026-10-24 · Google News: GIS and remote sensing in emergencies · China launches new remote sensing satellite, creating glowing 'space jellyfish' in the sky - Global Times · https://www.globaltimes.cn/page/202610/1372871.shtml
 
 ## Agencies and research centres
+- 🆕 2026-10-24 · GDACS orange and red alerts · Green earthquake (Magnitude 4.7M, Depth:10km) in Philippines 24/10/2026 11:48 UTC, 30 thousand in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573606
 - 🆕 2026-10-24 · GDACS orange and red alerts · Green earthquake (Magnitude 4.9M, Depth:10km) in Eastern Gulf Of Aden 24/10/2026 11:20 UTC, No people affected in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573603
 - 🆕 2026-10-24 · GDACS orange and red alerts · Green earthquake (Magnitude 4.9M, Depth:10km) in Vanuatu 24/10/2026 11:14 UTC, No people affected in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573601
-- 🆕 2026-10-24 · GDACS orange and red alerts · Green earthquake (Magnitude 4.9M, Depth:10km) in Vanuatu 24/10/2026 09:38 UTC, No people affected in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573585
+- 🆕 2026-10-24 · UL FSRI (via Google News) · NERIS Login - Fire Safety Research Institute - NERIS · https://neris.fsri.org/admin/account
 - 🆕 2026-10-23 · Canadian Red Cross (via Google News) · Canadian Red Cross opens appeal to help people impacted by the tragedy in Wainwright, Alberta - Red Cross · https://www.redcross.ca/about-us/media-news/news-releases/canadian-red-cross-opens-appeal-to-help-people-impacted-by-the-tragedy-in-wainwright-alberta
 - 🆕 2026-10-23 · PreventionWeb · Developing a Handbook for Working Groups for Strengthening Disaster-Resilient Local Governance in Kerala · https://www.preventionweb.net/vacancy/developing-handbook-working-groups-strengthening-disaster-resilient-local-governance-kerala
 - 🆕 2026-10-23 · PreventionWeb · Foundation stone of India’s first-ever emergency animal evacuation shelter in Wayanad laid by the Agriculture Minister, Shri Adv. T Siddique · https://www.preventionweb.net/news/foundation-stone-indias-first-ever-emergency-animal-evacuation-shelter-wayanad-laid-0
 - 🆕 2026-10-23 · PreventionWeb · After the fire: Three years on — what the Maui wildfire reveals about emergency management policy for island communities · https://www.preventionweb.net/publication/documents-and-publications/after-fire-three-years-what-maui-wildfire-reveals-about
 - 🆕 2026-10-23 · Canadian Red Cross (via Google News) · Donate to the Wainwright Tragedy Appeal - Red Cross · https://give.redcross.ca/page/WWTA
 - 🆕 2026-10-23 · UL FSRI (via Google News) · Shelburne Fire Department - NERIS · https://neris.fsri.org/departments/FD25011380/stations
-- 🆕 2026-10-22 · FEMA (via Google News) · Private Nonprofits, Including Houses of Worship, May Qualify for Hurricane Lowell Disaster Assistance - FEMA.gov · https://www.fema.gov/press-release/20261022/private-nonprofits-including-houses-worship-may-qualify-hurricane-lowell

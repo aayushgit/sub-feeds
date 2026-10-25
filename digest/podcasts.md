@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-25 12:37 UTC
+# Podcast episodes · generated 2026-10-25 13:56 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-24 · Power & Politics (CBC) · 23 min · Weekly Wrap: Trump walks back some tariffs to save a Senate race · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-iYc85CrO-20261024.mp3 — It's been a busy week in Canadian politics. From a referendum in Alberta, to a warning for Canada to stay out of U.S. po
@@ -11,4 +11,3 @@ Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · 
 - 2026-10-22 · Front Burner (CBC) · 30 min · What's behind the youth protests in France? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-Lccqx1zd-20261021.mp3 — France is in the midst of a weeks-long, nationwide protest that began with high school students lamenting the conditions
 - 2026-10-18 · The Climate Question (BBC) · 30 min · Mining: Can we learn lessons from the past? · http://www.bbc.co.uk/programmes/w3ct99j5 — Lithium and copper are at the heart of the green energy transition, but what's the environmental cost of extraction? Fro
 - 2026-10-15 · Better Every Shift (FireRescue1) · 39 min · Is your culture your best recruiter? · https://sidealpha.podbean.com/e/is-your-culture-your-best-recruiter/ — The best recruiting pitch might be the one you never make. Kentland (Md.) Volunteer Fire Department Sergeant Alex Caldar
-- 2026-10-11 · The Climate Question (BBC) · 23 min · Are we ready for a super El Niño? · http://www.bbc.co.uk/programmes/w3ct99j4 — When a powerful El Niño strikes, it can devastate harvests, flood communities and kill thousands of people. Scientists h

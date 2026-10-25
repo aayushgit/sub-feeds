@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-25 12:37 UTC
+# New papers · generated 2026-10-25 13:56 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-25 · IJDRR · Mapping multi-hazard flood and drought risk in a rapidly growing region: A ward-level assessment in the Bengaluru metropolitan region, India · https://www.sciencedirect.com/science/article/pii/S2212420926004814?dgcid=rss_sd_all — Publication date: 15 October 2026 Source: International Journal of Disaster Risk Reduction, Volume 145 Author(s): Lan Remeta, Samuel J. Sutanto, Rajarshi Das Bh

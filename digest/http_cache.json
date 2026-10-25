@@ -3,7 +3,6 @@
   "etag": "\"66aaf28c226af4fc75298aab893cd42d\"",
   "modified": "Sun, 25 Oct 2026 01:29:22 GMT"
  },
- "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?sort=metadata_created%20desc&rows=20": {},
  "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
   "etag": "\"437bb5513036afc085f9fa53c8e1ad9b\"",
   "modified": "Fri, 23 Oct 2026 20:40:50 GMT"
@@ -26,17 +25,17 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"725f3094c37862a9f9f59d3318f2b120\"",
-  "modified": "Sun, 25 Oct 2026 06:34:08 GMT"
+  "etag": "W/\"747c965dbf3b4c66fb750a5610a71d9d\"",
+  "modified": "Sun, 25 Oct 2026 13:22:34 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"725f3094c37862a9f9f59d3318f2b120\"",
-  "modified": "Sun, 25 Oct 2026 06:34:08 GMT"
+  "etag": "W/\"747c965dbf3b4c66fb750a5610a71d9d\"",
+  "modified": "Sun, 25 Oct 2026 13:22:34 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/b9ee32d879b7f7cfb9e6e05afea4a310",
-  "modified": "Sun, 25 Oct 2026 12:36:47 GMT"
+  "etag": "W/279234f167265d05e5c38684923ed80d",
+  "modified": "Sun, 25 Oct 2026 13:54:01 GMT"
  },
  "https://www.newswire.ca/rss/news-releases-list.rss": {
   "etag": "W/\"b47f-65e699dde1de2\"",
@@ -56,8 +55,8 @@
   "modified": "Sat, 24 Oct 2026 17:26:15 GMT"
  },
  "https://www.nist.gov/news-events/news/rss.xml": {
-  "etag": "\"1792918862-gzip\"",
-  "modified": "Sun, 25 Oct 2026 09:01:02 GMT"
+  "etag": "\"1792936563-gzip\"",
+  "modified": "Sun, 25 Oct 2026 13:56:03 GMT"
  },
  "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -114,14 +113,14 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"854bd8a87d64dd1:0\"",
-  "modified": "Sun, 25 Oct 2026 12:37:55 GMT"
+  "etag": "\"ddeaeed68864dd1:0\"",
+  "modified": "Sun, 25 Oct 2026 13:57:57 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Sun, 25 Oct 2026 12:11:57 GMT"
+  "modified": "Sun, 25 Oct 2026 13:11:03 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
-  "etag": "\"6bfb-65ea83b031666-gzip\"",
+  "etag": "\"6bfb-65ea83b053b97-gzip\"",
   "modified": "Sun, 25 Oct 2026 11:08:17 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/19444079/most-recent": {

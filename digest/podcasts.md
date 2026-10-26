@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-26 14:22 UTC
+# Podcast episodes · generated 2026-10-26 16:19 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-26 · Front Burner (CBC) · 35 min · Will Israeli voters turf Netanyahu? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-RRrZaeNw-20261025.mp3 — Israelis will elect a new prime minister on Tuesday for the first time since October 7th. Polls suggest that many voters

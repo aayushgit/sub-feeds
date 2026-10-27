@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-27 13:21 UTC
+# Podcast episodes · generated 2026-10-27 15:33 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-27 · Front Burner (CBC) · 26 min · Are Canadian conservatives ditching the fringe? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-cifmyP3q-20261026.mp3 — At the end of September the B.C. Conservative party had imploded. Today, they are set to run the province. It's a stunni

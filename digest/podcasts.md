@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-28 14:06 UTC
+# Podcast episodes · generated 2026-10-28 16:17 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-28 · Front Burner (CBC) · 31 min · US Politics! Will Texas flip, who's bailing on Trump? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-0HPdKJFd-20261027.mp3 — On Tuesday, Americans will go to the polls in a midterm vote that stands to challenge the Republican hold on both chambe

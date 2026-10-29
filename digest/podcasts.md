@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-29 14:28 UTC
+# Podcast episodes · generated 2026-10-29 16:25 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-29 · Front Burner (CBC) · 24 min · Will Anthropic's IPO go boom or bust? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-Bo321o1k-20261028.mp3 — In the few years since its inception, Anthropic has become one of the buzziest companies in tech. In their own words, th

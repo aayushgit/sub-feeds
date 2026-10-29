@@ -1,4 +1,4 @@
-# New papers · generated 2026-10-29 14:28 UTC
+# New papers · generated 2026-10-29 16:25 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-10-29 · IJDRR · A multi-measure adaptation method for temporal coordination under drought–flood transition risks · https://www.sciencedirect.com/science/article/pii/S2212420926004863?dgcid=rss_sd_all — Publication date: November 2026 Source: International Journal of Disaster Risk Reduction, Volume 146 Author(s): Leilei Xie, Eric W.T. Ngai, Ming Tang, Mengjia L

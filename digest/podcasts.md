@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-10-31 13:43 UTC
+# Podcast episodes · generated 2026-10-31 15:30 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-10-31 · Power & Politics (CBC) · 25 min · Weekly Wrap: Canada sets out to be EU's first 'associate member' · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-hfkzVGAs-20261031.mp3 — Prime Minister Mark Carney says Canada will pursue 'associate membership' with the European Union. Meanwhile, a prominen

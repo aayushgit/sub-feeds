@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-<head><title>Field Notes feeds</title><dateCreated>Sun, 01 Nov 2026 16:25:40 +0000</dateCreated></head>
+<head><title>Field Notes feeds</title><dateCreated>Mon, 02 Nov 2026 17:12:37 +0000</dateCreated></head>
 <body>
 <outline text="City of Toronto">
   <outline type="rss" text="City of Toronto news" xmlUrl="https://www.toronto.ca/news/feed/"/>

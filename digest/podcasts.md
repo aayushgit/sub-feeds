@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-03 15:18 UTC
+# Podcast episodes · generated 2026-11-03 17:21 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-03 · Smart Firefighting · 65 min · Don't Surrender Your Judgment to the Box with Jeff Shelton | Episode 336 · https://SmartFirefighting.podbean.com/e/dont-surrender-your-judgment-to-the-box-with-jeff-shelton-episode-336/ — A fire is moving and the model on the screen says one thing. Jeff Shelton has spent 35 years on the front line, and his 

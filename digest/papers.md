@@ -1,4 +1,4 @@
-# New papers · generated 2026-11-04 15:31 UTC
+# New papers · generated 2026-11-04 17:33 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-11-04 · IJDRR · Targeting flood resilience investments through a readiness gaps index: Evidence from Mississippi · https://www.sciencedirect.com/science/article/pii/S2212420926004838?dgcid=rss_sd_all — Publication date: November 2026 Source: International Journal of Disaster Risk Reduction, Volume 146 Author(s): Udit Bhatta, Narcisa G. Pricope, Krzysztof Raczy

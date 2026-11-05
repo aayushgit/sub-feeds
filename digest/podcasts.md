@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-05 15:36 UTC
+# Podcast episodes · generated 2026-11-05 17:40 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-05 · Front Burner (CBC) · 29 min · The Dems won big, but what comes next? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-w5fDZdog-20261105.mp3 — In the wake of the Democratic sweep of the U.S. midterms, we take a deeper look at the factors that got us here, from Ir
@@ -13,4 +13,3 @@ Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · 
 - 2026-11-01 · The Climate Question (BBC) · 24 min · AMOC: How the changing Atlantic could reshape our world · http://www.bbc.co.uk/programmes/w3ct99jd — Scientists think the main system of currents in the Atlantic Ocean - known as AMOC - may be weakening. How will that imp
 - 2026-10-30 · Better Every Shift (FireRescue1) · 39 min · Inside FDNY's push to unify fire and EMS · https://sidealpha.podbean.com/e/inside-fdnys-push-to-unify-fire-and-ems/ — FDNY wants EMS to be a destination, not a waiting room for the next job. That’s the pitch from Chief of Department John 
 - 2026-10-25 · The Climate Question (BBC) · 26 min · How could climate change affect my health? · http://www.bbc.co.uk/programmes/w3ct99j6 — Climate change is having major health impacts around the world - which are only expected to increase as our planet gets 
-- 2026-10-22 · Smart Firefighting · 15 min · Episode 335: The Proactive Crisis Manager: How Berlin Fire Plans With Data | Frank Pohland at Interschutz 2026 · https://SmartFirefighting.podbean.com/e/episode-335-the-proactive-crisis-manager-how-berlin-fire-plans-with-data-frank-pohland-at-interschutz-2026/ — Many strategic plans end up on a shelf. Berlin's did not. Frank Pohland leads strategic planning for the Berlin Fire Dep

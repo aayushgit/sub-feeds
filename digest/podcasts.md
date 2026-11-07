@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-07 14:09 UTC
+# Podcast episodes · generated 2026-11-07 15:55 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-06 · Power & Politics (CBC) · 18 min · Reporter Roundtable: Who is the Liberal budget for? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-8Hel2Gbu-20261106.mp3 — Finance Minister François-Philippe Champagne unveiled Budget 2026 on Thursday, pitching an aggressive push to spur priva

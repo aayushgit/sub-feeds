@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-09 17:38 UTC
+# Podcast episodes · generated 2026-11-09 20:09 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-09 · Front Burner (CBC) · 26 min · What’s Canada’s new national security plan? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-kfbE1PsM-20261108.mp3 — For the first time in 22 years, Canada has released a new national security strategy. The 13-page document lays out the 

@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-10 15:39 UTC
+# Podcast episodes · generated 2026-11-10 17:18 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-10 · Front Burner (CBC) · 22 min · Ukrainian conscription in the crosshairs · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-3mtgvr0z-20261110.mp3 — Last week, more than 100 people rioted outside a compound near Kyiv that was being used by Ukraine’s National Guard, all

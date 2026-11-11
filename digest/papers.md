@@ -1,4 +1,4 @@
-# New papers · generated 2026-11-11 15:25 UTC
+# New papers · generated 2026-11-11 17:28 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-11-11 · MDPI Fire · Fire, Vol. 9, Pages 505: Mamba-YOLO: A Real-Time Edge Detector for UAV-Based Early Wildfire Detection · https://www.mdpi.com/2571-6255/9/11/505 — Wildfire detection in unmanned aerial vehicle (UAV) imagery requires high recall at a controlled false-alarm rate. This study compares YOLO26-Nano and Mamba-YOL

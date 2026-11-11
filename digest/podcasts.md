@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-11 15:25 UTC
+# Podcast episodes · generated 2026-11-11 17:28 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-11 · Front Burner (CBC) · 28 min · Pete Hegseth survives impeachment, for now · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-ZKDS61Ry-20261111.mp3 — On Monday afternoon, Republican congressman Thomas Massie took to the house floor to introduce eight articles of impeach

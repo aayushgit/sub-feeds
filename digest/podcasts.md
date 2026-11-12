@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-12 16:02 UTC
+# Podcast episodes · generated 2026-11-12 17:45 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-12 · Better Every Shift (FireRescue1) · 38 min · De Sena: Do hard things — you’ll feel better · https://sidealpha.podbean.com/e/de-sena-do-hard-things-%e2%80%94-you-ll-feel-better/ — Do the hard thing first — and the rest of the day gets better from there. Spartan Raches founder Joe De Sena returns to 

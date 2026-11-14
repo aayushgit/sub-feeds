@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-14 14:17 UTC
+# Podcast episodes · generated 2026-11-14 16:07 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-14 · Power & Politics (CBC) · 22 min · Weekly Wrap: Will a Brampton plant be the first victim of U.S. auto tariffs? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-KNfKFmE0-20261114.mp3 — Industry Minister Mélanie Joly says Stellantis has breached its contract with the federal government over the sale of it

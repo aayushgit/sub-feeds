@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-14 16:07 UTC
+# Podcast episodes · generated 2026-11-15 14:50 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-14 · Power & Politics (CBC) · 22 min · Weekly Wrap: Will a Brampton plant be the first victim of U.S. auto tariffs? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-KNfKFmE0-20261114.mp3 — Industry Minister Mélanie Joly says Stellantis has breached its contract with the federal government over the sale of it
@@ -13,4 +13,3 @@ Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · 
 - 2026-11-04 · Disasters: Deconstructed · 39 min · S11:E2 - Capitalism and Catastrophe · https://DisastersDecon.podbean.com/e/s11e2-capitalism-and-catastrophe/ — In this episode we welcome anthropologist Raja Swamy (University of Tennessee), author of Capitalism and Catastrophe. Sw
 - 2026-11-04 · Disasters: Deconstructed · 29 min · S11:E1 - Introduction to the Politics of Disaster · https://DisastersDecon.podbean.com/e/s11e1-introduction-to-the-politics-of-disaster/ — We open Season 11 of Disasters Deconstructed, with Ksenia and Jason explaining the season’s focus on the politics of dis
 - 2026-11-03 · Smart Firefighting · 65 min · Don't Surrender Your Judgment to the Box with Jeff Shelton | Episode 336 · https://SmartFirefighting.podbean.com/e/dont-surrender-your-judgment-to-the-box-with-jeff-shelton-episode-336/ — A fire is moving and the model on the screen says one thing. Jeff Shelton has spent 35 years on the front line, and his 
-- 2026-11-01 · The Climate Question (BBC) · 24 min · AMOC: How the changing Atlantic could reshape our world · http://www.bbc.co.uk/programmes/w3ct99jd — Scientists think the main system of currents in the Atlantic Ocean - known as AMOC - may be weakening. How will that imp

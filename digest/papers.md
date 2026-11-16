@@ -1,4 +1,4 @@
-# New papers · generated 2026-11-16 17:08 UTC
+# New papers · generated 2026-11-16 19:52 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-11-16 · Safety Science · Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across Canada, Australia, and the United States · https://www.sciencedirect.com/science/article/pii/S0925753526003504?dgcid=rss_sd_all — Publication date: February 2027 Source: Safety Science, Volume 206 Author(s): Thayanne G.M. Ciriaco, Mohammad H. Babaei, Amr M. Sakr, Marina Aziz, Erfan H. Zary

@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-16 17:08 UTC
+# Podcast episodes · generated 2026-11-16 19:52 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-16 · Front Burner (CBC) · 26 min · Stellantis and the future of the Canadian auto industry · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-fapUofWd-20261116.mp3 — Last week, Prime Minister Mark Carney had scathing words for Stellantis, the multinational auto manufacturer that makes 

@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-17 16:57 UTC
+# Podcast episodes · generated 2026-11-17 18:46 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-17 · Front Burner (CBC) · 32 min · The Cohere story part one: Carney's $1.6B bet · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-zYMefTIB-20261117.mp3 — At the end of October, Prime Minister Mark Carney announced that his government would be investing $1.6 billion in the A

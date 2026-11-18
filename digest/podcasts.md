@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-18 16:32 UTC
+# Podcast episodes · generated 2026-11-18 18:24 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-18 · Front Burner (CBC) · 31 min · The Cohere story part two: the hard questions · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-GskpcTgR-20261118.mp3 — This is the second of a two part series on Cohere. In part one, we looked at why Ottawa is betting $1.6 billion on the C
@@ -11,5 +11,3 @@ Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · 
 - 2026-11-12 · Better Every Shift (FireRescue1) · 38 min · De Sena: Do hard things — you’ll feel better · https://sidealpha.podbean.com/e/de-sena-do-hard-things-%e2%80%94-you-ll-feel-better/ — Do the hard thing first — and the rest of the day gets better from there. Spartan Raches founder Joe De Sena returns to 
 - 2026-11-08 · The Climate Question (BBC) · 23 min · Why does climate change hit women harder? · http://www.bbc.co.uk/programmes/w3ct99jf — Our changing climate affects all genders - with extreme weather events, heat, drought and flooding putting pressure on t
 - 2026-11-05 · Better Every Shift (FireRescue1) · 60 min · Inside the research reshaping fireground tactics · https://sidealpha.podbean.com/e/inside-the-research-reshaping-fireground-tactics/ — For years, fire research went to a file drawer at the National Fire Academy instead of the fireground. Dr. Dan Madrzykow
-- 2026-11-04 · Disasters: Deconstructed · 39 min · S11:E2 - Capitalism and Catastrophe · https://DisastersDecon.podbean.com/e/s11e2-capitalism-and-catastrophe/ — In this episode we welcome anthropologist Raja Swamy (University of Tennessee), author of Capitalism and Catastrophe. Sw
-- 2026-11-04 · Disasters: Deconstructed · 29 min · S11:E1 - Introduction to the Politics of Disaster · https://DisastersDecon.podbean.com/e/s11e1-introduction-to-the-politics-of-disaster/ — We open Season 11 of Disasters Deconstructed, with Ksenia and Jason explaining the season’s focus on the politics of dis

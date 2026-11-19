@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-19 16:39 UTC
+# Podcast episodes · generated 2026-11-19 18:41 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-19 · Smart Firefighting · 44 min · Training for the Calls You Hope Never Come with Lt. Rob Policht | Episode 337 · https://SmartFirefighting.podbean.com/e/training-for-the-calls-you-hope-never-come-with-lt-rob-policht-episode-337/ — Most calls are smells and bells. Rob Policht trains his crew for the one that isn't. In his words, "it's not a matter of

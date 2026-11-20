@@ -1,4 +1,4 @@
-# Daily feed digest · generated 2026-11-20 16:13 UTC
+# Daily feed digest · generated 2026-11-20 18:01 UTC
 Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first seen in the last 24 hours, so not in yesterday's digest); unread items come first in each section. Open the link before relying on any detail.
 
 ## City of Toronto
@@ -7,32 +7,33 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-11-19 · City of Toronto news · Toronto City Council names members to committees, agencies, boards and corporations · https://www.toronto.ca/news/toronto-city-council-names-members-to-committees-agencies-boards-and-corporations-3/
 
 ## News
+- 🆕 2026-11-20 · Google News: lithium-ion fire Canada · Check you cupboard? This rechargeable battery was just recalled - Caledon Enterprise · https://www.caledonenterprise.com/news/canada-product-recall-battery/article_8d60ef03-f227-5efd-b019-099206ebb6ce.html
+- 🆕 2026-11-20 · Canadian Press via Newswire (Canada) · On the path to a Canada where everyone has a home · https://www.newswire.ca/news-releases/on-the-path-to-a-canada-where-everyone-has-a-home-827696086.html
+- 🆕 2026-11-20 · Canadian Press via Newswire (Canada) · Frost & Sullivan Highlights Emerging Growth Opportunities as AI Governance Becomes a Strategic Business Priority · https://www.newswire.ca/news-releases/frost-amp-sullivan-highlights-emerging-growth-opportunities-as-ai-governance-becomes-a-strategic-business-priority-862160168.html
+- 🆕 2026-11-20 · Canadian Press via Newswire (Canada) · Education Cannot Wait announces US$52 million to keep 300,000 children learning in Lebanon, Myanmar and South Sudan · https://www.newswire.ca/news-releases/education-cannot-wait-announces-us-52-million-to-keep-300-000-children-learning-in-lebanon-myanmar-and-south-sudan-835139875.html
 - 🆕 2026-11-20 · Google News: 9-1-1 Canada · Bell Confirms Its 3G Shutdown Date. Will Your Phone Still Work? - iPhone in Canada · https://www.iphoneincanada.ca/2026/11/20/bell-3g-shutdown-date-free-phones/
+- 🆕 2026-11-20 · Google News: wildfire flood Canada · Northeastern Florida now under flood threats from storms that have devastated coastal communities - CTV News · https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeDUzQjBLdW8xUTVLZ0xRbzRIZ0JtLUtZN2dYT0ptS19sb1VOU3VCSEkwc0d4RFM0RlBvNi1WM2o3cTBXMXZSQW1jOU5yRmE5NGZLdnRWbWs2SEs2aEtQZnVhd3Jxbk5zNTBrSkJQdWNDZUF3dkdTMkFfZTRsd1lLaTlIYTVnZEc4RmxtRm4wT1p5MHJxa3V4YXF6YWw3eGdXYlhkWDloZEZDVFBCQWFDTlZGS0lac0h4UUduS0ZiampFUG8wYXIzbUl0SEpTRjZ4a1hFTEVMY19BM0IwUXlNeVFpUnBoTjhT?oc=5
 - 🆕 2026-11-20 · Google News: emergency management Canada · Defence and civil preparedness: Selected international comparisons - The House of Commons Library · https://commonslibrary.parliament.uk/research-briefings/cbp-12305/
-- 🆕 2026-11-20 · Canadian Press via Newswire (Canada) · Bybit WSOT 2026 Raises the Stakes with Anthropic (ANT)-Linked Listings and New Trading Challenges · https://www.newswire.ca/news-releases/bybit-wsot-2026-raises-the-stakes-with-anthropic-ant-linked-listings-and-new-trading-challenges-896490476.html
-- 🆕 2026-11-20 · Canadian Press via Newswire (Canada) · The Government of Canada, together with the Province of Ontario, invests in strengthening trade capacity and supply chain resilience through the Port of Sault Ste. Marie · https://www.newswire.ca/news-releases/the-government-of-canada-together-with-the-province-of-ontario-invests-in-strengthening-trade-capacity-and-supply-chain-resilience-through-the-port-of-sault-ste-marie-891636524.html
-- 🆕 2026-11-20 · Canadian Press via Newswire (Canada) · MEDIA ADVISORY: Unifor celebrates Amazon union drive victory with open house for new members · https://www.newswire.ca/news-releases/media-advisory-unifor-celebrates-amazon-union-drive-victory-with-open-house-for-new-members-805228022.html
 - 🆕 2026-11-20 · Google News: urban search and rescue · Family Dinner Project creates "friendly atmosphere" for old, young - Herald-Whig · https://whig.com/2026/11/20/family-dinner-project-creates-friendly-atmosphere-for-old-young/
 - 🆕 2026-11-20 · Google News: Toronto fire · Real life Chicken Run as 'emotional support' birds flee van - Female First · https://www.femalefirst.co.uk/bizarre/real-life-chicken-run-emotional-support-birds-flee-van-1454005.html
 - 🆕 2026-11-20 · Google News: disaster insurance Canada · Record weather losses test property insurance access in Canada - Insurance Business · https://www.insurancebusinessmag.com/ca/news/catastrophe/record-weather-losses-test-property-insurance-access-in-canada-598244.aspx
-- 🆕 2026-11-20 · Google News: emergency management Canada · Could you survive 3 days without power or water? What experts say every Canadian household needs - Money.ca · https://money.ca/news/emergency-kit-72-hour-preparedness-canada
-- 🆕 2026-11-20 · Global News Toronto · Toronto real estate brokerage registration suspended after buyers say deposits not returned · https://globalnews.ca/news/12159144/scarborough-real-estate-brokerage-buyers-depositssits-not-returned/
 
 ## Fire service
+- 🆕 2026-11-20 · Canadian Firefighter magazine · DFR and search and rescue integration for fire services · https://www.cdnfirefighter.com/dfr-and-search-and-rescue-integration-for-fire-services/
+- 🆕 2026-11-20 · Firehouse · Columbia, SC, Calls Demand to Terminate Fire Chiefs 'Egregious' · https://www.firehouse.com/community-risk/investigation-equipment/news/55420583/columbia-sc-calls-demand-to-terminate-fire-officers-egregious
 - 🆕 2026-11-20 · Firehouse · Evidence at Arson Scene Leads to Arrest of Lake Benton, MN, Firefighter · https://www.firehouse.com/community-risk/investigation-equipment/video/55420479/evidence-at-arson-scene-leads-to-arrest-of-lake-benton-mn-firefighter
-- 🆕 2026-11-20 · Firehouse · The Fire Service Scoop: Acela Truck Company's New High-Water Rescue Truck, NVFC Nominations for National Fire Service Achievement Awards · https://www.firehouse.com/careers-education/news/55420202/the-fire-service-scoop-acela-truck-companys-new-high-water-rescue-truck-nvfc-nominations-for-national-fire-service-achievement-awards
-- 🆕 2026-11-20 · Firehouse · St. Louis Ladder Truck Suffers Catastrophic Failure · https://www.firehouse.com/apparatus/type/aerial/video/55420486/st-louis-ladder-truck-has-catastrophic-failure
-- 🆕 2026-11-18 · Firefighting in Canada · Montreal, Longueuil fire departments award $13.5M US contract to MSA Safety for self-contained breathing apparatuses · https://www.firefightingincanada.com/montreal-longueuil-fire-departments-award-13-5m-us-contract-to-msa-safety/
+- 🆕 2026-11-20 · Firehouse · Evidence at Scene Leads to Arrest of Lake Benton, MN, Firefighter · https://www.firehouse.com/community-risk/investigation-equipment/video/55420479/evidence-at-arson-scene-leads-to-arrest-of-lake-benton-mn-firefighter
+- 2026-11-18 · Firefighting in Canada · Montreal, Longueuil fire departments award $13.5M US contract to MSA Safety for self-contained breathing apparatuses · https://www.firefightingincanada.com/montreal-longueuil-fire-departments-award-13-5m-us-contract-to-msa-safety/
 
 ## Other fire departments
+- 🆕 2026-11-20 · Google News: big international fire services · NYC Council questions FDNY over rise in battery and fatal fires in emergency hearing - Yahoo · https://www.yahoo.com/news/us/articles/nyc-council-questions-fdny-over-172653159.html
 - 🆕 2026-11-20 · Google News: big international fire services · Bronx lawmakers call for stronger e-bike battery rules after fatal fires - The Riverdale Press · http://riverdalepress.com/stories/bronx-lawmakers-call-for-stronger-e-bike-battery-rules-after-fatal-fires,251664
 - 🆕 2026-11-20 · Google News: big international fire services · Department releases FDNY Pro Podcast for April 2026: 'FDNY marine operations for the historic Americ - NYC.gov · https://www.nyc.gov/site/fdny/news/pr0726/department-releases-fdny-pro-podcast-april-2026-fdny-marine-operations-the-historic
-- 🆕 2026-11-20 · Google News: big international fire services · Man Dies in Upper West Side Apartment Fire: FDNY - West Side Rag · https://www.westsiderag.com/2026/11/20/man-dies-in-upper-west-side-apartment-fire-fdny
 - 🆕 2026-11-20 · Fire Engineering · Boy, 7, Dies in Detroit House Fire; Family Critically Injured · https://www.fireengineering.com/firefighting/boy-7-dies-in-detroit-house-fire-family-critically-injured/
 - 🆕 2026-11-20 · Fire Engineering · NY Fire Department Faces Possible Layoffs Amid Budget Talks · https://www.fireengineering.com/firefighting/fire-leadership/ny-fire-department-faces-possible-layoffs-amid-budget-talks/
 - 🆕 2026-11-20 · Fire Engineering · ME Lumber Company Faces $54K in Fines Over Deadly Blast · https://www.fireengineering.com/fire-safety/me-lumber-company-faces-54k-in-fines-over-deadly-blast/
 - 🆕 2026-11-20 · Google News: Canadian fire departments · Huron East upgrading tanker for fire department - Sarnia News Today · https://sarnianewstoday.ca/midwestern/news/2026/11/20/huron-east-upgrading-tanker-for-fire-department
-- 🆕 2026-11-18 · Google News: Canadian fire departments · St. Paul City Council confirms Jeramiah Melquist as fire chief - Yahoo · https://www.yahoo.com/news/articles/st-paul-city-council-confirms-225255845.html
+- 2026-11-18 · Google News: Canadian fire departments · St. Paul City Council confirms Jeramiah Melquist as fire chief - Yahoo · https://www.yahoo.com/news/articles/st-paul-city-council-confirms-225255845.html
 
 ## Labour, public policy and finance
 - 🆕 2026-11-20 · Google News: Toronto budget and finance · The property tax divide: What new data reveals about Canada’s CRE market - RENX · https://renx.ca/the-property-tax-divide-what-new-data-reveals-about-canadas-commercial-real-estate-market
@@ -52,6 +53,9 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-11-20 · Artemis (cat bonds) · Liberty Mutual targets $300m multi-peril reinsurance with twelfth Mystic Re cat bond · https://www.artemis.bm/news/liberty-mutual-targets-300m-multi-peril-reinsurance-with-twelfth-mystic-re-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=liberty-mutual-targets-300m-multi-peril-reinsurance-with-twelfth-mystic-re-cat-bond
 
 ## Policy, technology and communications
+- 🆕 2026-11-20 · Google News: AI and data in emergency services · Google's Gemini Cuts Wildfire Alert Times to 30 Seconds - The Tech Buzz · https://www.techbuzz.ai/articles/google-s-gemini-cuts-wildfire-alert-times-to-30-seconds
+- 🆕 2026-11-20 · Google News: incident command and IMS · East Peoria mayor details city’s response to BioUrja bomb threat - 93.3 The Drive · https://www.933thedrive.com/2026/11/20/east-peoria-mayor-details-citys-response-to-biourja-bomb-threat/
+- 🆕 2026-11-20 · DroneLife (public-safety items) · SkyeBrowse Updates 3D Mapping Platform With Faster Processing and More Realistic Models · https://dronelife.com/2026/11/20/skyebrowse-3d-mapping-realistic-models/
 - 🆕 2026-11-20 · Google News: emergency dispatch operations · Prescott Police Department Announces Graduation of Administrative Public Safety Telecommunicator Supervisor Steven Steinke - The Prescott Times Media · https://theprescotttimes.com/news/prescott-police-department-announces-graduation-of-administrative-public-safety-telecommunicator-supervisor-steven-steinke/article_125f33f2-31e6-4445-8951-e6d2ef574010.html
 - 🆕 2026-11-20 · Google News: GIS and remote sensing in emergencies · Jharkhand Floodplain Zoning Law: What the Draft Proposes - Urban Acres · https://urbanacres.in/jharkhand-draft-flood-law-could-reshape-riverbank-development-ua866261cf7363ecbb/
 - 🆕 2026-11-20 · Google News: public safety communications · 3 adults, 1 child displaced after Davenport house fire - WQAD · https://www.wqad.com/article/news/community/3-adults-1-child-displaced-after-davenport-house-fire/526-26dd5fe5-b023-4976-9e74-4e4ec03c9311
@@ -59,17 +63,14 @@ Last 48 hours. Each line: date · source · title · link. 🆕 = unread (first 
 - 🆕 2026-11-20 · Google News: GIS and remote sensing in emergencies · Department drafts floodplain zoning law to regulate riverbank development - The Times of India · https://timesofindia.indiatimes.com/city/ranchi/department-drafts-floodplain-zoning-law-to-regulate-riverbank-development/amp_articleshow/136029943.cms
 - 🆕 2026-11-20 · Google News: incident command and IMS · One person remains hospitalized one week after cruise ship crash in New Orleans - WDSU · https://www.wdsu.com/article/new-orleans-mississippi-river-cruise-ship-cleanup-continues/74467607
 - 🆕 2026-11-20 · Google News: NG9-1-1 and situational awareness · Analysis of Space Situational Awareness Market Segmentation Highlights Significant Growth Prospects Through 2030 - EIN Presswire · https://www.einpresswire.com/article/957935074/analysis-of-space-situational-awareness-market-segmentation-highlights-significant-growth-prospects-through-2030
-- 🆕 2026-11-20 · Google News: drones and RPAS in public safety · Opinion: Drones are shaping the future of emergency response in St. Louis - STLtoday.com · https://www.stltoday.com/opinion/column/article_9c43d598-cb28-42b0-bd51-e17080cc9934.html
-- 🆕 2026-11-20 · Google News: public safety communications · Valid8 Appoints H-TEST as Distribution Partner for Central and Eastern Europe - The Critical Communications Review · https://www.criticalcommunicationsreview.com/ccr/news/120432/valid8-appoints-h-test-as-distribution-partner-for-central-and-eastern-europe
-- 🆕 2026-11-20 · Google News: incident command and IMS · Photo of the Week: Pittsburgh EMS continuing education - EMS1 · https://www.ems1.com/photo-of-the-week/photo-of-the-week-pittsburgh-ems-continuing-education
 
 ## Agencies and research centres
+- 🆕 2026-11-20 · PreventionWeb · Economic losses associated with tropical cyclones in Mexico: a two-stage model · https://www.preventionweb.net/publication/documents-and-publications/economic-losses-associated-tropical-cyclones-mexico-two
+- 🆕 2026-11-20 · PreventionWeb · Counting the hidden costs of natural hazards: Understanding post-flood demand surge in the construction sector in New Zealand · https://www.preventionweb.net/publication/documents-and-publications/counting-hidden-costs-natural-hazards-understanding-post
+- 🆕 2026-11-20 · PreventionWeb · Temperature rising: a scoring tool to assess extreme heat preparedness in Canadian municipalities · https://www.preventionweb.net/publication/documents-and-publications/temperature-rising-scoring-tool-assess-extreme-heat
 - 🆕 2026-11-20 · GDACS orange and red alerts · Green earthquake (Magnitude 4.7M, Depth:10km) in Chile 20/11/2026 14:16 UTC, 60 thousand in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578399
 - 🆕 2026-11-20 · GDACS orange and red alerts · Green earthquake (Magnitude 5.1M, Depth:73.392km) in Philippines 20/11/2026 13:09 UTC, 1.7 million in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578380
 - 🆕 2026-11-20 · GDACS orange and red alerts · Green earthquake (Magnitude 4.6M, Depth:41.976km) in Greece 20/11/2026 10:16 UTC, 230 thousand in 100km. · http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578354
-- 🆕 2026-11-20 · PreventionWeb · Pathway towards a flood resilient Ulaanbaatar · https://www.preventionweb.net/publication/documents-and-publications/pathway-towards-flood-resilient-ulaanbaatar
-- 🆕 2026-11-19 · PreventionWeb · Survivors of Uganda's deadly landslide seek justice at the UN · https://www.preventionweb.net/news/survivors-ugandas-deadly-landslide-seek-justice-un
-- 🆕 2026-11-19 · PreventionWeb · Strengthening adaptive social protection in Bangladesh · https://www.preventionweb.net/publication/documents-and-publications/strengthening-adaptive-social-protection-bangladesh
 - 🆕 2026-11-19 · UL FSRI (via Google News) · Yakima County Fire District #7 - NERIS · https://neris.fsri.org/departments/FD53077145
 
 ## Blogs and newsletters

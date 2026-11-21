@@ -1,4 +1,4 @@
-# New papers · generated 2026-11-21 15:26 UTC
+# New papers · generated 2026-11-21 16:57 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-11-21 · IJDRR · Pathways of Flood Preparedness and Response Among Secondary School Students: A Comparative Study of Japan and the Philippines · https://www.sciencedirect.com/science/article/pii/S2212420926006023?dgcid=rss_sd_all — Publication date: Available online 20 November 2026 Source: International Journal of Disaster Risk Reduction Author(s): Hikari V. Yamamoto-Fukuda, Anh Cao, Kei 

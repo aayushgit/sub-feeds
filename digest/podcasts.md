@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-21 15:26 UTC
+# Podcast episodes · generated 2026-11-21 16:57 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-21 · Power & Politics (CBC) · 23 min · Weekly Wrap: Canada's new U.S. tariff reality? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-OFa29Kpo-20261121.mp3 — Canada-U.S. Trade Minister Dominic LeBlanc says Canada is working to get an 'interim deal' that brings significant tarif

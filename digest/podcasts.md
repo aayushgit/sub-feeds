@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-21 16:57 UTC
+# Podcast episodes · generated 2026-11-22 17:24 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-21 · Power & Politics (CBC) · 23 min · Weekly Wrap: Canada's new U.S. tariff reality? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-OFa29Kpo-20261121.mp3 — Canada-U.S. Trade Minister Dominic LeBlanc says Canada is working to get an 'interim deal' that brings significant tarif
@@ -11,4 +11,3 @@ Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · 
 - 2026-11-18 · Front Burner (CBC) · 31 min · The Cohere story part two: the hard questions · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-GskpcTgR-20261118.mp3 — This is the second of a two part series on Cohere. In part one, we looked at why Ottawa is betting $1.6 billion on the C
 - 2026-11-15 · The Climate Question (BBC) · 23 min · GTA6: Can gaming go green? · http://www.bbc.co.uk/programmes/w3ct99jh — Grand Theft Auto 6 is expected to be one of the biggest entertainment releases in history. It's another sign of the grow
 - 2026-11-12 · Better Every Shift (FireRescue1) · 38 min · De Sena: Do hard things — you’ll feel better · https://sidealpha.podbean.com/e/de-sena-do-hard-things-%e2%80%94-you-ll-feel-better/ — Do the hard thing first — and the rest of the day gets better from there. Spartan Raches founder Joe De Sena returns to 
-- 2026-11-08 · The Climate Question (BBC) · 23 min · Why does climate change hit women harder? · http://www.bbc.co.uk/programmes/w3ct99jf — Our changing climate affects all genders - with extreme weather events, heat, drought and flooding putting pressure on t

@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-23 19:19 UTC
+# Podcast episodes · generated 2026-11-23 21:41 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-23 · The Climate Question (BBC) · 27 min · COP collapses: What is the future for climate action? · http://www.bbc.co.uk/programmes/w3ct99k5 — The United Nations talks on climate change have collapsed for the first time in decades. So what are the chances of the 

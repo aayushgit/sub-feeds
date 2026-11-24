@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-24 18:57 UTC
+# Podcast episodes · generated 2026-11-24 20:21 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-24 · Front Burner (CBC) · 28 min · Can Canada build fast without breaking things? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-SgcK5Th5-20261123.mp3 — Bill C-39, the Building Canada Strong Act, is a behemoth: 243 pages containing 300-plus clauses that amend more than a d

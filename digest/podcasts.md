@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-25 18:01 UTC
+# Podcast episodes · generated 2026-11-25 19:36 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-25 · Better Every Shift (FireRescue1) · 38 min · Fire hose 101: Staffing, standards and flow · https://sidealpha.podbean.com/e/fire-hose-101-staffing-standards-and-flow/ — Fire hose has changed a lot since cotton jackets and hose lofts — and so have the crews pulling it. On this special fire

@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-26 17:47 UTC
+# Podcast episodes · generated 2026-11-26 19:17 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-26 · Front Burner (CBC) · 30 min · Supreme Court to rule on minority rights debate · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_FRONTBURNER_P/media/frontburner/frontburner-AV7f2qib-20261126.mp3 — On Friday, the Supreme Court will release a ruling on Quebec's secularism law, Bill 21. The law prohibits people in cert

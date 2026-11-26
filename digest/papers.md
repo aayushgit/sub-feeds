@@ -1,4 +1,4 @@
-# New papers · generated 2026-11-26 17:47 UTC
+# New papers · generated 2026-11-26 19:17 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-11-25 · Journal of Emergency Management · Rethinking the Future of Emergency Management · https://doi.org/10.5055/jem.1078 — Emergency management has long organized its work around identifiable events: a hurricane makes landfall, an earthquake strikes, a flood rises and recedes. Incid

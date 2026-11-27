@@ -1,4 +1,4 @@
-# New papers · generated 2026-11-27 17:30 UTC
+# New papers · generated 2026-11-27 19:11 UTC
 Research first seen in the last ~30 hours (journal feeds, Crossref, OpenAlex, arXiv, Semantic Scholar), most on-topic first. Each line: date · venue · title · link · open-access link if any — start of abstract.
 
 - 2026-11-27 · Disaster Medicine and Public Health Preparedness · Hospital Disaster Resilience Under Climate Test: Learnings From a Flooding Event Due to Heavy Rains in Metropolitan City of Delhi · https://doi.org/10.1017/dmp.2026.10498 — Abstract Introduction Extreme weather events expose hospitals to risks of disruption in the delivery of essential health care services. Insights into mitigation

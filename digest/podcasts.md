@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-27 17:30 UTC
+# Podcast episodes · generated 2026-11-27 19:11 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-27 · Power & Politics (CBC) · 14 min · Reporter Roundtable: Can the feds get Canadians on board with Alto? · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-nh4Hayh9-20261127.mp3 — The federal government faces major backlash for its proposed legislation that would give it sweeping land-seizure powers

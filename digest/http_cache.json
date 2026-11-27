@@ -1,11 +1,11 @@
 {
  "https://www.toronto.ca/news/feed/": {
-  "etag": "\"01fcb473dace8226a54f6b89d7ad35ad\"",
-  "modified": "Thu, 26 Nov 2026 19:01:35 GMT"
+  "etag": "\"d4981e3ec67097fe5ee3a25c481a1c08\"",
+  "modified": "Fri, 27 Nov 2026 16:40:41 GMT"
  },
  "https://news.ontario.ca/newsroom/en/rss/allnews.rss": {
-  "etag": "\"4f6ebb9f9ffd400e26056ef0ec189e9d\"",
-  "modified": "Thu, 26 Nov 2026 18:10:39 GMT"
+  "etag": "\"c1dc58bd8a1ce61c33adb3aaeb3fc23f\"",
+  "modified": "Fri, 27 Nov 2026 16:10:41 GMT"
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"6ec6-qQCv4X+IMnc588ZRU45QalEyCmc\""
@@ -14,7 +14,7 @@
   "etag": "W/\"631e-V8q9uQlTQZvFq50pPxBtrkWQV4w\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianradiotelevisionandtelecommunicationscommission&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
-  "etag": "W/\"5c1a-TSU934CCKDsIQMJ/IP//E3HynlY\""
+  "etag": "W/\"5b95-SEBu+Y9cpUn3m3SyALW//oR3uGw\""
  },
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=naturalresourcescanada&sort=publishedDate&orderBy=desc&pick=30&format=atom": {
   "etag": "W/\"66a1-7QysQ5SpeHzKzQxbOOeNpsMTprI\""
@@ -25,17 +25,17 @@
  "https://www.cbc.ca/webfeed/rss/rss-canada-toronto": {},
  "https://www.cbc.ca/webfeed/rss/rss-canada": {},
  "https://globalnews.ca/toronto/feed/": {
-  "etag": "W/\"44f04719fab9d0d5ae712392d32c239c\"",
-  "modified": "Thu, 26 Nov 2026 19:16:02 GMT"
+  "etag": "W/\"63af20eabeaa17d85f1fdf5669b38667\"",
+  "modified": "Fri, 27 Nov 2026 17:28:42 GMT"
  },
  "https://globalnews.ca/canada/feed/": {
-  "etag": "W/\"66107eed7a6144c40419d638c3509d17\"",
-  "modified": "Thu, 26 Nov 2026 19:17:48 GMT"
+  "etag": "W/\"63af20eabeaa17d85f1fdf5669b38667\"",
+  "modified": "Fri, 27 Nov 2026 17:28:42 GMT"
  },
  "https://news.google.com/rss/search?q=site:ctvnews.ca+toronto+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.thestar.com/search/?f=rss&t=article&c=news/gta*&l=50&s=start_time&sd=desc": {
-  "etag": "W/e2b82c3e200e46ee27cb89ba205e84f9",
-  "modified": "Thu, 26 Nov 2026 19:16:04 GMT"
+  "etag": "W/32a28ad1a9d527affe1d427280a4bd65",
+  "modified": "Fri, 27 Nov 2026 17:30:36 GMT"
  },
  "https://news.google.com/rss/search?q=%22Toronto+Fire%22+OR+%22Toronto+firefighters%22+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=lithium-ion+battery+fire+(Canada+OR+Ontario+OR+Toronto)+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
@@ -47,32 +47,32 @@
  "https://news.google.com/rss/search?q=(%22insured+losses%22+OR+%22flood+insurance%22+OR+%22catastrophe+losses%22+OR+%22Insurance+Bureau+of+Canada%22)+Canada+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:canadianunderwriter.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.artemis.bm/feed/": {
-  "etag": "W/\"454056e201414ec2f6a8e476d9dd2867\"",
-  "modified": "Thu, 26 Nov 2026 14:30:33 GMT"
+  "etag": "W/\"03d39bf73e52ec817313df48b0fd7326\"",
+  "modified": "Fri, 27 Nov 2026 15:30:46 GMT"
  },
  "https://www.nist.gov/news-events/news/rss.xml": {
-  "etag": "\"1795719662-gzip\"",
-  "modified": "Thu, 26 Nov 2026 19:01:02 GMT"
+  "etag": "\"1795800662-gzip\"",
+  "modified": "Fri, 27 Nov 2026 17:31:02 GMT"
  },
  "https://news.google.com/rss/search?q=site:fsri.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:nfpa.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:usfa.fema.gov+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.preventionweb.net/rss.xml": {
-  "etag": "\"1795708105-gzip\"",
-  "modified": "Thu, 26 Nov 2026 15:48:25 GMT"
+  "etag": "\"1795792377-gzip\"",
+  "modified": "Fri, 27 Nov 2026 15:12:57 GMT"
  },
  "https://news.google.com/rss/search?q=site:urgentcomm.com+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://rss.sciencedirect.com/publication/science/22124209": {
-  "etag": "W/\"7339fe85f712b7c97e8b6b42d55fccde\"",
-  "modified": "Thu, 26 Nov 2026 09:08:56 GMT"
+  "etag": "\"b20958fd8a53859fb380caffb2d127d6\"",
+  "modified": "Fri, 27 Nov 2026 09:08:50 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/03797112": {
-  "etag": "\"ed4c7bf64e7699075a910082a689f240\"",
-  "modified": "Thu, 26 Nov 2026 09:03:33 GMT"
+  "etag": "W/\"2f294c87929ac7f9f4313524d7c9c32f\"",
+  "modified": "Fri, 27 Nov 2026 09:03:24 GMT"
  },
  "https://rss.sciencedirect.com/publication/science/09257535": {
-  "etag": "\"c97df78401b97d387f81332aff459bc8\"",
-  "modified": "Thu, 26 Nov 2026 09:10:27 GMT"
+  "etag": "W/\"86c533bb5c8a53a71f2f0c0c3778c569\"",
+  "modified": "Fri, 27 Nov 2026 09:10:22 GMT"
  },
  "https://api.crossref.org/journals/0015-2684/works?sort=created&order=desc&rows=25": {},
  "https://api.crossref.org/journals/0921-030X/works?sort=created&order=desc&rows=40": {},
@@ -96,15 +96,15 @@
  "https://news.google.com/rss/search?q=site:iclr.org+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=site:redcross.ca+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.gdacs.org/xml/rss_24h.xml": {
-  "etag": "\"4c51dcb6da7ddd1:0\"",
-  "modified": "Thu, 26 Nov 2026 19:17:01 GMT"
+  "etag": "\"819718a947edd1:0\"",
+  "modified": "Fri, 27 Nov 2026 17:27:13 GMT"
  },
  "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D": {
-  "modified": "Thu, 26 Nov 2026 19:18:35 GMT"
+  "modified": "Fri, 27 Nov 2026 17:13:11 GMT"
  },
  "https://nhess.copernicus.org/xml/rss2_0.xml": {
-  "etag": "\"6cdb-66131c7e05359-gzip\"",
-  "modified": "Thu, 26 Nov 2026 18:04:54 GMT"
+  "etag": "\"6c0f-6613e3c81b5d6-gzip\"",
+  "modified": "Fri, 27 Nov 2026 08:56:31 GMT"
  },
  "https://api.crossref.org/journals/1547-7355/works?sort=created&order=desc&rows=25": {},
  "https://api.crossref.org/journals/0280-7270/works?sort=created&order=desc&rows=25": {},
@@ -127,10 +127,10 @@
  },
  "https://feeds.soundcloud.com/users/soundcloud:users:252268684/sounds.rss": {},
  "https://www.cbc.ca/podcasting/includes/frontburner.xml": {
-  "modified": "Thu, 26 Nov 2026 09:00:17 GMT"
+  "modified": "Fri, 27 Nov 2026 09:00:17 GMT"
  },
  "https://www.cbc.ca/podcasting/includes/cbcpowerandpolitics.xml": {
-  "modified": "Thu, 26 Nov 2026 07:02:09 GMT"
+  "modified": "Fri, 27 Nov 2026 17:23:01 GMT"
  },
  "https://rss.libsyn.com/shows/540792/destinations/4660057.xml": {
   "etag": "W/\"6725ba1dc01ede335509fdd2da1df075\"",
@@ -188,8 +188,8 @@
  "https://news.google.com/rss/search?q=%28%22Ottawa+Fire+Services%22+OR+%22Vancouver+Fire+Rescue%22+OR+%22Calgary+Fire+Department%22+OR+%22Edmonton+Fire+Rescue%22+OR+%22Mississauga+Fire%22+OR+%22Brampton+Fire%22+OR+%22Hamilton+Fire+Department%22+OR+%22Winnipeg+Fire+Paramedic%22+OR+%22Service+de+s%C3%A9curit%C3%A9+incendie+de+Montr%C3%A9al%22%29+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://news.google.com/rss/search?q=%28FDNY+OR+%22London+Fire+Brigade%22+OR+%22Los+Angeles+Fire+Department%22+OR+%22Chicago+Fire+Department%22+OR+%22Fire+and+Rescue+NSW%22+OR+%22Scottish+Fire+and+Rescue%22%29+when:7d&hl=en-CA&gl=CA&ceid=CA:en": {},
  "https://www.fireengineering.com/feed/": {
-  "etag": "W/\"9f11e75492c0de7a9af13ee36d886c9e\"",
-  "modified": "Thu, 26 Nov 2026 15:58:10 GMT"
+  "etag": "W/\"731cfe9df9c36c1f77442267b2aa0a8f\"",
+  "modified": "Fri, 27 Nov 2026 15:43:41 GMT"
  },
  "https://api.openalex.org/works?search=%22emergency%20management%22%20OR%20%22disaster%20management%22%20OR%20%22disaster%20response%22&filter=from_publication_date:2026-09-28,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%22fire%20service%22%20OR%20firefighter%20OR%20firefighters%20OR%20%22fire%20department%22&filter=from_publication_date:2026-09-28,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
@@ -375,8 +375,8 @@
   "modified": "Tue, 20 Oct 2026 20:14:53 GMT"
  },
  "https://recoverydiva.com/feed/": {
-  "etag": "W/\"3a6bafce19f154347a33ff458592b3a4\"",
-  "modified": "Sun, 22 Nov 2026 19:22:50 GMT"
+  "etag": "W/\"d331ffbb626045189c995ef053faeb5c\"",
+  "modified": "Fri, 27 Nov 2026 16:14:29 GMT"
  },
  "https://www.crhnet.ca/": {},
  "https://crhnet.ca/feed/": {
@@ -393,8 +393,8 @@
  "https://www.iafc.org/blog/feed/": {},
  "https://www.iafc.org/news/feed/": {},
  "https://www.cdnfirefighter.com/feed/": {
-  "etag": "\"b7f1ed27247107d46b7ebcb65d3cb620\"",
-  "modified": "Thu, 26 Nov 2026 14:15:15 GMT"
+  "etag": "\"7b36a2cb6383782477181396240c7fdf\"",
+  "modified": "Fri, 27 Nov 2026 12:33:14 GMT"
  },
  "https://resources.esri.ca/": {},
  "https://www.napsgfoundation.org/": {
@@ -590,7 +590,7 @@
  "https://api.openalex.org/works?search=%28%22machine%20learning%22%20OR%20%22deep%20learning%22%20OR%20%22large%20language%20model%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22emergency%20medical%20services%22%20OR%20%22fire%20service%22%20OR%20%22emergency%20management%22%20OR%20%22disaster%20response%22%20OR%20dispatch%29&filter=from_publication_date:2026-10-22,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%22incident%20command%22%20OR%20%22incident%20management%20system%22%20OR%20%22situational%20awareness%22%20AND%20emergency%20OR%20%22common%20operating%20picture%22&filter=from_publication_date:2026-10-22,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://www.newswire.ca/rss/news-releases-list.rss": {
-  "modified": "Thu, 26 Nov 2026 19:16:42 GMT"
+  "modified": "Fri, 27 Nov 2026 17:30:08 GMT"
  },
  "https://api.openalex.org/works?search=%22emergency%20management%22%20OR%20%22disaster%20management%22%20OR%20%22disaster%20response%22&filter=from_publication_date:2026-10-23,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%22fire%20service%22%20OR%20firefighter%20OR%20firefighters%20OR%20%22fire%20department%22&filter=from_publication_date:2026-10-23,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
@@ -858,16 +858,16 @@
  "https://api.openalex.org/works?search=%28GIS%20OR%20%22remote%20sensing%22%20OR%20UAV%20OR%20drone%29%20AND%20%28disaster%20OR%20emergency%20OR%20wildfire%20OR%20flood%29&filter=from_publication_date:2026-11-10,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%28%22machine%20learning%22%20OR%20%22deep%20learning%22%20OR%20%22large%20language%20model%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22emergency%20medical%20services%22%20OR%20%22fire%20service%22%20OR%20%22emergency%20management%22%20OR%20%22disaster%20response%22%20OR%20dispatch%29&filter=from_publication_date:2026-11-10,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://onlinelibrary.wiley.com/feed/14677717/most-recent": {
-  "modified": "Thu, 26 Nov 2026 08:31:33 GMT"
+  "modified": "Fri, 27 Nov 2026 08:37:21 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/15396924/most-recent": {
-  "modified": "Thu, 26 Nov 2026 08:55:08 GMT"
+  "modified": "Fri, 27 Nov 2026 09:01:10 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/14685973/most-recent": {
-  "modified": "Thu, 26 Nov 2026 08:38:12 GMT"
+  "modified": "Fri, 27 Nov 2026 08:44:34 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/19444079/most-recent": {
-  "modified": "Thu, 26 Nov 2026 09:19:10 GMT"
+  "modified": "Fri, 27 Nov 2026 09:31:25 GMT"
  },
  "https://api.openalex.org/works?search=%22emergency%20management%22%20OR%20%22disaster%20management%22%20OR%20%22disaster%20response%22&filter=from_publication_date:2026-11-11,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%22fire%20service%22%20OR%20firefighter%20OR%20firefighters%20OR%20%22fire%20department%22&filter=from_publication_date:2026-11-11,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
@@ -881,10 +881,10 @@
  "https://api.openalex.org/works?search=%22disaster%20risk%20governance%22%20OR%20%22emergency%20management%20policy%22%20OR%20%22public%20safety%22%20AND%20governance&filter=from_publication_date:2026-11-11,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=%22emergency%20management%22%20%7C%20%22disaster%20response%22%20%7C%20%22fire%20service%22%20%7C%20%22disaster%20risk%22&fields=title,url,externalIds,publicationDate,venue,abstract,openAccessPdf&publicationDateOrYear=2026-11-11:&sort=publicationDate:desc": {},
  "https://onlinelibrary.wiley.com/feed/17547121/most-recent": {
-  "modified": "Thu, 26 Nov 2026 09:11:31 GMT"
+  "modified": "Fri, 27 Nov 2026 09:21:50 GMT"
  },
  "https://onlinelibrary.wiley.com/feed/15406210/most-recent": {
-  "modified": "Thu, 26 Nov 2026 08:55:30 GMT"
+  "modified": "Fri, 27 Nov 2026 09:01:41 GMT"
  },
  "https://api.openalex.org/works?search=%28GIS%20OR%20%22remote%20sensing%22%20OR%20UAV%20OR%20drone%29%20AND%20%28disaster%20OR%20emergency%20OR%20wildfire%20OR%20flood%29&filter=from_publication_date:2026-11-11,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%28%22machine%20learning%22%20OR%20%22deep%20learning%22%20OR%20%22large%20language%20model%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22emergency%20medical%20services%22%20OR%20%22fire%20service%22%20OR%20%22emergency%20management%22%20OR%20%22disaster%20response%22%20OR%20dispatch%29&filter=from_publication_date:2026-11-11,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
@@ -959,7 +959,21 @@
  "https://api.openalex.org/works?search=%28%22machine%20learning%22%20OR%20%22deep%20learning%22%20OR%20%22large%20language%20model%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22emergency%20medical%20services%22%20OR%20%22fire%20service%22%20OR%20%22emergency%20management%22%20OR%20%22disaster%20response%22%20OR%20dispatch%29&filter=from_publication_date:2026-11-16,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://api.openalex.org/works?search=%22incident%20command%22%20OR%20%22incident%20management%20system%22%20OR%20%22situational%20awareness%22%20AND%20emergency%20OR%20%22common%20operating%20picture%22&filter=from_publication_date:2026-11-16,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
  "https://www.firefightingincanada.com/feed/": {
-  "etag": "\"8ce87ba5bc505b93e6f93f4ff90c8f47\"",
-  "modified": "Wed, 25 Nov 2026 20:47:04 GMT"
- }
+  "etag": "\"849854fbd77e89a4bced832edc97c6e6\"",
+  "modified": "Fri, 27 Nov 2026 15:41:28 GMT"
+ },
+ "https://api.openalex.org/works?search=%22emergency%20management%22%20OR%20%22disaster%20management%22%20OR%20%22disaster%20response%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22fire%20service%22%20OR%20firefighter%20OR%20firefighters%20OR%20%22fire%20department%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22wildfire%20evacuation%22%20OR%20%22wildland-urban%20interface%22%20OR%20%22evacuation%20planning%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22lithium-ion%22%20AND%20%28%22thermal%20runaway%22%20OR%20fire%29&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22emergency%20call%22%20OR%20%22public%20safety%20answering%20point%22%20OR%20%22emergency%20communication%22%20OR%20%22next%20generation%20911%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22urban%20search%20and%20rescue%22%20OR%20%22collapsed%20building%22%20OR%20%22search%20and%20rescue%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22flood%20insurance%22%20OR%20%22catastrophe%20bond%22%20OR%20%22disaster%20finance%22%20OR%20%22insured%20losses%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22community%20resilience%22%20OR%20%22social%20vulnerability%22%20OR%20%22disaster%20recovery%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22early%20warning%22%20OR%20%22public%20alerting%22%20OR%20%22risk%20communication%22%20OR%20%22emergency%20alert%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22disaster%20risk%20governance%22%20OR%20%22emergency%20management%20policy%22%20OR%20%22public%20safety%22%20AND%20governance&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=%22emergency%20management%22%20%7C%20%22disaster%20response%22%20%7C%20%22fire%20service%22%20%7C%20%22disaster%20risk%22&fields=title,url,externalIds,publicationDate,venue,abstract,openAccessPdf&publicationDateOrYear=2026-11-17:&sort=publicationDate:desc": {},
+ "https://api.openalex.org/works?search=%28GIS%20OR%20%22remote%20sensing%22%20OR%20UAV%20OR%20drone%29%20AND%20%28disaster%20OR%20emergency%20OR%20wildfire%20OR%20flood%29&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%28%22machine%20learning%22%20OR%20%22deep%20learning%22%20OR%20%22large%20language%20model%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22emergency%20medical%20services%22%20OR%20%22fire%20service%22%20OR%20%22emergency%20management%22%20OR%20%22disaster%20response%22%20OR%20dispatch%29&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {},
+ "https://api.openalex.org/works?search=%22incident%20command%22%20OR%20%22incident%20management%20system%22%20OR%20%22situational%20awareness%22%20AND%20emergency%20OR%20%22common%20operating%20picture%22&filter=from_publication_date:2026-11-17,type:article,primary_location.source.type:journal&sort=publication_date:desc&per-page=25": {}
 }

@@ -1,4 +1,4 @@
-# Podcast episodes · generated 2026-11-28 16:15 UTC
+# Podcast episodes · generated 2026-11-28 17:49 UTC
 Aayush's Apple Podcasts subscriptions, last 14 days. Each line: date · show · length · episode · link — short description.
 
 - 2026-11-28 · Power & Politics (CBC) · 22 min · Weekly Wrap: Supreme Court upholds Quebec's Bill 21 · https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CBCPOWERANDPOLITICS_P/media/cbcpowerandpolitics/cbcpowerandpolitics-IKRWa0tp-20261128.mp3 — The Supreme Court of Canada has largely upheld Quebec’s secularism law, Bill 21, in a landmark constitutional decision. 
